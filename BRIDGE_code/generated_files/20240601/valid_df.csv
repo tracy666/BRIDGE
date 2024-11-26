@@ -1,0 +1,17 @@
+patient_dir,patient_dir_numerical,organ_type,organ_type_numerical
+5_locations_lung/WSA_LngSP10972075,12,lung,6
+10xGenomics/10xGenomics018,15,prostate,10
+10xGenomics/10xGenomics006,18,ovary,9
+10xGenomics/10xGenomics046_Post-Xenium_Replicate_2,21,small_and_large_intestine,12
+10xGenomics/10xGenomics019,28,breast,1
+10xGenomics/10xGenomics039,31,breast,1
+Human_cell_atlas/Human_cell_atlas001/6332STDY10289520,123,lung,6
+Mendeley_data/Mendeley_data001/Patient_1_Visium_H2_5,154,prostate,10
+Mendeley_data/Mendeley_data002/V19T26-028_A1,175,small_and_large_intestine,12
+Mendeley_data/Mendeley_data003/V10F24-015_A1,182,skin,11
+NCBI/NCBI001/AH4199551,183,nose,8
+NCBI/NCBI004/pt16,199,brain,0
+NCBI/NCBI004/pt19,200,brain,0
+NCBI/NCBI008/JBO014,223,liver,5
+Zenodo/Zenodo002/ACH0016,299,heart,3
+Zenodo/Zenodo002/10X0018,316,heart,3

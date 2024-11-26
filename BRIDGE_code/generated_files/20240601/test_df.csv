@@ -1,0 +1,9 @@
+patient_dir,patient_dir_numerical,organ_type,organ_type_numerical
+HER2ST/A1,87,breast,1
+HER2ST/E1,89,breast,1
+HER2ST/G2,91,breast,1
+HER2ST/H1,92,breast,1
+HER2ST/C1,99,breast,1
+HER2ST/F1,110,breast,1
+HER2ST/D1,112,breast,1
+HER2ST/B1,116,breast,1
