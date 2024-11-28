@@ -20,49 +20,9 @@ To install Python dependencies:
 ```bash
 conda install --file requirements.txt
 ```
-## BRIDGE Walkthrough
 
-## Using the Pretrained BRIDGE
-You can use the BRIDGE model out-of-the-box, and use it to plug-and-play into any of your downstream tasks (example below).
-
-```python
-from BRIDGE_code.models.BRIDGE_model import BRIDGEModel
-from sklearn.neighbors import KDTree
-
-sample_pretrained_weights_path = ".../weight.ckpt" # Please modify the path for the pretrained weights here
-sample_patch_image_path = ".../13x15.jpg" # Please modify the path for the query patch image here
-sample_gene_expression_pool_path = ".../gene_pool.pt" # Please modify the path for the sample gene counts here
-
-pretrained_BRIDGE_model = BRIDGEModel.load_from_checkpoint(
-    sample_pretrained_weights_path,
-    strict=False,
-)
-pretrained_BRIDGE_model.eval()
-
-# For prediction
-patch_image = Image.open(sample_patch_image_path)
-patch_feature = pretrained_BRIDGE_model.image_encoder(patch_image)
-predicted_gene_expression = pretrained_BRIDGE_model.image_to_gene_decoder(patch_feature)
-
-# For retrieval
-retrieval_size = 256 # the k value for finding the k matching pairs with the highest similarity
-
-patch_image = Image.open(sample_patch_image_path)
-patch_feature = pretrained_BRIDGE_model.image_encoder(patch_image)
-patch_embedding = pretrained_BRIDGE_model.image_encoder.forward_head(patch_feature)
-patch_embedding = F.normalize(patch_embedding, p=2, dim=1)
-
-gene_expression = torch.load(sample_gene_expression_pool_path)
-gene_feature = pretrained_BRIDGE_model.gene_encoder(gene_expression)
-gene_embedding = pretrained_BRIDGE_model.gene_encoder.forward_head(gene_feature)
-gene_embedding = F.normalize(gene_embedding, p=2, dim=1)
-# We utilize KDTree to get the similarity weights
-kdtree = KDTree(gene_embedding)
-distance, indices = kdtree.query(patch_embedding, k=retrieval_size)
-```
-
-## Downloading BIG-600K
-We uploaded all our preprocessed data to Mendeley Data. Due to the space limitation of the platform, we separate the dataset into several parts and zipped the files. After downloading all the zipped folders, you could use the code to unzip them and organize them in the following directories:
+## Downloading BIG-600K and data utilized in this study
+We uploaded all our self-curated BIG-600K preprocessed data to Mendeley Data. Due to the space limitation of the platform, we separate the dataset into several parts and zipped the files. After downloading all the zipped folders, you could use the code to unzip them and organize them in the following directories:
 ```python
 import zipfile
 
@@ -248,3 +208,73 @@ To download the single-cell datasets for retrieval, you could use the following 
     ```bash
     wget https://datasets.cellxgene.cziscience.com/4b53ea1c-8f2d-44fe-ab20-6416d6e9c212.h5ad
     ```
+
+
+
+
+
+## BRIDGE Walkthrough
+
+## Summary of Using the Pretrained BRIDGE for direct gene prediction
+We first provide a sample script showing how to directly apply the pretrained BRIDGE for gene prediction on new unseen patches (assume the WSIs are already cropped).
+
+```python
+from BRIDGE_code.models.BRIDGE_model import BRIDGEModel
+from sklearn.neighbors import KDTree
+import scipy
+
+sample_pretrained_weights_path = ".../weight.ckpt" # Please modify the path for the pretrained weights here
+sample_patch_image_path = ".../13x15.jpg" # Please modify the path for the query patch image here
+sample_gene_expression_pool_path = ".../gene_pool.pt" # Please modify the path for the sample retrieval reference pool here
+
+pretrained_BRIDGE_model = BRIDGEModel.load_from_checkpoint(
+    sample_pretrained_weights_path,
+    strict=False,
+)
+pretrained_BRIDGE_model.eval()
+
+# For prediction
+patch_image = Image.open(sample_patch_image_path)
+patch_feature = pretrained_BRIDGE_model.image_encoder(patch_image)
+predicted_gene_expression = pretrained_BRIDGE_model.image_to_gene_decoder(patch_feature)
+
+# For retrieval
+retrieval_size = 256 # the k value for finding the k matching pairs with the highest similarity
+
+patch_image = Image.open(sample_patch_image_path)
+patch_feature = pretrained_BRIDGE_model.image_encoder(patch_image)
+patch_embedding = pretrained_BRIDGE_model.image_encoder.forward_head(patch_feature)
+patch_embedding = F.normalize(patch_embedding, p=2, dim=1)
+
+gene_expression = torch.load(sample_gene_expression_pool_path)
+gene_feature = pretrained_BRIDGE_model.gene_encoder(gene_expression)
+gene_embedding = pretrained_BRIDGE_model.gene_encoder.forward_head(gene_feature)
+gene_embedding = F.normalize(gene_embedding, p=2, dim=1)
+# We utilize KDTree to get the similarity weights
+kdtree = KDTree(gene_embedding)
+distance, index = kdtree.query(patch_embedding, k=retrieval_size)
+retrieved_expressions = gene_expression[index]
+predicted_gene_expression = (scipy.special.softmax(1 - distance).reshape(-1, 1) * retrieved_expressions).sum(axis=0)
+```
+
+## Training BRIDGE from scratch using BIG-600K or self-defined data
+To follow the training procedure we employed in this work, you can simply run
+```bash
+# multi-organ BRIDGE
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected all
+
+# single-organ BRIDGE(s)
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected brain
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected breast
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected heart
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected liver
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected lung
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected nose
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected ovary
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected prostate
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected skin
+python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected small_and_large_intestine
+```
+to get the checkpoints we used for downstream tasks. You can train `BLEEP`, `DeepSpaCE`, `ST-Net` in a highly similar manner.
+
+Additionally, BRIDGE is a flexible framework that can incorporate a variety of choices for encoders and decoders that are implemented in `BRIDGE_code/backbones/encoders.py`. If you prefer specific model, you could enrich `ImageEncoder` and `GeneEncoder` in the file.
