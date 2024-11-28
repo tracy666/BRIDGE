@@ -63,6 +63,7 @@ We uploaded all our preprocessed data to Mendeley Data (Link will be updated lat
 <summary>
 Example Directory
 </summary>
+
 ```bash
 ROOT_DATA_DIR/
     └──BIG_600K/
