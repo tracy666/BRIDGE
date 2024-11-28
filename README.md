@@ -76,5 +76,31 @@ ROOT_DATA_DIR/
                     └── coordinate_mapping.jpg
             └── WSA_LngSP8759312/
             └── .../
+        └── 10xGenomics/
+            └── 10xGenomics001/
+                └── preprocessed_data/
+                    ├── ...
+            └── 10xGenomics002/
+            └── .../
+        └── BLEEP/
+            └── GSM7697868/
+                └── preprocessed_data/
+                    ├── ...
+            └── GSM7697869/
+            └── .../
+        └── DRYAD/
+            └── DRYAD001/
+                └── #UKF242_T_ST/
+                    └── preprocessed_data/
+                        ├── ...
+                └── #UKF243_T_ST/
+                └── .../
+        └── HER2ST/
+            └── A1/
+                └── preprocessed_data/
+                    ├── ...
+            └── A2/
+            └── .../
+        └── Human_cell_atlas/
 ```
 </details>
