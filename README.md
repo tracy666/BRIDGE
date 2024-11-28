@@ -278,3 +278,52 @@ python BRIDGE_code/runs/BRIDGE_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_device
 to get the checkpoints we used for downstream tasks. You can train `BLEEP`, `DeepSpaCE`, `ST-Net` in a highly similar manner.
 
 Additionally, BRIDGE is a flexible framework that can incorporate a variety of choices for encoders and decoders that are implemented in `BRIDGE_code/backbones/encoders.py`. If you prefer specific model, you could enrich `ImageEncoder` and `GeneEncoder` in the file.
+
+To use self-defined dataset to train BRIDGE, you could modify files `BRIDGE_code/dataset/image_gene_dataset.py` and `BRIDGE_code/dataset/image_gene_data_module.py` and then conduct training with the above commands.
+
+## Gene prediction with BRIDGE
+Run `BRIDGE_code/downstream_tasks/Part1_Prediction/1_1_direct_prediction_without_finetune/BRIDGE/step0_BRIDGE_direct_prediction.py` with modified paths to the checkpoints can generate a logger recording the numerical results. The predicted gene expression for the slide and gene-PCC dictionary will also be saved for further analysis.
+
+Similarly, to access the performance of `DeepSpaCE` and `ST-Net`, you can run `BRIDGE_code/downstream_tasks/Part1_Prediction/1_1_direct_prediction_without_finetune/DeepSpaCE/step0_DeepSpaCE_direct_prediction.py` and `BRIDGE_code/downstream_tasks/Part1_Prediction/1_1_direct_prediction_without_finetune/STNet/step0_STNet_direct_prediction.py` accordingly.
+
+## Gene retrieval with BRIDGE
+We first save the extracted image and gene embedding as `pt` files so that we can conduct retrieval process smoothly and speedily later. The saving process is implemented in `BRIDGE_code/downstream_tasks/Part2_Retrieval/2_0_save_single_cell_dataset_embedding/BRIDGE/step0_save_BRIDGE_sc_embedding.py` and `BRIDGE_code/downstream_tasks/Part2_Retrieval/2_0_save_whole_st_training_data_embedding/BRIDGE/step0_save_BRIDGE_st_embedding.py`.
+
+After the extraction, we design a two-stage retrieval procedure: (1) save the similarity distance and the retrieved indices; (2) get the retrieved gene expression. This design could greatly save time compared with a single file conducting two steps at the same time. For example, if you want to know the performance of multi-organ BRIDGE with multi-organ mixed-patient ST-seq Pool, run `BRIDGE_code/downstream_tasks/Part2_Retrieval/2_1_retrieval_from_whole_st_training_data/multi_organ_from_multi_st/BRIDGE/step0_BRIDGE_select_similar_indexes.py` first, and then run `BRIDGE_code/downstream_tasks/Part2_Retrieval/2_1_retrieval_from_whole_st_training_data/multi_organ_from_multi_st/BRIDGE/step1_BRIDGE_save_prediction_and_pcc.py`. Similar to prediction, we generate logger file, retrieval results, and gene-PCC dictionary for other downstream analysis.
+
+## Cell clustering with BRIDGE
+You can run `BRIDGE_code/downstream_tasks/Part3_Cell_clustering/BRIDGE_HER2ST_image_feature.py` to get the logger containing metrics performance (ARI, FMI, etc.) and the cluster assignment. Since we are adopting K-Means algorithm, the generated assignment is not order. To align the result with ground truth, you could use the following code snippet
+```python
+from itertools import permutations
+import numpy as np
+
+def generate_permutations_no_repeats(numbers):
+    perm_list = list(permutations(numbers))
+    result = [list(perm) for perm in perm_list]
+    return result
+
+def create_dictionary_from_lists(list1, list2):
+    result_dict = {key: value for key, value in zip(list1, list2)}
+    return result_dict
+
+ground_truth_cluster_npy_path = "" # where the ground truth label is stored
+prediction_cluster_npy_path = "" # where our predicted label is stored
+ground_truth = np.load(ground_truth_cluster_npy_path, allow_pickle=True)
+prediction = np.load(prediction_cluster_npy_path, allow_pickle=True)
+
+labels = [0,1,2,3,4,5,6] # Subject to change. For the breast cancer slide we utilized here, the spots are categorized into seven labels.
+permutations = generate_permutations_no_repeats(labels)
+
+total_list_of_dictionary = []
+for permutation in permutations:
+    mapping_dict = create_dictionary_from_lists(labels, permutation)
+    total_list_of_dictionary.append(mapping_dict)
+
+for mapping in total_list_of_dictionary:
+    mapped_prediction = apply_mapping(mapping, ground_truth, prediction)
+    accuracy = calculate_accuracy(ground_truth, mapped_prediction)
+    if accuracy > highest_accuracy:
+        highest_accuracy = accuracy
+        best_mapping = mapping
+```
+to get the best alignment mapping.
