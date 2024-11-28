@@ -215,6 +215,9 @@ To download the single-cell datasets for retrieval, you could use the following 
 
 ## BRIDGE Walkthrough
 
+## BRIDGE checkpoints
+You can download all the cehckpoints through shared Google Drive folder [checkpoint folder](https://drive.google.com/drive/folders/1OIilkWFCcZjAdkcyJHAVaQfhTAC7_5jo?usp=sharing).
+
 ## Summary of Using the Pretrained BRIDGE for direct gene prediction
 We first provide a sample script showing how to directly apply the pretrained BRIDGE for gene prediction on new unseen patches (assume the WSIs are already cropped).
 
