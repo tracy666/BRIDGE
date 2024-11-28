@@ -56,3 +56,23 @@ gene_embedding = F.normalize(gene_embedding, p=2, dim=1)
 kdtree = KDTree(gene_embedding)
 distance, indices = kdtree.query(patch_embedding, k=retrieval_size)
 ```
+
+## Downloading + Preprocessing BIG-600K
+We uploaded all our preprocessed data to Mendeley Data (Link will be updated later). Due to the space limitation of the platform, we separate the dataset into several parts and zipped the files. After downloading all the zipped folders, you could use the code to unzip them and organize them in the following directories:
+<details>
+<summary>
+Example Directory
+</summary>
+```bash
+ROOT_DATA_DIR/
+    └──BIG_600K/
+        └── 5_locations_lung/
+            └── WSA_LngSP8759311/
+                └── preprocessed_data/
+                    └── normed_patches/
+                    └── patches/
+                    └── stdata.h5ad
+                    └── coordinate_mapping.jpg
+            └── WSA_LngSP8759312/
+            └── .../
+```
