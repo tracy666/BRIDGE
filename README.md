@@ -5,6 +5,10 @@ Official code repository for "BRIDGE: A Cross-organ Foundation Model for Bridgin
   <img width="100%" alt="BIG-600K Data Distribution" src="https://github.com/tracy666/BRIDGE/blob/ef0a0cfb7c5a1cb7464b986376b3118600cb350e/BIG_600K.png">
 </div>
 
+## Updates / TODOs
+Please follow this GitHub for more updates.
+- [ ] Provide complete Mendeley links for downloading BIG-600K preprocessed data. (Uploading)
+
 ## Environment Installation
 
 To clone all files:
@@ -57,11 +61,20 @@ kdtree = KDTree(gene_embedding)
 distance, indices = kdtree.query(patch_embedding, k=retrieval_size)
 ```
 
-## Downloading + Preprocessing BIG-600K
-We uploaded all our preprocessed data to Mendeley Data (Link will be updated later). Due to the space limitation of the platform, we separate the dataset into several parts and zipped the files. After downloading all the zipped folders, you could use the code to unzip them and organize them in the following directories:
+## Downloading BIG-600K
+We uploaded all our preprocessed data to Mendeley Data. Due to the space limitation of the platform, we separate the dataset into several parts and zipped the files. After downloading all the zipped folders, you could use the code to unzip them and organize them in the following directories:
+```python
+import zipfile
+
+zip_data_file_path = "" # The path leading to the zip file
+unzipped_folder_path = "" # The path you want to save your unzipped folder
+
+with zipfile.ZipFile(zip_data_file_path, 'r') as zip_ref:
+    zip_ref.extractall(unzipped_folder_path)
+```
 <details>
 <summary>
-Example Directory
+Example Data Directory
 </summary>
 
 ```bash
@@ -193,3 +206,45 @@ ROOT_DATA_DIR/
                 └── .../
 ```
 </details>
+
+To download the single-cell datasets for retrieval, you could use the following commands to download them:
+1. Brain
+   ```bash
+   wget https://datasets.cellxgene.cziscience.com/99dae17b-f5d6-4ba8-a5ee-f1ffac6b4b87.h5ad
+   ```
+2. Breast
+   ```bash
+   wget https://ftp.ncbi.nlm.nih.gov/geo/series/GSE234nnn/GSE234814/suppl/GSE234814_RAW.tar
+   ```
+3. Heart
+   ```bash
+   wget https://datasets.cellxgene.cziscience.com/9a433dac-a8ec-431b-b2a1-db0d67abe2ed.h5ad
+   ```
+4. Liver
+   ```bash
+   wget https://datasets.cellxgene.cziscience.com/1f42a859-0064-4db0-82b2-633b4a69c558.h5ad
+   ```
+5. Lung
+   ```bash
+   wget "https://cellgeni.cog.sanger.ac.uk/5-locations-lung/lung_5loc_sc_sn_raw_counts_cellxgene.h5ad"
+   ```
+6. Nasopharynx
+   ```bash
+   wget https://datasets.cellxgene.cziscience.com/b53b3bcd-3485-4562-a543-e473dfef3b27.h5ad
+   ```
+7. Ovary
+   ```bash
+   wget https://datasets.cellxgene.cziscience.com/de2a800c-249f-4072-8454-cde3d6bfb5b4.h5ad
+   ```
+8. Prostate
+   ```bash
+   wget https://datasets.cellxgene.cziscience.com/8a967e24-2297-43e5-b8b5-905c021470a6.h5ad
+   ```
+9. Skin
+    ```bash
+    wget https://datasets.cellxgene.cziscience.com/44f41e41-89a1-4a99-b30a-ed7925476946.h5ad
+    ```
+10. Small and large intestine
+    ```bash
+    wget https://datasets.cellxgene.cziscience.com/4b53ea1c-8f2d-44fe-ab20-6416d6e9c212.h5ad
+    ```
