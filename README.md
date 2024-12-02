@@ -167,6 +167,9 @@ ROOT_DATA_DIR/
 ```
 </details>
 
+The links to download BIG-600K:
+1. Part 1: [BIG-600K Part 1](https://data.mendeley.com/datasets/fzzns2n7yg/1)
+
 To download the single-cell datasets for retrieval, you could use the following commands to download them:
 1. Brain
    ```bash
