@@ -168,7 +168,11 @@ ROOT_DATA_DIR/
 </details>
 
 The links to download BIG-600K:
-1. Part 1: [BIG-600K Part 1](https://data.mendeley.com/datasets/fzzns2n7yg/1)
+1. [BIG-600K (Part 1)](https://data.mendeley.com/datasets/fzzns2n7yg/1)
+2. [BIG-600K (Part 2)](https://data.mendeley.com/datasets/dww54yfmtt/1)
+3. [BIG-600K (Part 3)](https://data.mendeley.com/datasets/3w327r5br8/1)
+4. [BIG-600K (Part 4)](https://data.mendeley.com/datasets/z8xxgmw2rh/1)
+5. [BIG-600K (Part 5)](https://data.mendeley.com/datasets/f97r9vhpst/1)
 
 To download the single-cell datasets for retrieval, you could use the following commands to download them:
 1. Brain
@@ -219,7 +223,7 @@ To download the single-cell datasets for retrieval, you could use the following 
 ## BRIDGE Walkthrough
 
 ## BRIDGE checkpoints
-You can download all the cehckpoints through shared Google Drive folder [checkpoint folder](https://drive.google.com/drive/folders/1OIilkWFCcZjAdkcyJHAVaQfhTAC7_5jo?usp=sharing).
+You can download all the checkpoints through shared Google Drive folder [BRIDGE_checkpoints](https://drive.google.com/drive/folders/1OIilkWFCcZjAdkcyJHAVaQfhTAC7_5jo?usp=sharing).
 
 ## Summary of Using the Pretrained BRIDGE for direct gene prediction
 We first provide a sample script showing how to directly apply the pretrained BRIDGE for gene prediction on new unseen patches (assume the WSIs are already cropped).
@@ -333,3 +337,10 @@ for mapping in total_list_of_dictionary:
         best_mapping = mapping
 ```
 to get the best alignment mapping.
+
+## Survival Analysis with BRIDGE
+BRIDGE could perform survival analysis on external TCGA cohorts. Firstly, we extract patch-level visual features by image foundation models and generate spot-wise gene prediction by BRIDGE. The code is implemented in `BRIDGE_code/downstream_tasks/Part4_Survival_Analysis/step1_feature_extractor.py`, and we provide sample usage on TCGA-BLCA dataset in `BRIDGE_code/downstream_tasks/Part4_Survival_Analysis/step1_feature_extractor.sh`.
+
+Besides utilizing the spot-level gene predictions as the input for survival analysis, we may choose to create a slide-level view by taking the mean value of each gene as the pseudo bulk RNA-seq. The idea is implemented in `BRIDGE_code/downstream_tasks/Part4_Survival_Analysis/step2_generate_bulkrna_pred.py`.
+
+We then run `BRIDGE_code/downstream_tasks/Part4_Survival_Analysis/step3_survival.py` to train the survival model. Sample usages are listed in `BRIDGE_code/downstream_tasks/Part4_Survival_Analysis/step3_survival.sh` for different image models, BRIDGE gene predictions and ground truth bulk RNA-seq.
