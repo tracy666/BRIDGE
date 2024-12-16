@@ -7,7 +7,7 @@ Official code repository for "BRIDGE: A Cross-organ Foundation Model for Bridgin
 
 ## Updates / TODOs
 Please follow this GitHub for more updates.
-- [ ] Provide complete Mendeley links for downloading BIG-600K preprocessed data. (Uploading)
+- [✓] Provide complete Mendeley links for downloading BIG-600K preprocessed data
 
 ## Environment Installation
 
@@ -173,6 +173,9 @@ The links to download BIG-600K:
 3. [BIG-600K (Part 3)](https://data.mendeley.com/datasets/3w327r5br8/1)
 4. [BIG-600K (Part 4)](https://data.mendeley.com/datasets/z8xxgmw2rh/1)
 5. [BIG-600K (Part 5)](https://data.mendeley.com/datasets/f97r9vhpst/1)
+6. [BIG-600K (Part 6)](https://data.mendeley.com/datasets/vvk6sbztt8/1)
+7. [BIG-600K (Part 7)](https://data.mendeley.com/datasets/nzh9dv2dzd/1)
+8. [BIG-600K (Part 8)](https://data.mendeley.com/datasets/d3rdrh65ys/1)
 
 To download the single-cell datasets for retrieval, you could use the following commands to download them:
 1. Brain
