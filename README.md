@@ -5,10 +5,6 @@ Official code repository for "BRIDGE: A Cross-organ Foundation Model for Bridgin
   <img width="100%" alt="BIG-600K Data Distribution" src="https://github.com/tracy666/BRIDGE/blob/ef0a0cfb7c5a1cb7464b986376b3118600cb350e/BIG_600K.png">
 </div>
 
-## Updates / TODOs
-Please follow this GitHub for more updates.
-- [✓] Provide complete Mendeley links for downloading BIG-600K preprocessed data
-
 ## Environment Installation
 
 To clone all files:
