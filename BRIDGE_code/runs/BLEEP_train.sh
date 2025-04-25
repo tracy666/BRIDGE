@@ -1,0 +1,10 @@
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected lung
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected prostate
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected ovary
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected small_and_large_intestine
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected breast
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected skin
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected nasopharynx
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected brain
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected liver
+python BRIDGE/BRIDGE_code/runs/BLEEP_train.py --gpu_cards 0,1,2,3,4,5,6,7 --num_devices 8 --organ_selected heart
