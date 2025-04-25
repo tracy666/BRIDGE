@@ -1,0 +1,8 @@
+patient_dir,patient_dir_numerical,organ_type,organ_type_numerical
+5_locations_lung/WSA_LngSP10972075,12,lung,6
+10xGenomics/10xGenomics018,15,prostate,10
+10xGenomics/10xGenomics006,18,ovary,9
+10xGenomics/10xGenomics046_Post-Xenium_Replicate_2,21,small_and_large_intestine,12
+Mendeley_data/Mendeley_data003/V10F24-015_A1,182,skin,11
+NCBI/NCBI001/AH4199551,183,nose,8
+NCBI/NCBI008/JBO014,223,liver,5
