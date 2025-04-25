@@ -5,14 +5,14 @@ Official code repository for "BRIDGE: A Multi-organ Histo-ST Foundation Model fo
 
 <div align="center">
   <img width="100%" alt="Description of your image" src="https://github.com/tracy666/BRIDGE/blob/06c85e7ea8cce07f6343eb3dfc66745449936983/BRIDGE_figure/motivation.png">
-  <p><strong>Figure 1:</strong> Your caption describing the figure.</p>
+  <p><strong>Figure 1:</strong> Rationale for integrating histological imaging with spatial transcriptomics (ST) and overview of the BIG-600K dataset.</p>
 </div>
 
 ### The framework of BRIDGE
 
 <div align="center">
-  <img width="100%" alt="Description of your image" src="https://path/to/your/image.png">
-  <p><strong>Figure 1:</strong> Your caption describing the figure.</p>
+  <img width="100%" alt="Description of your image" src="https://github.com/tracy666/BRIDGE/blob/68c13cd61c26cc93ad905670d8f31d366f9de241/BRIDGE_figure/framework.png">
+  <p><strong>Figure 2:</strong> Overview of the BRIDGE framework.</p>
 </div>
 
 ## Environment Installation
