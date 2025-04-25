@@ -3,7 +3,17 @@ Official code repository for "BRIDGE: A Multi-organ Histo-ST Foundation Model fo
 
 ### Our motivation and curated dataset BIG-600K summary
 
+<div align="center">
+  <img width="100%" alt="Description of your image" src="[https://path/to/your/image.png](https://github.com/tracy666/BRIDGE/blob/06c85e7ea8cce07f6343eb3dfc66745449936983/BRIDGE_figure/motivation.png)">
+  <p><strong>Figure 1:</strong> Your caption describing the figure.</p>
+</div>
+
 ### The framework of BRIDGE
+
+<div align="center">
+  <img width="100%" alt="Description of your image" src="https://path/to/your/image.png">
+  <p><strong>Figure 1:</strong> Your caption describing the figure.</p>
+</div>
 
 ## Environment Installation
 
