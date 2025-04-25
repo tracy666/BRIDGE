@@ -1,6 +1,10 @@
 # BRIDGE
 Official code repository for "BRIDGE: A Multi-organ Histo-ST Foundation Model for Virtual Spatial Transcriptomics to Enhance Few-shot Cancer Diagnosis"
 
+### Our motivation and curated dataset BIG-600K summary
+
+### The framework of BRIDGE
+
 ## Environment Installation
 
 To clone all files:
