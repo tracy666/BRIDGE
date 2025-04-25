@@ -1,9 +1,5 @@
 # BRIDGE
-Official code repository for "BRIDGE: A Cross-organ Foundation Model for Bridging Histology Imaging and Spatial Transcriptomics"
-
-<div align="center">
-  <img width="100%" alt="BIG-600K Data Distribution" src="https://github.com/tracy666/BRIDGE/blob/ef0a0cfb7c5a1cb7464b986376b3118600cb350e/BIG_600K.png">
-</div>
+Official code repository for "BRIDGE: A Multi-organ Histo-ST Foundation Model for Virtual Spatial Transcriptomics to Enhance Few-shot Cancer Diagnosis"
 
 ## Environment Installation
 
@@ -214,10 +210,6 @@ To download the single-cell datasets for retrieval, you could use the following 
     ```bash
     wget https://datasets.cellxgene.cziscience.com/4b53ea1c-8f2d-44fe-ab20-6416d6e9c212.h5ad
     ```
-
-
-
-
 
 ## BRIDGE Walkthrough
 
