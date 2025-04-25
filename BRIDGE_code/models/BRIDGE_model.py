@@ -19,7 +19,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 current_workspace = os.path.dirname(current_dir)
 backbones_dir = os.path.join(current_workspace, "backbones")
 sys.path.append(backbones_dir)
-from encoders import ImageEncoder, GeneEncoder, Projection_Head, prepare_model
+from encoders import ImageEncoder, GeneEncoder, Projection_Head
 from lr_scheduler import linear_warmup_decay
 
 dataset_dir = os.path.join(current_workspace, "dataset")
