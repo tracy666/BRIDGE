@@ -1,0 +1,16 @@
+2025-04-29 17:31:46,377 - INFO - Biomarker genes setting is of 80 involved.
+2025-04-29 17:31:46,423 - INFO - multi-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/multi_organ/49.ckpt for 5_locations_lung/WSA_LngSP10972075 with lung
+2025-04-29 17:32:12,612 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, multi-organ BRIDGE biomarker gene performance: 0.6607518616746573
+2025-04-29 17:32:12,801 - INFO - multi-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/multi_organ/49.ckpt for 10xGenomics/10xGenomics018 with prostate
+2025-04-29 17:32:44,895 - INFO - For 10xGenomics/10xGenomics018 with prostate, multi-organ BRIDGE biomarker gene performance: 0.4030636026728246
+2025-04-29 17:32:45,201 - INFO - multi-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/multi_organ/49.ckpt for 10xGenomics/10xGenomics006 with ovary
+2025-04-29 17:33:22,714 - INFO - For 10xGenomics/10xGenomics006 with ovary, multi-organ BRIDGE biomarker gene performance: 0.42251534105152083
+2025-04-29 17:33:23,130 - INFO - multi-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/multi_organ/49.ckpt for 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine
+2025-04-29 17:34:02,126 - INFO - For 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine, multi-organ BRIDGE biomarker gene performance: 0.7150029551916214
+2025-04-29 17:34:02,850 - INFO - multi-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/multi_organ/49.ckpt for Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin
+2025-04-29 17:34:24,789 - INFO - For Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin, multi-organ BRIDGE biomarker gene performance: 0.32709710793573954
+2025-04-29 17:34:28,181 - INFO - multi-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/multi_organ/49.ckpt for NCBI/NCBI001/AH4199551 with nose
+2025-04-29 17:35:04,819 - INFO - For NCBI/NCBI001/AH4199551 with nose, multi-organ BRIDGE biomarker gene performance: 0.31586668076291347
+2025-04-29 17:35:04,917 - INFO - multi-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/multi_organ/49.ckpt for NCBI/NCBI008/JBO014 with liver
+2025-04-29 17:35:29,825 - INFO - For NCBI/NCBI008/JBO014 with liver, multi-organ BRIDGE biomarker gene performance: 0.4717618404049199
+2025-04-29 17:35:29,912 - INFO - For multi-organ BRIDGE under few_shot_setting, Average biomarker gene performance: 0.4737227699563138

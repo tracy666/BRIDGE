@@ -1,0 +1,1 @@
+python BRIDGE/BRIDGE_code/downstream_tasks/Part2_Retrieval/2_0_save_st_dataset_embedding/BLEEP/step0_save_BLEEP_st_embedding.py --gpu_cards 0

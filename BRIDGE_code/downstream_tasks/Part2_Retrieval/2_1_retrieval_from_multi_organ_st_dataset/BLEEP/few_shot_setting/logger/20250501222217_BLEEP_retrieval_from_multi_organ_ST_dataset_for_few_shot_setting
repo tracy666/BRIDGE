@@ -1,0 +1,9 @@
+2025-05-01 22:22:18,001 - INFO - Biomarker genes setting is of 80 involved.
+2025-05-01 22:24:33,210 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, BLEEP biomarker gene performance: 0.5453961976056891
+2025-05-01 22:26:48,110 - INFO - For 10xGenomics/10xGenomics018 with prostate, BLEEP biomarker gene performance: -0.08923185024174587
+2025-05-01 22:29:03,893 - INFO - For 10xGenomics/10xGenomics006 with ovary, BLEEP biomarker gene performance: -0.09440358813133523
+2025-05-01 22:31:58,929 - INFO - For 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine, BLEEP biomarker gene performance: 0.5850283736973501
+2025-05-01 22:33:28,158 - INFO - For Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin, BLEEP biomarker gene performance: 0.15788445266465542
+2025-05-01 22:34:19,837 - INFO - For NCBI/NCBI001/AH4199551 with nose, BLEEP biomarker gene performance: 0.04202956528081068
+2025-05-01 22:35:08,020 - INFO - For NCBI/NCBI008/JBO014 with liver, BLEEP biomarker gene performance: 0.29775314557580945
+2025-05-01 22:35:08,159 - INFO - For BLEEP under few_shot_setting, Average biomarker gene performance: 0.20635089949303337

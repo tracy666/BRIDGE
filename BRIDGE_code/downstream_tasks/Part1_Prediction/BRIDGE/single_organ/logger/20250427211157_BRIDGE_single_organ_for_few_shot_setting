@@ -1,0 +1,16 @@
+2025-04-27 21:11:57,477 - INFO - Biomarker genes setting is of 80 involved.
+2025-04-27 21:11:57,547 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_lung/19.ckpt for 5_locations_lung/WSA_LngSP10972075 with lung
+2025-04-27 21:12:19,921 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, single-organ BRIDGE biomarker gene performance: 0.6364807439779546
+2025-04-27 21:12:20,031 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_prostate/19.ckpt for 10xGenomics/10xGenomics018 with prostate
+2025-04-27 21:12:49,596 - INFO - For 10xGenomics/10xGenomics018 with prostate, single-organ BRIDGE biomarker gene performance: 0.3747397513544029
+2025-04-27 21:12:49,836 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_ovary/19.ckpt for 10xGenomics/10xGenomics006 with ovary
+2025-04-27 21:13:22,016 - INFO - For 10xGenomics/10xGenomics006 with ovary, single-organ BRIDGE biomarker gene performance: 0.363083116870994
+2025-04-27 21:13:22,280 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_small_and_large_intestine/19.ckpt for 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine
+2025-04-27 21:13:59,519 - INFO - For 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine, single-organ BRIDGE biomarker gene performance: 0.6978288564945455
+2025-04-27 21:13:59,867 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_skin/19.ckpt for Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin
+2025-04-27 21:14:19,376 - INFO - For Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin, single-organ BRIDGE biomarker gene performance: 0.3185169750206997
+2025-04-27 21:14:19,542 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_nose/19.ckpt for NCBI/NCBI001/AH4199551 with nose
+2025-04-27 21:14:52,674 - INFO - For NCBI/NCBI001/AH4199551 with nose, single-organ BRIDGE biomarker gene performance: 0.23461365156630615
+2025-04-27 21:14:52,790 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_liver/19.ckpt for NCBI/NCBI008/JBO014 with liver
+2025-04-27 21:15:17,100 - INFO - For NCBI/NCBI008/JBO014 with liver, single-organ BRIDGE biomarker gene performance: 0.4312001202414962
+2025-04-27 21:15:17,181 - INFO - For single-organ BRIDGE under few_shot_setting, Average biomarker gene performance: 0.43663760221805703

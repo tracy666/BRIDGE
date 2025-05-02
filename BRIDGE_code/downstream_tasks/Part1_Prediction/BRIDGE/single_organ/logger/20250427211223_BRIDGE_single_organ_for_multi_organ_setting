@@ -1,0 +1,34 @@
+2025-04-27 21:12:23,781 - INFO - Biomarker genes setting is of 80 involved.
+2025-04-27 21:12:23,783 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_lung/19.ckpt for 5_locations_lung/WSA_LngSP10972075 with lung
+2025-04-27 21:12:39,492 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, single-organ BRIDGE biomarker gene performance: 0.6364807439779546
+2025-04-27 21:12:39,621 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_prostate/19.ckpt for 10xGenomics/10xGenomics018 with prostate
+2025-04-27 21:12:57,134 - INFO - For 10xGenomics/10xGenomics018 with prostate, single-organ BRIDGE biomarker gene performance: 0.3747397513544029
+2025-04-27 21:12:57,389 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_ovary/19.ckpt for 10xGenomics/10xGenomics006 with ovary
+2025-04-27 21:13:22,182 - INFO - For 10xGenomics/10xGenomics006 with ovary, single-organ BRIDGE biomarker gene performance: 0.363083116870994
+2025-04-27 21:13:22,424 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_small_and_large_intestine/19.ckpt for 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine
+2025-04-27 21:13:59,974 - INFO - For 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine, single-organ BRIDGE biomarker gene performance: 0.6978288564945455
+2025-04-27 21:14:00,286 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_breast/19.ckpt for 10xGenomics/10xGenomics019 with breast
+2025-04-27 21:14:23,435 - INFO - For 10xGenomics/10xGenomics019 with breast, single-organ BRIDGE biomarker gene performance: 0.14099910933808904
+2025-04-27 21:14:23,574 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_breast/19.ckpt for 10xGenomics/10xGenomics039 with breast
+2025-04-27 21:14:54,654 - INFO - For 10xGenomics/10xGenomics039 with breast, single-organ BRIDGE biomarker gene performance: 0.4716754013319494
+2025-04-27 21:14:54,871 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_lung/19.ckpt for Human_cell_atlas/Human_cell_atlas001/6332STDY10289520 with lung
+2025-04-27 21:15:10,731 - INFO - For Human_cell_atlas/Human_cell_atlas001/6332STDY10289520 with lung, single-organ BRIDGE biomarker gene performance: 0.589769885730932
+2025-04-27 21:15:10,844 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_prostate/19.ckpt for Mendeley_data/Mendeley_data001/Patient_1_Visium_H2_5 with prostate
+2025-04-27 21:15:29,017 - INFO - For Mendeley_data/Mendeley_data001/Patient_1_Visium_H2_5 with prostate, single-organ BRIDGE biomarker gene performance: 0.28189530775359184
+2025-04-27 21:15:29,190 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_small_and_large_intestine/19.ckpt for Mendeley_data/Mendeley_data002/V19T26-028_A1 with small_and_large_intestine
+2025-04-27 21:15:46,455 - INFO - For Mendeley_data/Mendeley_data002/V19T26-028_A1 with small_and_large_intestine, single-organ BRIDGE biomarker gene performance: 0.6206495559289537
+2025-04-27 21:15:46,679 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_skin/19.ckpt for Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin
+2025-04-27 21:16:00,970 - INFO - For Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin, single-organ BRIDGE biomarker gene performance: 0.3185169750206997
+2025-04-27 21:16:01,124 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_nose/19.ckpt for NCBI/NCBI001/AH4199551 with nose
+2025-04-27 21:16:13,995 - INFO - For NCBI/NCBI001/AH4199551 with nose, single-organ BRIDGE biomarker gene performance: 0.23461365156630615
+2025-04-27 21:16:14,084 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_brain/19.ckpt for NCBI/NCBI004/pt16 with brain
+2025-04-27 21:16:33,395 - INFO - For NCBI/NCBI004/pt16 with brain, single-organ BRIDGE biomarker gene performance: 0.5209692880634215
+2025-04-27 21:16:33,493 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_brain/19.ckpt for NCBI/NCBI004/pt19 with brain
+2025-04-27 21:16:50,490 - INFO - For NCBI/NCBI004/pt19 with brain, single-organ BRIDGE biomarker gene performance: 0.3326852571676556
+2025-04-27 21:16:50,579 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_liver/19.ckpt for NCBI/NCBI008/JBO014 with liver
+2025-04-27 21:17:02,820 - INFO - For NCBI/NCBI008/JBO014 with liver, single-organ BRIDGE biomarker gene performance: 0.4312001202414962
+2025-04-27 21:17:02,911 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_heart/19.ckpt for Zenodo/Zenodo002/ACH0016 with heart
+2025-04-27 21:17:41,658 - INFO - For Zenodo/Zenodo002/ACH0016 with heart, single-organ BRIDGE biomarker gene performance: 0.27941436111303314
+2025-04-27 21:17:42,008 - INFO - single-organ checkpoint path: /data1/zliang/finalized_checkpoints/BRIDGE/single_organ/BRIDGE_heart/19.ckpt for Zenodo/Zenodo002/10X0018 with heart
+2025-04-27 21:18:08,861 - INFO - For Zenodo/Zenodo002/10X0018 with heart, single-organ BRIDGE biomarker gene performance: 0.47299131654033477
+2025-04-27 21:18:09,076 - INFO - For single-organ BRIDGE under multi_organ_setting, Average biomarker gene performance: 0.4229695436558975

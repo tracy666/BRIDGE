@@ -1,0 +1,18 @@
+2025-05-01 22:33:59,586 - INFO - Biomarker genes setting is of 80 involved.
+2025-05-01 22:35:14,486 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, BLEEP biomarker gene performance: 0.5383222793393065
+2025-05-01 22:36:48,335 - INFO - For 10xGenomics/10xGenomics018 with prostate, BLEEP biomarker gene performance: 0.24492814412367309
+2025-05-01 22:38:32,607 - INFO - For 10xGenomics/10xGenomics006 with ovary, BLEEP biomarker gene performance: 0.21086351923679952
+2025-05-01 22:41:10,346 - INFO - For 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine, BLEEP biomarker gene performance: 0.5785876085653892
+2025-05-01 22:42:18,012 - INFO - For 10xGenomics/10xGenomics019 with breast, BLEEP biomarker gene performance: 0.2211993434533502
+2025-05-01 22:43:53,975 - INFO - For 10xGenomics/10xGenomics039 with breast, BLEEP biomarker gene performance: 0.4298822508952789
+2025-05-01 22:44:49,528 - INFO - For Human_cell_atlas/Human_cell_atlas001/6332STDY10289520 with lung, BLEEP biomarker gene performance: 0.5330759028670172
+2025-05-01 22:46:09,710 - INFO - For Mendeley_data/Mendeley_data001/Patient_1_Visium_H2_5 with prostate, BLEEP biomarker gene performance: 0.2643255572447733
+2025-05-01 22:47:26,833 - INFO - For Mendeley_data/Mendeley_data002/V19T26-028_A1 with small_and_large_intestine, BLEEP biomarker gene performance: 0.4648362315268805
+2025-05-01 22:48:34,352 - INFO - For Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin, BLEEP biomarker gene performance: 0.1749143379929725
+2025-05-01 22:49:07,305 - INFO - For NCBI/NCBI001/AH4199551 with nose, BLEEP biomarker gene performance: -0.09722157962795262
+2025-05-01 22:49:52,992 - INFO - For NCBI/NCBI004/pt16 with brain, BLEEP biomarker gene performance: 0.4783604123648553
+2025-05-01 22:50:24,067 - INFO - For NCBI/NCBI004/pt19 with brain, BLEEP biomarker gene performance: 0.04695212384017293
+2025-05-01 22:50:56,461 - INFO - For NCBI/NCBI008/JBO014 with liver, BLEEP biomarker gene performance: 0.3396555648886535
+2025-05-01 22:52:29,129 - INFO - For Zenodo/Zenodo002/ACH0016 with heart, BLEEP biomarker gene performance: 0.13315909797425457
+2025-05-01 22:54:08,809 - INFO - For Zenodo/Zenodo002/10X0018 with heart, BLEEP biomarker gene performance: 0.387360408475127
+2025-05-01 22:54:09,408 - INFO - For BLEEP under multi_organ_setting, Average biomarker gene performance: 0.3093250751975345
