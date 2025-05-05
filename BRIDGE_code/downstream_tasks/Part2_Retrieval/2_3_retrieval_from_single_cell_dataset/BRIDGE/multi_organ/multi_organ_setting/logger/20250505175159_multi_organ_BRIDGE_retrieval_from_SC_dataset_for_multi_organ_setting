@@ -1,0 +1,4 @@
+2025-05-05 17:51:59,649 - INFO - Biomarker genes setting is of 80 involved.
+2025-05-05 17:58:46,351 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, multi-organ BRIDGE biomarker gene performance: 0.6476260029022795
+2025-05-05 18:06:49,954 - INFO - For 10xGenomics/10xGenomics018 with prostate, multi-organ BRIDGE biomarker gene performance: 0.29684526074152706
+2025-05-05 18:15:01,701 - INFO - For 10xGenomics/10xGenomics006 with ovary, multi-organ BRIDGE biomarker gene performance: 0.38983440267608954

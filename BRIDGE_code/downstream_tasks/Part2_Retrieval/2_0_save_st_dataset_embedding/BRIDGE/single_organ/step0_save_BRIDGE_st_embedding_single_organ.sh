@@ -1,0 +1,1 @@
+python BRIDGE/BRIDGE_code/downstream_tasks/Part2_Retrieval/2_0_save_st_dataset_embedding/BRIDGE/single_organ/step0_save_BRIDGE_st_embedding_single_organ.py --gpu_cards 0

@@ -1,0 +1,9 @@
+2025-05-01 22:19:04,668 - INFO - Biomarker genes setting is of 80 involved.
+2025-05-01 22:21:03,050 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, single-organ BRIDGE biomarker gene performance: 0.6294553794364246
+2025-05-01 22:23:28,864 - INFO - For 10xGenomics/10xGenomics018 with prostate, single-organ BRIDGE biomarker gene performance: -0.21355570957355646
+2025-05-01 22:25:33,177 - INFO - For 10xGenomics/10xGenomics006 with ovary, single-organ BRIDGE biomarker gene performance: 0.29396785100243494
+2025-05-01 22:28:02,846 - INFO - For 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine, single-organ BRIDGE biomarker gene performance: 0.6693781237733705
+2025-05-01 22:29:09,043 - INFO - For Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin, single-organ BRIDGE biomarker gene performance: 0.28022685543465853
+2025-05-01 22:29:43,153 - INFO - For NCBI/NCBI001/AH4199551 with nose, single-organ BRIDGE biomarker gene performance: 0.21948080402431094
+2025-05-01 22:30:18,875 - INFO - For NCBI/NCBI008/JBO014 with liver, single-organ BRIDGE biomarker gene performance: 0.4359423282958696
+2025-05-01 22:30:19,152 - INFO - For single-organ BRIDGE under few_shot_setting, Average biomarker gene performance: 0.3306993760562161

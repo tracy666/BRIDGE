@@ -1,0 +1,18 @@
+2025-05-01 20:38:18,052 - INFO - Biomarker genes setting is of 80 involved.
+2025-05-01 20:39:49,789 - INFO - For 5_locations_lung/WSA_LngSP10972075 with lung, multi-organ BRIDGE biomarker gene performance: 0.6507028008994041
+2025-05-01 20:41:47,880 - INFO - For 10xGenomics/10xGenomics018 with prostate, multi-organ BRIDGE biomarker gene performance: 0.3777390160542779
+2025-05-01 20:43:53,032 - INFO - For 10xGenomics/10xGenomics006 with ovary, multi-organ BRIDGE biomarker gene performance: 0.4056912386112851
+2025-05-01 20:46:26,133 - INFO - For 10xGenomics/10xGenomics046_Post-Xenium_Replicate_2 with small_and_large_intestine, multi-organ BRIDGE biomarker gene performance: 0.6994532215191194
+2025-05-01 20:47:34,533 - INFO - For 10xGenomics/10xGenomics019 with breast, multi-organ BRIDGE biomarker gene performance: 0.32986650831204933
+2025-05-01 20:49:04,564 - INFO - For 10xGenomics/10xGenomics039 with breast, multi-organ BRIDGE biomarker gene performance: 0.36857852677638886
+2025-05-01 20:50:01,006 - INFO - For Human_cell_atlas/Human_cell_atlas001/6332STDY10289520 with lung, multi-organ BRIDGE biomarker gene performance: 0.548643744535334
+2025-05-01 20:51:24,763 - INFO - For Mendeley_data/Mendeley_data001/Patient_1_Visium_H2_5 with prostate, multi-organ BRIDGE biomarker gene performance: 0.2519288646677946
+2025-05-01 20:52:52,345 - INFO - For Mendeley_data/Mendeley_data002/V19T26-028_A1 with small_and_large_intestine, multi-organ BRIDGE biomarker gene performance: 0.442896134511637
+2025-05-01 20:54:05,268 - INFO - For Mendeley_data/Mendeley_data003/V10F24-015_A1 with skin, multi-organ BRIDGE biomarker gene performance: 0.24211764972480454
+2025-05-01 20:54:49,906 - INFO - For NCBI/NCBI001/AH4199551 with nose, multi-organ BRIDGE biomarker gene performance: 0.22658796152100064
+2025-05-01 20:55:43,426 - INFO - For NCBI/NCBI004/pt16 with brain, multi-organ BRIDGE biomarker gene performance: 0.49863837364298486
+2025-05-01 20:56:20,990 - INFO - For NCBI/NCBI004/pt19 with brain, multi-organ BRIDGE biomarker gene performance: 0.2981204819941154
+2025-05-01 20:57:02,924 - INFO - For NCBI/NCBI008/JBO014 with liver, multi-organ BRIDGE biomarker gene performance: 0.23357000495302715
+2025-05-01 20:58:53,372 - INFO - For Zenodo/Zenodo002/ACH0016 with heart, multi-organ BRIDGE biomarker gene performance: 0.1821869515127227
+2025-05-01 21:00:43,091 - INFO - For Zenodo/Zenodo002/10X0018 with heart, multi-organ BRIDGE biomarker gene performance: 0.4744722345857352
+2025-05-01 21:00:43,468 - INFO - For multi-organ BRIDGE under multi_organ_setting, Average biomarker gene performance: 0.38944960711385507
