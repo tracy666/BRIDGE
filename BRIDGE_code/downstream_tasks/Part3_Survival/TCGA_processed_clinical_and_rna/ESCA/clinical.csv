@@ -1,0 +1,183 @@
+,Patient ID,Sample ID,Cancer Type Detailed,Oncotree Code,Overall Survival (Months),Overall Survival Status,Subtype,Tumor Type
+0,TCGA-2H-A9GF,TCGA-2H-A9GF-01,Esophageal Adenocarcinoma,ESCA,25.77506,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+1,TCGA-2H-A9GH,TCGA-2H-A9GH-01,Esophageal Adenocarcinoma,ESCA,31.26541079,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+2,TCGA-2H-A9GI,TCGA-2H-A9GI-01,Esophageal Adenocarcinoma,ESCA,14.30121314,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+3,TCGA-2H-A9GJ,TCGA-2H-A9GJ-01,Esophageal Adenocarcinoma,ESCA,58.55278298,1:DECEASED,,Esophagus Adenocarcinoma (NOS)
+4,TCGA-2H-A9GK,TCGA-2H-A9GK-01,Esophageal Adenocarcinoma,ESCA,7.627313673,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+5,TCGA-2H-A9GL,TCGA-2H-A9GL-01,Esophageal Adenocarcinoma,ESCA,5.917743367,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+6,TCGA-2H-A9GM,TCGA-2H-A9GM-01,Esophageal Adenocarcinoma,ESCA,13.93957327,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+7,TCGA-2H-A9GN,TCGA-2H-A9GN-01,Esophageal Adenocarcinoma,ESCA,8.942367755,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+8,TCGA-2H-A9GO,TCGA-2H-A9GO-01,Esophageal Adenocarcinoma,ESCA,16.24091791,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+9,TCGA-2H-A9GQ,TCGA-2H-A9GQ-01,Esophageal Adenocarcinoma,ESCA,4.208173061,1:DECEASED,,Esophagus Adenocarcinoma (NOS)
+10,TCGA-2H-A9GR,TCGA-2H-A9GR-01,Esophageal Adenocarcinoma,ESCA,32.44895946,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+11,TCGA-IC-A6RE,TCGA-IC-A6RE-01,Esophageal Adenocarcinoma,ESCA,7.693066377,0:LIVING,ESCA_POLE,Esophagus Adenocarcinoma (NOS)
+12,TCGA-IG-A3I8,TCGA-IG-A3I8-01,Esophageal Squamous Cell Carcinoma,ESCC,33.27086826,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+13,TCGA-IG-A3QL,TCGA-IG-A3QL-01,Esophageal Squamous Cell Carcinoma,ESCC,35.21057304,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+14,TCGA-IG-A3Y9,TCGA-IG-A3Y9-01,Esophageal Squamous Cell Carcinoma,ESCC,0.854785153,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+15,TCGA-IG-A3YA,TCGA-IG-A3YA-01,Esophageal Squamous Cell Carcinoma,ESCC,20.77785449,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+16,TCGA-IG-A3YB,TCGA-IG-A3YB-01,Esophageal Squamous Cell Carcinoma,ESCC,2.630108163,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+17,TCGA-IG-A3YC,TCGA-IG-A3YC-01,Esophageal Squamous Cell Carcinoma,ESCC,20.12032745,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+18,TCGA-IG-A4P3,TCGA-IG-A4P3-01,Esophageal Squamous Cell Carcinoma,ESCC,18.64089161,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+19,TCGA-IG-A4QS,TCGA-IG-A4QS-01,Esophageal Adenocarcinoma,ESCA,3.879409541,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+20,TCGA-IG-A4QT,TCGA-IG-A4QT-01,Esophageal Squamous Cell Carcinoma,ESCC,9.304007627,1:DECEASED,,Esophagus Squamous Cell Carcinoma
+21,TCGA-IG-A50L,TCGA-IG-A50L-01,Esophageal Squamous Cell Carcinoma,ESCC,0.526021633,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+22,TCGA-IG-A51D,TCGA-IG-A51D-01,Esophageal Squamous Cell Carcinoma,ESCC,17.02995036,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+23,TCGA-IG-A5B8,TCGA-IG-A5B8-01,Esophageal Squamous Cell Carcinoma,ESCC,0.789032449,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+24,TCGA-IG-A5S3,TCGA-IG-A5S3-01,Esophageal Squamous Cell Carcinoma,ESCC,23.40796265,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+25,TCGA-IG-A625,TCGA-IG-A625-01,Esophageal Squamous Cell Carcinoma,ESCC,12.8217773,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+26,TCGA-IG-A6QS,TCGA-IG-A6QS-01,Esophageal Squamous Cell Carcinoma,ESCC,9.961534668,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+27,TCGA-IG-A7DP,TCGA-IG-A7DP-01,Esophageal Adenocarcinoma,ESCA,14.86011112,0:LIVING,,Esophagus Adenocarcinoma (NOS)
+28,TCGA-IG-A8O2,TCGA-IG-A8O2-01,Esophageal Squamous Cell Carcinoma,ESCC,4.66844199,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+29,TCGA-IG-A97H,TCGA-IG-A97H-01,Esophageal Squamous Cell Carcinoma,ESCC,14.49847125,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+30,TCGA-IG-A97I,TCGA-IG-A97I-01,Esophageal Squamous Cell Carcinoma,ESCC,12.16425026,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+31,TCGA-JY-A6F8,TCGA-JY-A6F8-01,Esophageal Adenocarcinoma,ESCA,122.1027715,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+32,TCGA-JY-A6FA,TCGA-JY-A6FA-01,Esophageal Squamous Cell Carcinoma,ESCC,44.74471513,1:DECEASED,,Esophagus Squamous Cell Carcinoma
+33,TCGA-JY-A6FB,TCGA-JY-A6FB-01,Esophageal Adenocarcinoma,ESCA,60.3938587,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+34,TCGA-JY-A6FD,TCGA-JY-A6FD-01,Esophageal Squamous Cell Carcinoma,ESCC,68.02117237,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+35,TCGA-JY-A6FE,TCGA-JY-A6FE-01,Esophageal Squamous Cell Carcinoma,ESCC,3.682151429,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+36,TCGA-JY-A6FG,TCGA-JY-A6FG-01,Esophageal Squamous Cell Carcinoma,ESCC,41.52283263,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+37,TCGA-JY-A6FH,TCGA-JY-A6FH-01,Esophageal Adenocarcinoma,ESCA,47.37482329,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+38,TCGA-JY-A938,TCGA-JY-A938-01,Esophageal Adenocarcinoma,ESCA,34.84893316,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+39,TCGA-JY-A939,TCGA-JY-A939-01,Esophageal Adenocarcinoma,ESCA,21.69839235,0:LIVING,,Esophagus Adenocarcinoma (NOS)
+40,TCGA-JY-A93C,TCGA-JY-A93C-01,Esophageal Adenocarcinoma,ESCA,23.17782819,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+41,TCGA-JY-A93D,TCGA-JY-A93D-01,Esophageal Adenocarcinoma,ESCA,31.56129796,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+42,TCGA-JY-A93E,TCGA-JY-A93E-01,Esophageal Adenocarcinoma,ESCA,25.21616202,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+43,TCGA-JY-A93F,TCGA-JY-A93F-01,Esophageal Squamous Cell Carcinoma,ESCC,24.03261334,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+44,TCGA-KH-A6WC,TCGA-KH-A6WC-01,Esophageal Squamous Cell Carcinoma,ESCC,6.27938324,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+45,TCGA-L5-A43C,TCGA-L5-A43C-01,Esophageal Adenocarcinoma,ESCA,3.156129796,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+46,TCGA-L5-A43E,TCGA-L5-A43E-01,Esophageal Adenocarcinoma,ESCA,30.24624388,0:LIVING,,Esophagus Adenocarcinoma (NOS)
+47,TCGA-L5-A43H,TCGA-L5-A43H-01,Esophageal Squamous Cell Carcinoma,ESCC,0.295887168,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+48,TCGA-L5-A43I,TCGA-L5-A43I-01,Esophageal Adenocarcinoma,ESCA,18.27925173,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+49,TCGA-L5-A43J,TCGA-L5-A43J-01,Esophageal Squamous Cell Carcinoma,ESCC,4.306802117,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+50,TCGA-L5-A43M,TCGA-L5-A43M-01,Esophageal Adenocarcinoma,ESCA,8.942367755,0:LIVING,,Esophagus Adenocarcinoma (NOS)
+51,TCGA-L5-A4OE,TCGA-L5-A4OE-01,Esophageal Adenocarcinoma,ESCA,23.99973699,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+52,TCGA-L5-A4OF,TCGA-L5-A4OF-01,Esophageal Adenocarcinoma,ESCA,26.33395798,1:DECEASED,ESCA_GS,Esophagus Adenocarcinoma (NOS)
+53,TCGA-L5-A4OG,TCGA-L5-A4OG-01,Esophageal Adenocarcinoma,ESCA,4.701318342,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+54,TCGA-L5-A4OH,TCGA-L5-A4OH-01,Esophageal Adenocarcinoma,ESCA,32.61334122,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+55,TCGA-L5-A4OI,TCGA-L5-A4OI-01,Esophageal Adenocarcinoma,ESCA,19.98882204,0:LIVING,ESCA_MSI,Esophagus Adenocarcinoma (NOS)
+56,TCGA-L5-A4OJ,TCGA-L5-A4OJ-01,Esophageal Adenocarcinoma,ESCA,21.00798895,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+57,TCGA-L5-A4OM,TCGA-L5-A4OM-01,Esophageal Squamous Cell Carcinoma,ESCC,47.93372127,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+58,TCGA-L5-A4ON,TCGA-L5-A4ON-01,Esophageal Adenocarcinoma,ESCA,18.34500444,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+59,TCGA-L5-A4OO,TCGA-L5-A4OO-01,Esophageal Adenocarcinoma,ESCA,3.320511556,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+60,TCGA-L5-A4OP,TCGA-L5-A4OP-01,Esophageal Adenocarcinoma,ESCA,7.167044745,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+61,TCGA-L5-A4OQ,TCGA-L5-A4OQ-01,Esophageal Adenocarcinoma,ESCA,1.380806786,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+62,TCGA-L5-A4OR,TCGA-L5-A4OR-01,Esophageal Adenocarcinoma,ESCA,3.156129796,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+63,TCGA-L5-A4OS,TCGA-L5-A4OS-01,Esophageal Adenocarcinoma,ESCA,58.58565934,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+64,TCGA-L5-A4OT,TCGA-L5-A4OT-01,Esophageal Adenocarcinoma,ESCA,4.898576454,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+65,TCGA-L5-A4OU,TCGA-L5-A4OU-01,Esophageal Adenocarcinoma,ESCA,28.9969425,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+66,TCGA-L5-A4OW,TCGA-L5-A4OW-01,Esophageal Adenocarcinoma,ESCA,7.134168393,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+67,TCGA-L5-A4OX,TCGA-L5-A4OX-01,Esophageal Adenocarcinoma,ESCA,7.430055561,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+68,TCGA-L5-A88S,TCGA-L5-A88S-01,Esophageal Squamous Cell Carcinoma,ESCC,15.48476181,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+69,TCGA-L5-A88V,TCGA-L5-A88V-01,Esophageal Adenocarcinoma,ESCA,2.597231811,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+70,TCGA-L5-A88W,TCGA-L5-A88W-01,Esophageal Squamous Cell Carcinoma,ESCC,25.11753296,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+71,TCGA-L5-A88Y,TCGA-L5-A88Y-01,Esophageal Adenocarcinoma,ESCA,0.361639872,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+72,TCGA-L5-A88Z,TCGA-L5-A88Z-01,Esophageal Squamous Cell Carcinoma,ESCC,7.397179209,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+73,TCGA-L5-A891,TCGA-L5-A891-01,Esophageal Adenocarcinoma,ESCA,3.747904133,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+74,TCGA-L5-A893,TCGA-L5-A893-01,Esophageal Adenocarcinoma,ESCA,3.024624388,0:LIVING,,Esophagus Adenocarcinoma (NOS)
+75,TCGA-L5-A8NE,TCGA-L5-A8NE-01,Esophageal Adenocarcinoma,ESCA,55.49528224,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+76,TCGA-L5-A8NF,TCGA-L5-A8NF-01,Esophageal Adenocarcinoma,ESCA,2.662984515,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+77,TCGA-L5-A8NG,TCGA-L5-A8NG-01,Esophageal Adenocarcinoma,ESCA,35.96672913,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+78,TCGA-L5-A8NH,TCGA-L5-A8NH-01,Esophageal Adenocarcinoma,ESCA,12.92040635,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+79,TCGA-L5-A8NI,TCGA-L5-A8NI-01,Esophageal Adenocarcinoma,ESCA,13.47930434,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+80,TCGA-L5-A8NJ,TCGA-L5-A8NJ-01,Esophageal Adenocarcinoma,ESCA,16.47105237,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+81,TCGA-L5-A8NK,TCGA-L5-A8NK-01,Esophageal Squamous Cell Carcinoma,ESCC,13.54505704,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+82,TCGA-L5-A8NL,TCGA-L5-A8NL-01,Esophageal Adenocarcinoma,ESCA,13.21629352,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+83,TCGA-L5-A8NM,TCGA-L5-A8NM-01,Esophageal Adenocarcinoma,ESCA,7.758819081,1:DECEASED,ESCA_MSI,Esophagus Adenocarcinoma (NOS)
+84,TCGA-L5-A8NN,TCGA-L5-A8NN-01,Esophageal Adenocarcinoma,ESCA,5.490350791,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+85,TCGA-L5-A8NQ,TCGA-L5-A8NQ-01,Esophageal Squamous Cell Carcinoma,ESCC,21.36962883,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+86,TCGA-L5-A8NR,TCGA-L5-A8NR-01,Esophageal Adenocarcinoma,ESCA,8.712233291,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+87,TCGA-L5-A8NS,TCGA-L5-A8NS-01,Esophageal Adenocarcinoma,ESCA,13.41355163,0:LIVING,ESCA_POLE,Esophagus Adenocarcinoma (NOS)
+88,TCGA-L5-A8NT,TCGA-L5-A8NT-01,Esophageal Adenocarcinoma,ESCA,27.12299043,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+89,TCGA-L5-A8NU,TCGA-L5-A8NU-01,Esophageal Adenocarcinoma,ESCA,83.24292337,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+90,TCGA-L5-A8NV,TCGA-L5-A8NV-01,Esophageal Adenocarcinoma,ESCA,52.56928691,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+91,TCGA-L5-A8NW,TCGA-L5-A8NW-01,Esophageal Adenocarcinoma,ESCA,46.09264556,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+92,TCGA-L7-A56G,TCGA-L7-A56G-01,Esophageal Squamous Cell Carcinoma,ESCC,10.84919617,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+93,TCGA-L7-A6VZ,TCGA-L7-A6VZ-01,Esophageal Adenocarcinoma,ESCA,10.35605089,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+94,TCGA-LN-A49K,TCGA-LN-A49K-01,Esophageal Squamous Cell Carcinoma,ESCC,5.917743367,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+95,TCGA-LN-A49L,TCGA-LN-A49L-01,Esophageal Squamous Cell Carcinoma,ESCC,10.45467995,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+96,TCGA-LN-A49M,TCGA-LN-A49M-01,Esophageal Squamous Cell Carcinoma,ESCC,12.65739554,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+97,TCGA-LN-A49N,TCGA-LN-A49N-01,Esophageal Squamous Cell Carcinoma,ESCC,12.42726107,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+98,TCGA-LN-A49O,TCGA-LN-A49O-01,Esophageal Squamous Cell Carcinoma,ESCC,13.41355163,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+99,TCGA-LN-A49P,TCGA-LN-A49P-01,Esophageal Squamous Cell Carcinoma,ESCC,12.32863202,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+100,TCGA-LN-A49R,TCGA-LN-A49R-01,Esophageal Squamous Cell Carcinoma,ESCC,13.38067528,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+101,TCGA-LN-A49S,TCGA-LN-A49S-01,Esophageal Squamous Cell Carcinoma,ESCC,13.15054082,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+102,TCGA-LN-A49U,TCGA-LN-A49U-01,Esophageal Squamous Cell Carcinoma,ESCC,15.3532564,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+103,TCGA-LN-A49V,TCGA-LN-A49V-01,Esophageal Squamous Cell Carcinoma,ESCC,12.59164283,0:LIVING,,Esophagus Squamous Cell Carcinoma
+104,TCGA-LN-A49W,TCGA-LN-A49W-01,Esophageal Squamous Cell Carcinoma,ESCC,13.24916987,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+105,TCGA-LN-A49X,TCGA-LN-A49X-01,Esophageal Squamous Cell Carcinoma,ESCC,12.62451918,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+106,TCGA-LN-A49Y,TCGA-LN-A49Y-01,Esophageal Squamous Cell Carcinoma,ESCC,12.46013742,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+107,TCGA-LN-A4A1,TCGA-LN-A4A1-01,Esophageal Squamous Cell Carcinoma,ESCC,12.59164283,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+108,TCGA-LN-A4A2,TCGA-LN-A4A2-01,Esophageal Squamous Cell Carcinoma,ESCC,12.49301378,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+109,TCGA-LN-A4A3,TCGA-LN-A4A3-01,Esophageal Squamous Cell Carcinoma,ESCC,12.75602459,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+110,TCGA-LN-A4A4,TCGA-LN-A4A4-01,Esophageal Squamous Cell Carcinoma,ESCC,12.59164283,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+111,TCGA-LN-A4A5,TCGA-LN-A4A5-01,Esophageal Squamous Cell Carcinoma,ESCC,22.38879574,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+112,TCGA-LN-A4A6,TCGA-LN-A4A6-01,Esophageal Squamous Cell Carcinoma,ESCC,12.85465365,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+113,TCGA-LN-A4A8,TCGA-LN-A4A8-01,Esophageal Squamous Cell Carcinoma,ESCC,15.51763816,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+114,TCGA-LN-A4A9,TCGA-LN-A4A9-01,Esophageal Squamous Cell Carcinoma,ESCC,11.53959957,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+115,TCGA-LN-A4MQ,TCGA-LN-A4MQ-01,Esophageal Squamous Cell Carcinoma,ESCC,12.32863202,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+116,TCGA-LN-A4MR,TCGA-LN-A4MR-01,Esophageal Squamous Cell Carcinoma,ESCC,13.21629352,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+117,TCGA-LN-A5U5,TCGA-LN-A5U5-01,Esophageal Squamous Cell Carcinoma,ESCC,4.471183877,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+118,TCGA-LN-A5U6,TCGA-LN-A5U6-01,Esophageal Squamous Cell Carcinoma,ESCC,12.32863202,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+119,TCGA-LN-A5U7,TCGA-LN-A5U7-01,Esophageal Squamous Cell Carcinoma,ESCC,25.24903837,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+120,TCGA-LN-A7HV,TCGA-LN-A7HV-01,Esophageal Squamous Cell Carcinoma,ESCC,10.52043265,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+121,TCGA-LN-A7HW,TCGA-LN-A7HW-01,Esophageal Squamous Cell Carcinoma,ESCC,11.9998685,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+122,TCGA-LN-A7HX,TCGA-LN-A7HX-01,Esophageal Squamous Cell Carcinoma,ESCC,12.23000296,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+123,TCGA-LN-A7HY,TCGA-LN-A7HY-01,Esophageal Squamous Cell Carcinoma,ESCC,12.03274485,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+124,TCGA-LN-A7HZ,TCGA-LN-A7HZ-01,Esophageal Squamous Cell Carcinoma,ESCC,13.18341717,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+125,TCGA-LN-A8HZ,TCGA-LN-A8HZ-01,Esophageal Squamous Cell Carcinoma,ESCC,12.32863202,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+126,TCGA-LN-A8I0,TCGA-LN-A8I0-01,Esophageal Squamous Cell Carcinoma,ESCC,13.38067528,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+127,TCGA-LN-A8I1,TCGA-LN-A8I1-01,Esophageal Squamous Cell Carcinoma,ESCC,13.18341717,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+128,TCGA-LN-A9FO,TCGA-LN-A9FO-01,Esophageal Squamous Cell Carcinoma,ESCC,0.131505408,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+129,TCGA-LN-A9FP,TCGA-LN-A9FP-01,Esophageal Squamous Cell Carcinoma,ESCC,12.03274485,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+130,TCGA-LN-A9FQ,TCGA-LN-A9FQ-01,Esophageal Squamous Cell Carcinoma,ESCC,12.85465365,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+131,TCGA-LN-A9FR,TCGA-LN-A9FR-01,Esophageal Squamous Cell Carcinoma,ESCC,12.26287931,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+132,TCGA-M9-A5M8,TCGA-M9-A5M8-01,Esophageal Adenocarcinoma,ESCA,33.1064865,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+133,TCGA-Q9-A6FU,TCGA-Q9-A6FU-01,Esophageal Squamous Cell Carcinoma,ESCC,5.16158727,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+134,TCGA-Q9-A6FW,TCGA-Q9-A6FW-01,Esophageal Adenocarcinoma,ESCA,7.824571786,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+135,TCGA-R6-A6DN,TCGA-R6-A6DN-01,Esophageal Adenocarcinoma,ESCA,7.988953546,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+136,TCGA-R6-A6DQ,TCGA-R6-A6DQ-01,Esophageal Adenocarcinoma,ESCA,7.594437321,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+137,TCGA-R6-A6KZ,TCGA-R6-A6KZ-01,Esophageal Adenocarcinoma,ESCA,5.062958214,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+138,TCGA-R6-A6L4,TCGA-R6-A6L4-01,Esophageal Adenocarcinoma,ESCA,16.30667061,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+139,TCGA-R6-A6L6,TCGA-R6-A6L6-01,Esophageal Adenocarcinoma,ESCA,7.035539337,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+140,TCGA-R6-A6XG,TCGA-R6-A6XG-01,Esophageal Adenocarcinoma,ESCA,38.39957918,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+141,TCGA-R6-A6XQ,TCGA-R6-A6XQ-01,Esophageal Adenocarcinoma,ESCA,6.345135944,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+142,TCGA-R6-A6Y0,TCGA-R6-A6Y0-01,Esophageal Adenocarcinoma,ESCA,53.9500937,0:LIVING,,Esophagus Adenocarcinoma (NOS)
+143,TCGA-R6-A6Y2,TCGA-R6-A6Y2-01,Esophageal Adenocarcinoma,ESCA,9.304007627,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+144,TCGA-R6-A8W5,TCGA-R6-A8W5-01,Esophageal Adenocarcinoma,ESCA,15.78064898,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+145,TCGA-R6-A8W8,TCGA-R6-A8W8-01,Esophageal Adenocarcinoma,ESCA,2.89311898,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+146,TCGA-R6-A8WC,TCGA-R6-A8WC-01,Esophageal Adenocarcinoma,ESCA,2.301344643,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+147,TCGA-R6-A8WG,TCGA-R6-A8WG-01,Esophageal Adenocarcinoma,ESCA,12.69027189,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+148,TCGA-RE-A7BO,TCGA-RE-A7BO-01,Esophageal Adenocarcinoma,ESCA,7.002662985,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+149,TCGA-S8-A6BV,TCGA-S8-A6BV-01,Esophageal Adenocarcinoma,ESCA,20.02169839,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+150,TCGA-S8-A6BW,TCGA-S8-A6BW-01,Esophageal Squamous Cell Carcinoma,ESCC,20.38333827,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+151,TCGA-V5-A7RB,TCGA-V5-A7RB-01,Esophageal Adenocarcinoma,ESCA,5.293092678,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+152,TCGA-V5-A7RC,TCGA-V5-A7RC-01,Esophageal Squamous Cell Carcinoma,ESCC,3.419140612,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+153,TCGA-V5-A7RE,TCGA-V5-A7RE-01,Esophageal Adenocarcinoma,ESCA,16.43817602,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+154,TCGA-V5-AASV,TCGA-V5-AASV-01,Esophageal Squamous Cell Carcinoma,ESCC,15.3532564,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+155,TCGA-V5-AASW,TCGA-V5-AASW-01,Esophageal Adenocarcinoma,ESCA,9.271131275,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+156,TCGA-V5-AASX,TCGA-V5-AASX-01,Esophageal Adenocarcinoma,ESCA,8.975244107,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+157,TCGA-VR-A8EO,TCGA-VR-A8EO-01,Esophageal Squamous Cell Carcinoma,ESCC,25.80793635,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+158,TCGA-VR-A8EP,TCGA-VR-A8EP-01,Esophageal Squamous Cell Carcinoma,ESCC,27.09011408,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+159,TCGA-VR-A8EQ,TCGA-VR-A8EQ-01,Esophageal Adenocarcinoma,ESCA,22.81618832,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+160,TCGA-VR-A8ER,TCGA-VR-A8ER-01,Esophageal Squamous Cell Carcinoma,ESCC,12.42726107,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+161,TCGA-VR-A8ET,TCGA-VR-A8ET-01,Esophageal Squamous Cell Carcinoma,ESCC,1.545188546,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+162,TCGA-VR-A8EU,TCGA-VR-A8EU-01,Esophageal Squamous Cell Carcinoma,ESCC,18.31212809,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+163,TCGA-VR-A8EW,TCGA-VR-A8EW-01,Esophageal Squamous Cell Carcinoma,ESCC,8.120458954,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+164,TCGA-VR-A8EX,TCGA-VR-A8EX-01,Esophageal Squamous Cell Carcinoma,ESCC,28.10928099,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+165,TCGA-VR-A8EY,TCGA-VR-A8EY-01,Esophageal Squamous Cell Carcinoma,ESCC,33.69826084,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+166,TCGA-VR-A8EZ,TCGA-VR-A8EZ-01,Esophageal Squamous Cell Carcinoma,ESCC,18.18062268,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+167,TCGA-VR-A8Q7,TCGA-VR-A8Q7-01,Esophageal Squamous Cell Carcinoma,ESCC,52.27339974,0:LIVING,,Esophagus Squamous Cell Carcinoma
+168,TCGA-VR-AA4D,TCGA-VR-AA4D-01,Esophageal Adenocarcinoma,ESCA,46.19127462,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+169,TCGA-VR-AA4G,TCGA-VR-AA4G-01,Esophageal Squamous Cell Carcinoma,ESCC,18.04911727,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+170,TCGA-VR-AA7B,TCGA-VR-AA7B-01,Esophageal Squamous Cell Carcinoma,ESCC,11.2437124,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+171,TCGA-VR-AA7D,TCGA-VR-AA7D-01,Esophageal Squamous Cell Carcinoma,ESCC,9.172502219,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+172,TCGA-VR-AA7I,TCGA-VR-AA7I-01,Esophageal Squamous Cell Carcinoma,ESCC,15.91215439,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+173,TCGA-X8-AAAR,TCGA-X8-AAAR-01,Esophageal Adenocarcinoma,ESCA,18.21349903,0:LIVING,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
+174,TCGA-XP-A8T6,TCGA-XP-A8T6-01,Esophageal Squamous Cell Carcinoma,ESCC,25.08465661,1:DECEASED,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+175,TCGA-XP-A8T7,TCGA-XP-A8T7-01,Esophageal Squamous Cell Carcinoma,ESCC,41.22694546,0:LIVING,,Esophagus Squamous Cell Carcinoma
+176,TCGA-XP-A8T8,TCGA-XP-A8T8-01,Esophageal Squamous Cell Carcinoma,ESCC,14.36696584,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+177,TCGA-Z6-A8JD,TCGA-Z6-A8JD-01,Esophageal Squamous Cell Carcinoma,ESCC,3.419140612,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+178,TCGA-Z6-A8JE,TCGA-Z6-A8JE-01,Esophageal Squamous Cell Carcinoma,ESCC,2.104086531,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+179,TCGA-Z6-A9VB,TCGA-Z6-A9VB-01,Esophageal Squamous Cell Carcinoma,ESCC,1.315054082,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+180,TCGA-Z6-AAPN,TCGA-Z6-AAPN-01,Esophageal Squamous Cell Carcinoma,ESCC,2.662984515,0:LIVING,ESCA_ESCC,Esophagus Squamous Cell Carcinoma
+181,TCGA-ZR-A9CJ,TCGA-ZR-A9CJ-01,Esophageal Adenocarcinoma,ESCA,19.72581122,1:DECEASED,ESCA_CIN,Esophagus Adenocarcinoma (NOS)
