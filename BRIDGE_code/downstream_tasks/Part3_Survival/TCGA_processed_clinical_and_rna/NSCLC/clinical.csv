@@ -1,0 +1,1054 @@
+,Unnamed: 0,Patient ID,Sample ID,Cancer Type Detailed,Oncotree Code,Overall Survival (Months),Overall Survival Status,Subtype,Tumor Type
+0,0,TCGA-18-3406,TCGA-18-3406-01,Lung Squamous Cell Carcinoma,LUSC,12.19712661,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+1,1,TCGA-18-3407,TCGA-18-3407-01,Lung Squamous Cell Carcinoma,LUSC,4.471183877,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+2,2,TCGA-18-3408,TCGA-18-3408-01,Lung Squamous Cell Carcinoma,LUSC,75.7471151,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+3,3,TCGA-18-3410,TCGA-18-3410-01,Lung Squamous Cell Carcinoma,LUSC,4.799947398,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+4,4,TCGA-18-3411,TCGA-18-3411-01,Lung Squamous Cell Carcinoma,LUSC,117.5658349,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+5,5,TCGA-18-3412,TCGA-18-3412-01,Lung Squamous Cell Carcinoma,LUSC,11.34234145,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+6,6,TCGA-18-3414,TCGA-18-3414-01,Lung Squamous Cell Carcinoma,LUSC,23.53946806,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+7,7,TCGA-18-3415,TCGA-18-3415-01,Lung Squamous Cell Carcinoma,LUSC,92.15241477,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+8,8,TCGA-18-3416,TCGA-18-3416-01,Lung Squamous Cell Carcinoma,LUSC,31.98869054,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+9,9,TCGA-18-3417,TCGA-18-3417-01,Lung Squamous Cell Carcinoma,LUSC,36.06535819,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+10,10,TCGA-18-3419,TCGA-18-3419-01,Lung Squamous Cell Carcinoma,LUSC,92.41542558,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+11,11,TCGA-18-3421,TCGA-18-3421-01,Lung Squamous Cell Carcinoma,LUSC,86.95795115,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+12,12,TCGA-18-4083,TCGA-18-4083-01,Lung Squamous Cell Carcinoma,LUSC,6.180754184,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+13,13,TCGA-18-4086,TCGA-18-4086-01,Lung Squamous Cell Carcinoma,LUSC,2.794489923,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+14,14,TCGA-18-4721,TCGA-18-4721-01,Lung Squamous Cell Carcinoma,LUSC,154.3215965,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+15,15,TCGA-18-5592,TCGA-18-5592-01,Lung Squamous Cell Carcinoma,LUSC,49.93917875,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+16,16,TCGA-21-1071,TCGA-21-1071-01,Lung Squamous Cell Carcinoma,LUSC,46.88167801,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+17,17,TCGA-21-1072,TCGA-21-1072-01,Lung Squamous Cell Carcinoma,LUSC,99.15507775,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+18,18,TCGA-21-1075,TCGA-21-1075-01,Lung Squamous Cell Carcinoma,LUSC,70.15813525,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+19,19,TCGA-21-1076,TCGA-21-1076-01,Lung Squamous Cell Carcinoma,LUSC,60.88700398,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+20,20,TCGA-21-1079,TCGA-21-1079-01,Lung Squamous Cell Carcinoma,LUSC,31.72567972,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+21,21,TCGA-21-1080,TCGA-21-1080-01,Lung Squamous Cell Carcinoma,LUSC,122.431535,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+22,22,TCGA-21-1081,TCGA-21-1081-01,Lung Squamous Cell Carcinoma,LUSC,9.336883979,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+23,23,TCGA-21-1082,TCGA-21-1082-01,Lung Squamous Cell Carcinoma,LUSC,119.8014268,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+24,24,TCGA-21-5782,TCGA-21-5782-01,Lung Squamous Cell Carcinoma,LUSC,31.62705066,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+25,25,TCGA-21-5783,TCGA-21-5783-01,Lung Squamous Cell Carcinoma,LUSC,88.10862347,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+26,26,TCGA-21-5784,TCGA-21-5784-01,Lung Squamous Cell Carcinoma,LUSC,41.68721439,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+27,27,TCGA-21-5786,TCGA-21-5786-01,Lung Squamous Cell Carcinoma,LUSC,33.92839531,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+28,28,TCGA-21-5787,TCGA-21-5787-01,Lung Squamous Cell Carcinoma,LUSC,10.81631982,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+29,29,TCGA-22-0940,TCGA-22-0940-01,Lung Squamous Cell Carcinoma,LUSC,21.99427952,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma
+30,30,TCGA-22-0944,TCGA-22-0944-01,Lung Squamous Cell Carcinoma,LUSC,7.331426505,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma
+31,31,TCGA-22-1000,TCGA-22-1000-01,Lung Squamous Cell Carcinoma,LUSC,14.92586383,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+32,32,TCGA-22-1002,TCGA-22-1002-01,Lung Squamous Cell Carcinoma,LUSC,4.306802117,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+33,33,TCGA-22-1005,TCGA-22-1005-01,Lung Squamous Cell Carcinoma,LUSC,64.20751553,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+34,34,TCGA-22-1011,TCGA-22-1011-01,Lung Squamous Cell Carcinoma,LUSC,1.742446658,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+35,35,TCGA-22-1012,TCGA-22-1012-01,Lung Squamous Cell Carcinoma,LUSC,14.10395503,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+36,36,TCGA-22-1016,TCGA-22-1016-01,Lung Squamous Cell Carcinoma,LUSC,27.02436138,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+37,37,TCGA-22-1017,TCGA-22-1017-01,Lung Squamous Cell Carcinoma,LUSC,48.82138278,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+38,38,TCGA-22-4591,TCGA-22-4591-01,Lung Squamous Cell Carcinoma,LUSC,20.48196732,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+39,39,TCGA-22-4593,TCGA-22-4593-01,Lung Squamous Cell Carcinoma,LUSC,35.07906763,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+40,40,TCGA-22-4594,TCGA-22-4594-01,Lung Squamous Cell Carcinoma,LUSC,48.3282375,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+41,41,TCGA-22-4595,TCGA-22-4595-01,Lung Squamous Cell Carcinoma,LUSC,24.1312424,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+42,42,TCGA-22-4596,TCGA-22-4596-01,Lung Squamous Cell Carcinoma,LUSC,0.558897985,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+43,43,TCGA-22-4599,TCGA-22-4599-01,Lung Squamous Cell Carcinoma,LUSC,38.16944472,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+44,44,TCGA-22-4601,TCGA-22-4601-01,Lung Squamous Cell Carcinoma,LUSC,34.75030411,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+45,45,TCGA-22-4604,TCGA-22-4604-01,Lung Squamous Cell Carcinoma,LUSC,13.11766446,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+46,46,TCGA-22-4605,TCGA-22-4605-01,Lung Squamous Cell Carcinoma,LUSC,32.02156689,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+47,47,TCGA-22-4607,TCGA-22-4607-01,Lung Squamous Cell Carcinoma,LUSC,19.29841865,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+48,48,TCGA-22-4609,TCGA-22-4609-01,Lung Squamous Cell Carcinoma,LUSC,9.567018444,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+49,49,TCGA-22-4613,TCGA-22-4613-01,Lung Squamous Cell Carcinoma,LUSC,11.76973403,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+50,50,TCGA-22-5471,TCGA-22-5471-01,Lung Squamous Cell Carcinoma,LUSC,60.65686951,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+51,51,TCGA-22-5472,TCGA-22-5472-01,Lung Squamous Cell Carcinoma,LUSC,64.93079528,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+52,52,TCGA-22-5473,TCGA-22-5473-01,Lung Squamous Cell Carcinoma,LUSC,63.54998849,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+53,53,TCGA-22-5474,TCGA-22-5474-01,Lung Squamous Cell Carcinoma,LUSC,14.62997666,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+54,54,TCGA-22-5477,TCGA-22-5477-01,Lung Squamous Cell Carcinoma,LUSC,44.25156985,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+55,55,TCGA-22-5478,TCGA-22-5478-01,Lung Squamous Cell Carcinoma,LUSC,0.789032449,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+56,56,TCGA-22-5479,TCGA-22-5479-01,Lung Squamous Cell Carcinoma,LUSC,86.30042411,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+57,57,TCGA-22-5480,TCGA-22-5480-01,Lung Squamous Cell Carcinoma,LUSC,71.34168393,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+58,58,TCGA-22-5481,TCGA-22-5481-01,Lung Squamous Cell Carcinoma,LUSC,79.19913206,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+59,59,TCGA-22-5482,TCGA-22-5482-01,Lung Squamous Cell Carcinoma,LUSC,11.73685768,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+60,60,TCGA-22-5483,TCGA-22-5483-01,Lung Squamous Cell Carcinoma,LUSC,18.83814972,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+61,61,TCGA-22-5485,TCGA-22-5485-01,Lung Squamous Cell Carcinoma,LUSC,30.11473847,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+62,62,TCGA-22-5489,TCGA-22-5489-01,Lung Squamous Cell Carcinoma,LUSC,62.8595851,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+63,63,TCGA-22-5491,TCGA-22-5491-01,Lung Squamous Cell Carcinoma,LUSC,56.31719104,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+64,64,TCGA-22-5492,TCGA-22-5492-01,Lung Squamous Cell Carcinoma,LUSC,16.63543413,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+65,65,TCGA-22-A5C4,TCGA-22-A5C4-01,Lung Squamous Cell Carcinoma,LUSC,22.06003222,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+66,66,TCGA-33-4532,TCGA-33-4532-01,Lung Squamous Cell Carcinoma,LUSC,129.0068054,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+67,67,TCGA-33-4533,TCGA-33-4533-01,Lung Squamous Cell Carcinoma,LUSC,133.7410001,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+68,68,TCGA-33-4538,TCGA-33-4538-01,Lung Squamous Cell Carcinoma,LUSC,97.93865273,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+69,69,TCGA-33-4547,TCGA-33-4547-01,Lung Squamous Cell Carcinoma,LUSC,79.52789559,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+70,70,TCGA-33-4566,TCGA-33-4566-01,Lung Squamous Cell Carcinoma,LUSC,173.8172732,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+71,71,TCGA-33-4582,TCGA-33-4582-01,Lung Squamous Cell Carcinoma,LUSC,103.5276326,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+72,72,TCGA-33-4583,TCGA-33-4583-01,Lung Squamous Cell Carcinoma,LUSC,151.2640957,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+73,73,TCGA-33-4586,TCGA-33-4586-01,Lung Squamous Cell Carcinoma,LUSC,14.07107867,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+74,74,TCGA-33-4587,TCGA-33-4587-01,Lung Squamous Cell Carcinoma,LUSC,54.44323898,1:DECEASED,LUSC,Lung Small Cell Squamous Cell Carcinoma
+75,75,TCGA-33-4589,TCGA-33-4589-01,Lung Squamous Cell Carcinoma,LUSC,1.545188546,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+76,76,TCGA-33-6738,TCGA-33-6738-01,Lung Squamous Cell Carcinoma,LUSC,63.35273038,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+77,77,TCGA-33-A4WN,TCGA-33-A4WN-01,Lung Squamous Cell Carcinoma,LUSC,4.701318342,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+78,78,TCGA-33-A5GW,TCGA-33-A5GW-01,Lung Squamous Cell Carcinoma,LUSC,0.295887168,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+79,79,TCGA-33-AAS8,TCGA-33-AAS8-01,Lung Squamous Cell Carcinoma,LUSC,36.62425617,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+80,80,TCGA-33-AASB,TCGA-33-AASB-01,Lung Squamous Cell Carcinoma,LUSC,6.93691028,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+81,81,TCGA-33-AASD,TCGA-33-AASD-01,Lung Squamous Cell Carcinoma,LUSC,110.9905645,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+82,82,TCGA-33-AASI,TCGA-33-AASI-01,Lung Squamous Cell Carcinoma,LUSC,44.18581714,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+83,83,TCGA-33-AASJ,TCGA-33-AASJ-01,Lung Squamous Cell Carcinoma,LUSC,118.3548673,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+84,84,TCGA-33-AASL,TCGA-33-AASL-01,Lung Squamous Cell Carcinoma,LUSC,27.15586679,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+85,85,TCGA-34-2596,TCGA-34-2596-01,Lung Squamous Cell Carcinoma,LUSC,2.630108163,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+86,86,TCGA-34-2600,TCGA-34-2600-01,Lung Squamous Cell Carcinoma,LUSC,61.61028372,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+87,87,TCGA-34-2604,TCGA-34-2604-01,Lung Squamous Cell Carcinoma,LUSC,31.49554525,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+88,88,TCGA-34-2605,TCGA-34-2605-01,Lung Squamous Cell Carcinoma,LUSC,28.96406615,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+89,89,TCGA-34-2608,TCGA-34-2608-01,Lung Squamous Cell Carcinoma,LUSC,32.87635204,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+90,90,TCGA-34-2609,TCGA-34-2609-01,Lung Squamous Cell Carcinoma,LUSC,31.26541079,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+91,91,TCGA-34-5231,TCGA-34-5231-01,Lung Squamous Cell Carcinoma,LUSC,65.22668245,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+92,92,TCGA-34-5232,TCGA-34-5232-01,Lung Squamous Cell Carcinoma,LUSC,81.23746589,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+93,93,TCGA-34-5234,TCGA-34-5234-01,Lung Squamous Cell Carcinoma,LUSC,74.66219548,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+94,94,TCGA-34-5236,TCGA-34-5236-01,Lung Squamous Cell Carcinoma,LUSC,9.073873163,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+95,95,TCGA-34-5239,TCGA-34-5239-01,Lung Squamous Cell Carcinoma,LUSC,60.29522964,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+96,96,TCGA-34-5240,TCGA-34-5240-01,Lung Squamous Cell Carcinoma,LUSC,50.66245849,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+97,97,TCGA-34-5241,TCGA-34-5241-01,Lung Squamous Cell Carcinoma,LUSC,16.9313213,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+98,98,TCGA-34-5927,TCGA-34-5927-01,Lung Squamous Cell Carcinoma,LUSC,44.74471513,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+99,99,TCGA-34-5928,TCGA-34-5928-01,Lung Squamous Cell Carcinoma,LUSC,39.32011704,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+100,100,TCGA-34-5929,TCGA-34-5929-01,Lung Squamous Cell Carcinoma,LUSC,4.964329158,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+101,101,TCGA-34-7107,TCGA-34-7107-01,Lung Squamous Cell Carcinoma,LUSC,1.117795969,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+102,102,TCGA-34-8454,TCGA-34-8454-01,Lung Squamous Cell Carcinoma,LUSC,38.79409541,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+103,103,TCGA-34-8455,TCGA-34-8455-01,Lung Squamous Cell Carcinoma,LUSC,4.043791301,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+104,104,TCGA-34-8456,TCGA-34-8456-01,Lung Squamous Cell Carcinoma,LUSC,26.43258704,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+105,105,TCGA-34-A5IX,TCGA-34-A5IX-01,Lung Squamous Cell Carcinoma,LUSC,33.89551895,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+106,106,TCGA-37-3783,TCGA-37-3783-01,Lung Squamous Cell Carcinoma,LUSC,4.010914949,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+107,107,TCGA-37-3789,TCGA-37-3789-01,Lung Squamous Cell Carcinoma,LUSC,0.427392577,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+108,108,TCGA-37-3792,TCGA-37-3792-01,Lung Squamous Cell Carcinoma,LUSC,0.394516225,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+109,109,TCGA-37-4129,TCGA-37-4129-01,Lung Squamous Cell Carcinoma,LUSC,7.956077194,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+110,110,TCGA-37-4130,TCGA-37-4130-01,Lung Squamous Cell Carcinoma,LUSC,8.120458954,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+111,111,TCGA-37-4132,TCGA-37-4132-01,Lung Squamous Cell Carcinoma,LUSC,7.462931913,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+112,112,TCGA-37-4133,TCGA-37-4133-01,Lung Squamous Cell Carcinoma,LUSC,7.824571786,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+113,113,TCGA-37-4135,TCGA-37-4135-01,Lung Squamous Cell Carcinoma,LUSC,6.805404872,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+114,114,TCGA-37-4141,TCGA-37-4141-01,Lung Squamous Cell Carcinoma,LUSC,0.394516225,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+115,115,TCGA-37-5819,TCGA-37-5819-01,Lung Squamous Cell Carcinoma,LUSC,3.38626426,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+116,116,TCGA-37-A5EL,TCGA-37-A5EL-01,Lung Squamous Cell Carcinoma,LUSC,37.57767038,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+117,117,TCGA-37-A5EN,TCGA-37-A5EN-01,Lung Squamous Cell Carcinoma,LUSC,21.69839235,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+118,118,TCGA-39-5011,TCGA-39-5011-01,Lung Squamous Cell Carcinoma,LUSC,133.2478548,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+119,119,TCGA-39-5016,TCGA-39-5016-01,Lung Squamous Cell Carcinoma,LUSC,126.5739554,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+120,120,TCGA-39-5019,TCGA-39-5019-01,Lung Squamous Cell Carcinoma,LUSC,111.3522044,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+121,121,TCGA-39-5021,TCGA-39-5021-01,Lung Squamous Cell Carcinoma,LUSC,68.58007036,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+122,122,TCGA-39-5022,TCGA-39-5022-01,Lung Squamous Cell Carcinoma,LUSC,55.19939508,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+123,123,TCGA-39-5024,TCGA-39-5024-01,Lung Squamous Cell Carcinoma,LUSC,82.51964362,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+124,124,TCGA-39-5027,TCGA-39-5027-01,Lung Squamous Cell Carcinoma,LUSC,102.1797021,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+125,125,TCGA-39-5028,TCGA-39-5028-01,Lung Squamous Cell Carcinoma,LUSC,1.709570306,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+126,126,TCGA-39-5029,TCGA-39-5029-01,Lung Squamous Cell Carcinoma,LUSC,24.32850051,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+127,127,TCGA-39-5030,TCGA-39-5030-01,Lung Squamous Cell Carcinoma,LUSC,1.93970477,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+128,128,TCGA-39-5031,TCGA-39-5031-01,Lung Squamous Cell Carcinoma,LUSC,60.52536411,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+129,129,TCGA-39-5034,TCGA-39-5034-01,Lung Squamous Cell Carcinoma,LUSC,36.39412171,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+130,130,TCGA-39-5035,TCGA-39-5035-01,Lung Squamous Cell Carcinoma,LUSC,68.38281224,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+131,131,TCGA-39-5036,TCGA-39-5036-01,Lung Squamous Cell Carcinoma,LUSC,71.17730217,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+132,132,TCGA-39-5037,TCGA-39-5037-01,Lung Squamous Cell Carcinoma,LUSC,55.56103495,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+133,133,TCGA-39-5039,TCGA-39-5039-01,Lung Squamous Cell Carcinoma,LUSC,17.88473551,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+134,134,TCGA-39-5040,TCGA-39-5040-01,Lung Squamous Cell Carcinoma,LUSC,17.06282671,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+135,135,TCGA-43-2576,TCGA-43-2576-01,Lung Squamous Cell Carcinoma,LUSC,40.20777855,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+136,136,TCGA-43-2578,TCGA-43-2578-01,Lung Squamous Cell Carcinoma,LUSC,22.4874248,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+137,137,TCGA-43-2581,TCGA-43-2581-01,Lung Squamous Cell Carcinoma,LUSC,38.66259,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+138,138,TCGA-43-3394,TCGA-43-3394-01,Lung Squamous Cell Carcinoma,LUSC,39.12285893,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+139,139,TCGA-43-3920,TCGA-43-3920-01,Lung Squamous Cell Carcinoma,LUSC,33.1064865,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+140,140,TCGA-43-5668,TCGA-43-5668-01,Lung Squamous Cell Carcinoma,LUSC,18.37788079,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+141,141,TCGA-43-5670,TCGA-43-5670-01,Lung Squamous Cell Carcinoma,LUSC,27.91202288,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+142,142,TCGA-43-6143,TCGA-43-6143-01,Lung Squamous Cell Carcinoma,LUSC,22.98057008,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+143,143,TCGA-43-6647,TCGA-43-6647-01,Lung Squamous Cell Carcinoma,LUSC,24.88739849,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+144,144,TCGA-43-6770,TCGA-43-6770-01,Lung Squamous Cell Carcinoma,LUSC,21.46825788,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+145,145,TCGA-43-6771,TCGA-43-6771-01,Lung Squamous Cell Carcinoma,LUSC,5.457474439,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+146,146,TCGA-43-6773,TCGA-43-6773-01,Lung Squamous Cell Carcinoma,LUSC,3.813656837,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+147,147,TCGA-43-7656,TCGA-43-7656-01,Lung Squamous Cell Carcinoma,LUSC,19.59430582,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+148,148,TCGA-43-7657,TCGA-43-7657-01,Lung Squamous Cell Carcinoma,LUSC,7.758819081,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+149,149,TCGA-43-7658,TCGA-43-7658-01,Lung Squamous Cell Carcinoma,LUSC,78.17996515,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+150,150,TCGA-43-8115,TCGA-43-8115-01,Lung Squamous Cell Carcinoma,LUSC,13.38067528,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+151,151,TCGA-43-8116,TCGA-43-8116-01,Lung Squamous Cell Carcinoma,LUSC,11.76973403,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+152,152,TCGA-43-8118,TCGA-43-8118-01,Lung Squamous Cell Carcinoma,LUSC,2.925995332,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+153,153,TCGA-43-A474,TCGA-43-A474-01,Lung Squamous Cell Carcinoma,LUSC,11.60535227,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+154,154,TCGA-43-A475,TCGA-43-A475-01,Lung Squamous Cell Carcinoma,LUSC,9.731400204,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+155,155,TCGA-43-A56U,TCGA-43-A56U-01,Lung Squamous Cell Carcinoma,LUSC,14.20258408,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+156,156,TCGA-43-A56V,TCGA-43-A56V-01,Lung Squamous Cell Carcinoma,LUSC,12.03274485,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+157,157,TCGA-46-3765,TCGA-46-3765-01,Lung Squamous Cell Carcinoma,LUSC,13.31492258,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+158,158,TCGA-46-3766,TCGA-46-3766-01,Lung Squamous Cell Carcinoma,LUSC,12.16425026,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+159,159,TCGA-46-3767,TCGA-46-3767-01,Lung Squamous Cell Carcinoma,LUSC,13.01903541,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+160,160,TCGA-46-3768,TCGA-46-3768-01,Lung Squamous Cell Carcinoma,LUSC,9.83002926,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+161,161,TCGA-46-3769,TCGA-46-3769-01,Lung Squamous Cell Carcinoma,LUSC,4.438307525,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+162,162,TCGA-46-6025,TCGA-46-6025-01,Lung Squamous Cell Carcinoma,LUSC,10.65193806,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+163,163,TCGA-46-6026,TCGA-46-6026-01,Lung Squamous Cell Carcinoma,LUSC,13.90669691,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+164,164,TCGA-51-4079,TCGA-51-4079-01,Lung Squamous Cell Carcinoma,LUSC,0.394516225,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+165,165,TCGA-51-4080,TCGA-51-4080-01,Lung Squamous Cell Carcinoma,LUSC,0.394516225,1:DECEASED,LUSC,Lung Basaloid Squamous Cell Carcinoma
+166,166,TCGA-51-4081,TCGA-51-4081-01,Lung Squamous Cell Carcinoma,LUSC,29.95035671,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+167,167,TCGA-52-7622,TCGA-52-7622-01,Lung Squamous Cell Carcinoma,LUSC,28.33941546,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+168,168,TCGA-52-7809,TCGA-52-7809-01,Lung Squamous Cell Carcinoma,LUSC,5.457474439,1:DECEASED,LUSC,Lung Basaloid Squamous Cell Carcinoma
+169,169,TCGA-52-7810,TCGA-52-7810-01,Lung Squamous Cell Carcinoma,LUSC,30.34487293,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+170,170,TCGA-52-7811,TCGA-52-7811-01,Lung Squamous Cell Carcinoma,LUSC,8.745109643,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+171,171,TCGA-52-7812,TCGA-52-7812-01,Lung Squamous Cell Carcinoma,LUSC,27.45175395,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+172,172,TCGA-56-1622,TCGA-56-1622-01,Lung Squamous Cell Carcinoma,LUSC,28.96406615,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+173,173,TCGA-56-5897,TCGA-56-5897-01,Lung Squamous Cell Carcinoma,LUSC,12.42726107,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+174,174,TCGA-56-5898,TCGA-56-5898-01,Lung Squamous Cell Carcinoma,LUSC,18.24637538,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+175,175,TCGA-56-6545,TCGA-56-6545-01,Lung Squamous Cell Carcinoma,LUSC,21.89565046,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+176,176,TCGA-56-6546,TCGA-56-6546-01,Lung Squamous Cell Carcinoma,LUSC,,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+177,177,TCGA-56-7221,TCGA-56-7221-01,Lung Squamous Cell Carcinoma,LUSC,19.98882204,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+178,178,TCGA-56-7222,TCGA-56-7222-01,Lung Squamous Cell Carcinoma,LUSC,18.47650985,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+179,179,TCGA-56-7223,TCGA-56-7223-01,Lung Squamous Cell Carcinoma,LUSC,14.5313476,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+180,180,TCGA-56-7579,TCGA-56-7579-01,Lung Squamous Cell Carcinoma,LUSC,31.26541079,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+181,181,TCGA-56-7580,TCGA-56-7580-01,Lung Squamous Cell Carcinoma,LUSC,30.41062564,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+182,182,TCGA-56-7582,TCGA-56-7582-01,Lung Squamous Cell Carcinoma,LUSC,19.75868758,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+183,183,TCGA-56-7730,TCGA-56-7730-01,Lung Squamous Cell Carcinoma,LUSC,6.509517704,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+184,184,TCGA-56-7731,TCGA-56-7731-01,Lung Squamous Cell Carcinoma,LUSC,0.098629056,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+185,185,TCGA-56-7822,TCGA-56-7822-01,Lung Squamous Cell Carcinoma,LUSC,17.49021929,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+186,186,TCGA-56-7823,TCGA-56-7823-01,Lung Squamous Cell Carcinoma,LUSC,33.23799191,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+187,187,TCGA-56-8082,TCGA-56-8082-01,Lung Squamous Cell Carcinoma,LUSC,14.95874018,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+188,188,TCGA-56-8083,TCGA-56-8083-01,Lung Squamous Cell Carcinoma,LUSC,4.931452806,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+189,189,TCGA-56-8201,TCGA-56-8201-01,Lung Squamous Cell Carcinoma,LUSC,13.05191176,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+190,190,TCGA-56-8304,TCGA-56-8304-01,Lung Squamous Cell Carcinoma,LUSC,3.484893316,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+191,191,TCGA-56-8305,TCGA-56-8305-01,Lung Squamous Cell Carcinoma,LUSC,3.452016964,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+192,192,TCGA-56-8307,TCGA-56-8307-01,Lung Squamous Cell Carcinoma,LUSC,26.89285597,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+193,193,TCGA-56-8308,TCGA-56-8308-01,Lung Squamous Cell Carcinoma,LUSC,16.99707401,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+194,194,TCGA-56-8309,TCGA-56-8309-01,Lung Squamous Cell Carcinoma,LUSC,14.07107867,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+195,195,TCGA-56-8503,TCGA-56-8503-01,Lung Squamous Cell Carcinoma,LUSC,1.347930434,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+196,196,TCGA-56-8504,TCGA-56-8504-01,Lung Squamous Cell Carcinoma,LUSC,16.76693954,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+197,197,TCGA-56-8622,TCGA-56-8622-01,Lung Squamous Cell Carcinoma,LUSC,1.808199362,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+198,198,TCGA-56-8623,TCGA-56-8623-01,Lung Squamous Cell Carcinoma,LUSC,22.75043561,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+199,199,TCGA-56-8624,TCGA-56-8624-01,Lung Squamous Cell Carcinoma,LUSC,13.80806786,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+200,200,TCGA-56-8625,TCGA-56-8625-01,Lung Squamous Cell Carcinoma,LUSC,10.35605089,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+201,201,TCGA-56-8626,TCGA-56-8626-01,Lung Squamous Cell Carcinoma,LUSC,9.928658316,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+202,202,TCGA-56-8628,TCGA-56-8628-01,Lung Squamous Cell Carcinoma,LUSC,20.25183286,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+203,203,TCGA-56-8629,TCGA-56-8629-01,Lung Squamous Cell Carcinoma,LUSC,15.81352533,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+204,204,TCGA-56-A49D,TCGA-56-A49D-01,Lung Squamous Cell Carcinoma,LUSC,20.94223625,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+205,205,TCGA-56-A4BW,TCGA-56-A4BW-01,Lung Squamous Cell Carcinoma,LUSC,19.23266594,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+206,206,TCGA-56-A4BX,TCGA-56-A4BX-01,Lung Squamous Cell Carcinoma,LUSC,13.31492258,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+207,207,TCGA-56-A4BY,TCGA-56-A4BY-01,Lung Squamous Cell Carcinoma,LUSC,17.85185916,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+208,208,TCGA-56-A4ZJ,TCGA-56-A4ZJ-01,Lung Squamous Cell Carcinoma,LUSC,21.04086531,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+209,209,TCGA-56-A4ZK,TCGA-56-A4ZK-01,Lung Squamous Cell Carcinoma,LUSC,18.73952066,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+210,210,TCGA-56-A5DR,TCGA-56-A5DR-01,Lung Squamous Cell Carcinoma,LUSC,0.131505408,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+211,211,TCGA-56-A5DS,TCGA-56-A5DS-01,Lung Squamous Cell Carcinoma,LUSC,0.263010816,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+212,212,TCGA-56-A62T,TCGA-56-A62T-01,Lung Squamous Cell Carcinoma,LUSC,14.4655949,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+213,213,TCGA-58-8386,TCGA-58-8386-01,Lung Squamous Cell Carcinoma,LUSC,0.032876352,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+214,214,TCGA-58-8387,TCGA-58-8387-01,Lung Squamous Cell Carcinoma,LUSC,13.24916987,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+215,215,TCGA-58-8388,TCGA-58-8388-01,Lung Squamous Cell Carcinoma,LUSC,13.54505704,1:DECEASED,LUSC,Lung Basaloid Squamous Cell Carcinoma
+216,216,TCGA-58-8390,TCGA-58-8390-01,Lung Squamous Cell Carcinoma,LUSC,29.95035671,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+217,217,TCGA-58-8391,TCGA-58-8391-01,Lung Squamous Cell Carcinoma,LUSC,71.24305487,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+218,218,TCGA-58-8392,TCGA-58-8392-01,Lung Squamous Cell Carcinoma,LUSC,16.47105237,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+219,219,TCGA-58-8393,TCGA-58-8393-01,Lung Squamous Cell Carcinoma,LUSC,34.78318046,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+220,220,TCGA-58-A46J,TCGA-58-A46J-01,Lung Squamous Cell Carcinoma,LUSC,85.11687543,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+221,221,TCGA-58-A46K,TCGA-58-A46K-01,Lung Squamous Cell Carcinoma,LUSC,34.35578788,1:DECEASED,LUSC,Lung Basaloid Squamous Cell Carcinoma
+222,222,TCGA-58-A46L,TCGA-58-A46L-01,Lung Squamous Cell Carcinoma,LUSC,56.64595457,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+223,223,TCGA-58-A46M,TCGA-58-A46M-01,Lung Squamous Cell Carcinoma,LUSC,35.24344939,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+224,224,TCGA-58-A46N,TCGA-58-A46N-01,Lung Squamous Cell Carcinoma,LUSC,29.91748036,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+225,225,TCGA-60-2695,TCGA-60-2695-01,Lung Squamous Cell Carcinoma,LUSC,21.10661801,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+226,226,TCGA-60-2697,TCGA-60-2697-01,Lung Squamous Cell Carcinoma,LUSC,12.23000296,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+227,227,TCGA-60-2698,TCGA-60-2698-01,Lung Squamous Cell Carcinoma,LUSC,10.22454548,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+228,228,TCGA-60-2703,TCGA-60-2703-01,Lung Squamous Cell Carcinoma,LUSC,96.82085676,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+229,229,TCGA-60-2704,TCGA-60-2704-01,Lung Squamous Cell Carcinoma,LUSC,37.93931025,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+230,230,TCGA-60-2706,TCGA-60-2706-01,Lung Squamous Cell Carcinoma,LUSC,92.71131275,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+231,231,TCGA-60-2707,TCGA-60-2707-01,Lung Squamous Cell Carcinoma,LUSC,21.92852681,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+232,232,TCGA-60-2708,TCGA-60-2708-01,Lung Squamous Cell Carcinoma,LUSC,80.44843344,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+233,233,TCGA-60-2709,TCGA-60-2709-01,Lung Squamous Cell Carcinoma,LUSC,49.47890982,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+234,234,TCGA-60-2710,TCGA-60-2710-01,Lung Squamous Cell Carcinoma,LUSC,66.54173653,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+235,235,TCGA-60-2711,TCGA-60-2711-01,Lung Squamous Cell Carcinoma,LUSC,41.42420357,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+236,236,TCGA-60-2713,TCGA-60-2713-01,Lung Squamous Cell Carcinoma,LUSC,56.90896538,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+237,237,TCGA-60-2714,TCGA-60-2714-01,Lung Squamous Cell Carcinoma,LUSC,50.33369497,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+238,238,TCGA-60-2716,TCGA-60-2716-01,Lung Squamous Cell Carcinoma,LUSC,48.49261926,0:LIVING,LUSC,Lung Papillary Squamous Cell Caricnoma
+239,239,TCGA-60-2719,TCGA-60-2719-01,Lung Squamous Cell Carcinoma,LUSC,42.6406286,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+240,240,TCGA-60-2720,TCGA-60-2720-01,Lung Squamous Cell Carcinoma,LUSC,3.189006148,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+241,241,TCGA-60-2721,TCGA-60-2721-01,Lung Squamous Cell Carcinoma,LUSC,32.31745406,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+242,242,TCGA-60-2722,TCGA-60-2722-01,Lung Squamous Cell Carcinoma,LUSC,29.85172765,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+243,243,TCGA-60-2723,TCGA-60-2723-01,Lung Squamous Cell Carcinoma,LUSC,35.90097643,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+244,244,TCGA-60-2724,TCGA-60-2724-01,Lung Squamous Cell Carcinoma,LUSC,23.57234441,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+245,245,TCGA-60-2725,TCGA-60-2725-01,Lung Squamous Cell Carcinoma,LUSC,26.82710327,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+246,246,TCGA-60-2726,TCGA-60-2726-01,Lung Squamous Cell Carcinoma,LUSC,11.76973403,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+247,247,TCGA-63-5128,TCGA-63-5128-01,Lung Squamous Cell Carcinoma,LUSC,,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+248,248,TCGA-63-5131,TCGA-63-5131-01,Lung Squamous Cell Carcinoma,LUSC,,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+249,249,TCGA-63-6202,TCGA-63-6202-01,Lung Squamous Cell Carcinoma,LUSC,52.66791597,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+250,250,TCGA-63-7020,TCGA-63-7020-01,Lung Squamous Cell Carcinoma,LUSC,70.1252589,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+251,251,TCGA-63-7021,TCGA-63-7021-01,Lung Squamous Cell Carcinoma,LUSC,70.42114607,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+252,252,TCGA-63-7022,TCGA-63-7022-01,Lung Squamous Cell Carcinoma,LUSC,68.15267778,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+253,253,TCGA-63-7023,TCGA-63-7023-01,Lung Squamous Cell Carcinoma,LUSC,55.29802413,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+254,254,TCGA-63-A5M9,TCGA-63-A5M9-01,Lung Squamous Cell Carcinoma,LUSC,0.0,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+255,255,TCGA-63-A5MB,TCGA-63-A5MB-01,Lung Squamous Cell Carcinoma,LUSC,102.6728474,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+256,256,TCGA-63-A5MG,TCGA-63-A5MG-01,Lung Squamous Cell Carcinoma,LUSC,70.61840418,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+257,257,TCGA-63-A5MH,TCGA-63-A5MH-01,Lung Squamous Cell Carcinoma,LUSC,66.60748923,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+258,258,TCGA-63-A5MI,TCGA-63-A5MI-01,Lung Squamous Cell Carcinoma,LUSC,58.65141204,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+259,259,TCGA-63-A5MJ,TCGA-63-A5MJ-01,Lung Squamous Cell Carcinoma,LUSC,59.96646612,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+260,260,TCGA-63-A5ML,TCGA-63-A5ML-01,Lung Squamous Cell Carcinoma,LUSC,45.56662393,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+261,261,TCGA-63-A5MM,TCGA-63-A5MM-01,Lung Squamous Cell Carcinoma,LUSC,14.99161653,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+262,262,TCGA-63-A5MN,TCGA-63-A5MN-01,Lung Squamous Cell Carcinoma,LUSC,11.34234145,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+263,263,TCGA-63-A5MP,TCGA-63-A5MP-01,Lung Squamous Cell Carcinoma,LUSC,25.28191472,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+264,264,TCGA-63-A5MR,TCGA-63-A5MR-01,Lung Squamous Cell Carcinoma,LUSC,89.29217214,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+265,265,TCGA-63-A5MS,TCGA-63-A5MS-01,Lung Squamous Cell Carcinoma,LUSC,78.27859421,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+266,266,TCGA-63-A5MT,TCGA-63-A5MT-01,Lung Squamous Cell Carcinoma,LUSC,16.37242332,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+267,267,TCGA-63-A5MU,TCGA-63-A5MU-01,Lung Squamous Cell Carcinoma,LUSC,,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+268,268,TCGA-63-A5MV,TCGA-63-A5MV-01,Lung Squamous Cell Carcinoma,LUSC,36.16398724,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+269,269,TCGA-63-A5MW,TCGA-63-A5MW-01,Lung Squamous Cell Carcinoma,LUSC,53.88434099,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+270,270,TCGA-63-A5MY,TCGA-63-A5MY-01,Lung Squamous Cell Carcinoma,LUSC,34.58592235,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+271,271,TCGA-66-2727,TCGA-66-2727-01,Lung Squamous Cell Carcinoma,LUSC,16.96419765,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+272,272,TCGA-66-2734,TCGA-66-2734-01,Lung Squamous Cell Carcinoma,LUSC,43.10089752,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+273,273,TCGA-66-2737,TCGA-66-2737-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+274,274,TCGA-66-2742,TCGA-66-2742-01,Lung Squamous Cell Carcinoma,LUSC,21.07374166,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+275,275,TCGA-66-2744,TCGA-66-2744-01,Lung Squamous Cell Carcinoma,LUSC,0.986290561,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+276,276,TCGA-66-2753,TCGA-66-2753-01,Lung Squamous Cell Carcinoma,LUSC,1.019166913,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+277,277,TCGA-66-2754,TCGA-66-2754-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+278,278,TCGA-66-2755,TCGA-66-2755-01,Lung Squamous Cell Carcinoma,LUSC,0.920537857,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+279,279,TCGA-66-2756,TCGA-66-2756-01,Lung Squamous Cell Carcinoma,LUSC,0.986290561,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+280,280,TCGA-66-2757,TCGA-66-2757-01,Lung Squamous Cell Carcinoma,LUSC,43.98855903,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+281,281,TCGA-66-2758,TCGA-66-2758-01,Lung Squamous Cell Carcinoma,LUSC,21.00798895,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+282,282,TCGA-66-2759,TCGA-66-2759-01,Lung Squamous Cell Carcinoma,LUSC,25.05178025,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+283,283,TCGA-66-2763,TCGA-66-2763-01,Lung Squamous Cell Carcinoma,LUSC,0.986290561,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+284,284,TCGA-66-2765,TCGA-66-2765-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+285,285,TCGA-66-2766,TCGA-66-2766-01,Lung Squamous Cell Carcinoma,LUSC,1.019166913,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+286,286,TCGA-66-2767,TCGA-66-2767-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+287,287,TCGA-66-2768,TCGA-66-2768-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+288,288,TCGA-66-2769,TCGA-66-2769-01,Lung Squamous Cell Carcinoma,LUSC,7.068415689,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+289,289,TCGA-66-2770,TCGA-66-2770-01,Lung Squamous Cell Carcinoma,LUSC,23.01344643,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+290,290,TCGA-66-2771,TCGA-66-2771-01,Lung Squamous Cell Carcinoma,LUSC,19.00253148,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+291,291,TCGA-66-2773,TCGA-66-2773-01,Lung Squamous Cell Carcinoma,LUSC,3.024624388,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+292,292,TCGA-66-2777,TCGA-66-2777-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+293,293,TCGA-66-2778,TCGA-66-2778-01,Lung Squamous Cell Carcinoma,LUSC,19.00253148,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+294,294,TCGA-66-2780,TCGA-66-2780-01,Lung Squamous Cell Carcinoma,LUSC,12.03274485,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+295,295,TCGA-66-2781,TCGA-66-2781-01,Lung Squamous Cell Carcinoma,LUSC,3.978038597,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+296,296,TCGA-66-2782,TCGA-66-2782-01,Lung Squamous Cell Carcinoma,LUSC,11.9998685,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+297,297,TCGA-66-2783,TCGA-66-2783-01,Lung Squamous Cell Carcinoma,LUSC,24.9531512,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+298,298,TCGA-66-2785,TCGA-66-2785-01,Lung Squamous Cell Carcinoma,LUSC,1.972581122,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+299,299,TCGA-66-2786,TCGA-66-2786-01,Lung Squamous Cell Carcinoma,LUSC,25.97231811,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+300,300,TCGA-66-2787,TCGA-66-2787-01,Lung Squamous Cell Carcinoma,LUSC,40.01052043,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+301,301,TCGA-66-2788,TCGA-66-2788-01,Lung Squamous Cell Carcinoma,LUSC,22.98057008,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+302,302,TCGA-66-2789,TCGA-66-2789-01,Lung Squamous Cell Carcinoma,LUSC,4.043791301,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+303,303,TCGA-66-2790,TCGA-66-2790-01,Lung Squamous Cell Carcinoma,LUSC,22.98057008,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+304,304,TCGA-66-2791,TCGA-66-2791-01,Lung Squamous Cell Carcinoma,LUSC,5.030081862,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+305,305,TCGA-66-2792,TCGA-66-2792-01,Lung Squamous Cell Carcinoma,LUSC,30.01610941,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+306,306,TCGA-66-2793,TCGA-66-2793-01,Lung Squamous Cell Carcinoma,LUSC,10.06016372,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+307,307,TCGA-66-2794,TCGA-66-2794-01,Lung Squamous Cell Carcinoma,LUSC,54.08159911,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+308,308,TCGA-66-2795,TCGA-66-2795-01,Lung Squamous Cell Carcinoma,LUSC,4.010914949,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+309,309,TCGA-66-2800,TCGA-66-2800-01,Lung Squamous Cell Carcinoma,LUSC,49.05151724,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+310,310,TCGA-68-7755,TCGA-68-7755-01,Lung Squamous Cell Carcinoma,LUSC,2.728737219,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+311,311,TCGA-68-7756,TCGA-68-7756-01,Lung Squamous Cell Carcinoma,LUSC,6.641023112,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+312,312,TCGA-68-7757,TCGA-68-7757-01,Lung Squamous Cell Carcinoma,LUSC,6.93691028,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+313,313,TCGA-68-8250,TCGA-68-8250-01,Lung Squamous Cell Carcinoma,LUSC,8.021829898,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+314,314,TCGA-68-8251,TCGA-68-8251-01,Lung Squamous Cell Carcinoma,LUSC,13.34779893,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+315,315,TCGA-68-A59I,TCGA-68-A59I-01,Lung Squamous Cell Carcinoma,LUSC,16.1751652,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+316,316,TCGA-68-A59J,TCGA-68-A59J-01,Lung Squamous Cell Carcinoma,LUSC,14.72860571,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+317,317,TCGA-6A-AB49,TCGA-6A-AB49-01,Lung Squamous Cell Carcinoma,LUSC,,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+318,318,TCGA-70-6722,TCGA-70-6722-01,Lung Squamous Cell Carcinoma,LUSC,12.0656212,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+319,319,TCGA-70-6723,TCGA-70-6723-01,Lung Squamous Cell Carcinoma,LUSC,12.32863202,0:LIVING,LUSC,Lung Papillary Squamous Cell Caricnoma
+320,320,TCGA-77-6842,TCGA-77-6842-01,Lung Squamous Cell Carcinoma,LUSC,29.55584048,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+321,321,TCGA-77-6843,TCGA-77-6843-01,Lung Squamous Cell Carcinoma,LUSC,73.11700694,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+322,322,TCGA-77-6844,TCGA-77-6844-01,Lung Squamous Cell Carcinoma,LUSC,75.08958806,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+323,323,TCGA-77-6845,TCGA-77-6845-01,Lung Squamous Cell Carcinoma,LUSC,23.27645724,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+324,324,TCGA-77-7138,TCGA-77-7138-01,Lung Squamous Cell Carcinoma,LUSC,11.17795969,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+325,325,TCGA-77-7139,TCGA-77-7139-01,Lung Squamous Cell Carcinoma,LUSC,140.086136,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+326,326,TCGA-77-7140,TCGA-77-7140-01,Lung Squamous Cell Carcinoma,LUSC,20.77785449,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+327,327,TCGA-77-7141,TCGA-77-7141-01,Lung Squamous Cell Carcinoma,LUSC,0.493145281,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+328,328,TCGA-77-7142,TCGA-77-7142-01,Lung Squamous Cell Carcinoma,LUSC,73.21563599,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+329,329,TCGA-77-7335,TCGA-77-7335-01,Lung Squamous Cell Carcinoma,LUSC,70.1252589,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+330,330,TCGA-77-7337,TCGA-77-7337-01,Lung Squamous Cell Carcinoma,LUSC,106.9467732,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+331,331,TCGA-77-7338,TCGA-77-7338-01,Lung Squamous Cell Carcinoma,LUSC,0.16438176,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+332,332,TCGA-77-7463,TCGA-77-7463-01,Lung Squamous Cell Carcinoma,LUSC,46.78304895,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+333,333,TCGA-77-7465,TCGA-77-7465-01,Lung Squamous Cell Carcinoma,LUSC,32.54758852,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+334,334,TCGA-77-8007,TCGA-77-8007-01,Lung Squamous Cell Carcinoma,LUSC,6.509517704,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+335,335,TCGA-77-8008,TCGA-77-8008-01,Lung Squamous Cell Carcinoma,LUSC,86.76069303,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+336,336,TCGA-77-8009,TCGA-77-8009-01,Lung Squamous Cell Carcinoma,LUSC,55.72541671,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+337,337,TCGA-77-8128,TCGA-77-8128-01,Lung Squamous Cell Carcinoma,LUSC,37.80780485,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+338,338,TCGA-77-8130,TCGA-77-8130-01,Lung Squamous Cell Carcinoma,LUSC,156.6558175,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+339,339,TCGA-77-8131,TCGA-77-8131-01,Lung Squamous Cell Carcinoma,LUSC,12.59164283,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+340,340,TCGA-77-8133,TCGA-77-8133-01,Lung Squamous Cell Carcinoma,LUSC,53.91721735,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+341,341,TCGA-77-8136,TCGA-77-8136-01,Lung Squamous Cell Carcinoma,LUSC,39.08998258,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+342,342,TCGA-77-8138,TCGA-77-8138-01,Lung Squamous Cell Carcinoma,LUSC,17.72035375,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+343,343,TCGA-77-8139,TCGA-77-8139-01,Lung Squamous Cell Carcinoma,LUSC,104.0865306,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+344,344,TCGA-77-8140,TCGA-77-8140-01,Lung Squamous Cell Carcinoma,LUSC,11.53959957,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+345,345,TCGA-77-8143,TCGA-77-8143-01,Lung Squamous Cell Carcinoma,LUSC,26.39971069,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+346,346,TCGA-77-8144,TCGA-77-8144-01,Lung Squamous Cell Carcinoma,LUSC,27.38600125,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+347,347,TCGA-77-8145,TCGA-77-8145-01,Lung Squamous Cell Carcinoma,LUSC,6.969786633,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+348,348,TCGA-77-8148,TCGA-77-8148-01,Lung Squamous Cell Carcinoma,LUSC,66.50886018,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+349,349,TCGA-77-8150,TCGA-77-8150-01,Lung Squamous Cell Carcinoma,LUSC,54.41036263,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+350,350,TCGA-77-8153,TCGA-77-8153-01,Lung Squamous Cell Carcinoma,LUSC,65.48969326,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+351,351,TCGA-77-8154,TCGA-77-8154-01,Lung Squamous Cell Carcinoma,LUSC,60.52536411,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+352,352,TCGA-77-8156,TCGA-77-8156-01,Lung Squamous Cell Carcinoma,LUSC,36.36124536,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+353,353,TCGA-77-A5FZ,TCGA-77-A5FZ-01,Lung Squamous Cell Carcinoma,LUSC,126.1794391,1:DECEASED,LUSC,Lung Papillary Squamous Cell Caricnoma
+354,354,TCGA-77-A5G1,TCGA-77-A5G1-01,Lung Squamous Cell Carcinoma,LUSC,132.3601933,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+355,355,TCGA-77-A5G3,TCGA-77-A5G3-01,Lung Squamous Cell Carcinoma,LUSC,150.2449288,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+356,356,TCGA-77-A5G6,TCGA-77-A5G6-01,Lung Squamous Cell Carcinoma,LUSC,22.29016668,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+357,357,TCGA-77-A5G7,TCGA-77-A5G7-01,Lung Squamous Cell Carcinoma,LUSC,5.917743367,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+358,358,TCGA-77-A5G8,TCGA-77-A5G8-01,Lung Squamous Cell Carcinoma,LUSC,61.93904724,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+359,359,TCGA-77-A5GB,TCGA-77-A5GB-01,Lung Squamous Cell Carcinoma,LUSC,30.80514186,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+360,360,TCGA-77-A5GF,TCGA-77-A5GF-01,Lung Squamous Cell Carcinoma,LUSC,27.61613571,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+361,361,TCGA-77-A5GH,TCGA-77-A5GH-01,Lung Squamous Cell Carcinoma,LUSC,38.85984811,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+362,362,TCGA-79-5596,TCGA-79-5596-01,Lung Squamous Cell Carcinoma,LUSC,,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+363,363,TCGA-85-6175,TCGA-85-6175-01,Lung Squamous Cell Carcinoma,LUSC,9.6656475,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+364,364,TCGA-85-6560,TCGA-85-6560-01,Lung Squamous Cell Carcinoma,LUSC,41.39132722,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+365,365,TCGA-85-6561,TCGA-85-6561-01,Lung Squamous Cell Carcinoma,LUSC,40.2406549,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+366,366,TCGA-85-6798,TCGA-85-6798-01,Lung Squamous Cell Carcinoma,LUSC,6.410888648,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+367,367,TCGA-85-7696,TCGA-85-7696-01,Lung Squamous Cell Carcinoma,LUSC,36.52562712,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+368,368,TCGA-85-7697,TCGA-85-7697-01,Lung Squamous Cell Carcinoma,LUSC,34.94756222,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+369,369,TCGA-85-7698,TCGA-85-7698-01,Lung Squamous Cell Carcinoma,LUSC,31.29828714,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+370,370,TCGA-85-7699,TCGA-85-7699-01,Lung Squamous Cell Carcinoma,LUSC,32.90922839,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+371,371,TCGA-85-7710,TCGA-85-7710-01,Lung Squamous Cell Carcinoma,LUSC,1.380806786,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+372,372,TCGA-85-7843,TCGA-85-7843-01,Lung Squamous Cell Carcinoma,LUSC,1.150672321,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+373,373,TCGA-85-7844,TCGA-85-7844-01,Lung Squamous Cell Carcinoma,LUSC,29.95035671,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+374,374,TCGA-85-7950,TCGA-85-7950-01,Lung Squamous Cell Carcinoma,LUSC,18.93677878,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+375,375,TCGA-85-8048,TCGA-85-8048-01,Lung Squamous Cell Carcinoma,LUSC,25.15040931,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+376,376,TCGA-85-8049,TCGA-85-8049-01,Lung Squamous Cell Carcinoma,LUSC,19.03540783,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+377,377,TCGA-85-8052,TCGA-85-8052-01,Lung Squamous Cell Carcinoma,LUSC,24.1312424,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+378,378,TCGA-85-8070,TCGA-85-8070-01,Lung Squamous Cell Carcinoma,LUSC,31.56129796,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+379,379,TCGA-85-8071,TCGA-85-8071-01,Lung Squamous Cell Carcinoma,LUSC,26.79422691,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+380,380,TCGA-85-8072,TCGA-85-8072-01,Lung Squamous Cell Carcinoma,LUSC,30.6407601,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+381,381,TCGA-85-8276,TCGA-85-8276-01,Lung Squamous Cell Carcinoma,LUSC,34.52016964,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+382,382,TCGA-85-8277,TCGA-85-8277-01,Lung Squamous Cell Carcinoma,LUSC,10.09304008,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+383,383,TCGA-85-8287,TCGA-85-8287-01,Lung Squamous Cell Carcinoma,LUSC,0.756156097,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+384,384,TCGA-85-8288,TCGA-85-8288-01,Lung Squamous Cell Carcinoma,LUSC,13.21629352,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+385,385,TCGA-85-8350,TCGA-85-8350-01,Lung Squamous Cell Carcinoma,LUSC,22.45454844,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+386,386,TCGA-85-8351,TCGA-85-8351-01,Lung Squamous Cell Carcinoma,LUSC,16.76693954,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+387,387,TCGA-85-8352,TCGA-85-8352-01,Lung Squamous Cell Carcinoma,LUSC,5.293092678,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+388,388,TCGA-85-8353,TCGA-85-8353-01,Lung Squamous Cell Carcinoma,LUSC,3.090377092,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+389,389,TCGA-85-8354,TCGA-85-8354-01,Lung Squamous Cell Carcinoma,LUSC,32.71197028,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+390,390,TCGA-85-8355,TCGA-85-8355-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+391,391,TCGA-85-8479,TCGA-85-8479-01,Lung Squamous Cell Carcinoma,LUSC,15.38613276,0:LIVING,LUSC,Lung Papillary Squamous Cell Caricnoma
+392,392,TCGA-85-8481,TCGA-85-8481-01,Lung Squamous Cell Carcinoma,LUSC,7.758819081,1:DECEASED,LUSC,Lung Papillary Squamous Cell Caricnoma
+393,393,TCGA-85-8580,TCGA-85-8580-01,Lung Squamous Cell Carcinoma,LUSC,36.59137982,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+394,394,TCGA-85-8582,TCGA-85-8582-01,Lung Squamous Cell Carcinoma,LUSC,38.13656837,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+395,395,TCGA-85-8584,TCGA-85-8584-01,Lung Squamous Cell Carcinoma,LUSC,12.59164283,1:DECEASED,LUSC,Lung Papillary Squamous Cell Caricnoma
+396,396,TCGA-85-8664,TCGA-85-8664-01,Lung Squamous Cell Carcinoma,LUSC,18.08199362,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+397,397,TCGA-85-8666,TCGA-85-8666-01,Lung Squamous Cell Carcinoma,LUSC,22.58605385,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+398,398,TCGA-85-A4CL,TCGA-85-A4CL-01,Lung Squamous Cell Carcinoma,LUSC,30.27912023,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+399,399,TCGA-85-A4CN,TCGA-85-A4CN-01,Lung Squamous Cell Carcinoma,LUSC,34.12565342,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+400,400,TCGA-85-A4JB,TCGA-85-A4JB-01,Lung Squamous Cell Carcinoma,LUSC,30.96952362,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+401,401,TCGA-85-A4JC,TCGA-85-A4JC-01,Lung Squamous Cell Carcinoma,LUSC,19.85731663,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+402,402,TCGA-85-A4PA,TCGA-85-A4PA-01,Lung Squamous Cell Carcinoma,LUSC,24.36137686,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+403,403,TCGA-85-A4QQ,TCGA-85-A4QQ-01,Lung Squamous Cell Carcinoma,LUSC,30.47637834,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+404,404,TCGA-85-A4QR,TCGA-85-A4QR-01,Lung Squamous Cell Carcinoma,LUSC,19.72581122,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+405,405,TCGA-85-A50M,TCGA-85-A50M-01,Lung Squamous Cell Carcinoma,LUSC,27.15586679,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+406,406,TCGA-85-A50Z,TCGA-85-A50Z-01,Lung Squamous Cell Carcinoma,LUSC,16.20804156,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+407,407,TCGA-85-A510,TCGA-85-A510-01,Lung Squamous Cell Carcinoma,LUSC,15.84640168,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+408,408,TCGA-85-A511,TCGA-85-A511-01,Lung Squamous Cell Carcinoma,LUSC,14.95874018,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+409,409,TCGA-85-A512,TCGA-85-A512-01,Lung Squamous Cell Carcinoma,LUSC,15.2875037,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+410,410,TCGA-85-A513,TCGA-85-A513-01,Lung Squamous Cell Carcinoma,LUSC,29.91748036,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+411,411,TCGA-85-A53L,TCGA-85-A53L-01,Lung Squamous Cell Carcinoma,LUSC,12.39438472,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+412,412,TCGA-85-A5B5,TCGA-85-A5B5-01,Lung Squamous Cell Carcinoma,LUSC,3.649275076,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+413,413,TCGA-90-6837,TCGA-90-6837-01,Lung Squamous Cell Carcinoma,LUSC,24.92027485,0:LIVING,,Lung Squamous Cell Carcinoma (NOS)
+414,414,TCGA-90-7766,TCGA-90-7766-01,Lung Squamous Cell Carcinoma,LUSC,9.50126574,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+415,415,TCGA-90-7767,TCGA-90-7767-01,Lung Squamous Cell Carcinoma,LUSC,2.925995332,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+416,416,TCGA-90-7769,TCGA-90-7769-01,Lung Squamous Cell Carcinoma,LUSC,11.76973403,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+417,417,TCGA-90-7964,TCGA-90-7964-01,Lung Squamous Cell Carcinoma,LUSC,14.07107867,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+418,418,TCGA-90-A4ED,TCGA-90-A4ED-01,Lung Squamous Cell Carcinoma,LUSC,20.21895651,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+419,419,TCGA-90-A4EE,TCGA-90-A4EE-01,Lung Squamous Cell Carcinoma,LUSC,22.6189302,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+420,420,TCGA-90-A59Q,TCGA-90-A59Q-01,Lung Squamous Cell Carcinoma,LUSC,10.58618536,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+421,421,TCGA-92-7340,TCGA-92-7340-01,Lung Squamous Cell Carcinoma,LUSC,2.695860867,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+422,422,TCGA-92-7341,TCGA-92-7341-01,Lung Squamous Cell Carcinoma,LUSC,3.484893316,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+423,423,TCGA-92-8063,TCGA-92-8063-01,Lung Squamous Cell Carcinoma,LUSC,4.010914949,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+424,424,TCGA-92-8064,TCGA-92-8064-01,Lung Squamous Cell Carcinoma,LUSC,5.260216326,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+425,425,TCGA-92-8065,TCGA-92-8065-01,Lung Squamous Cell Carcinoma,LUSC,2.301344643,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+426,426,TCGA-94-7033,TCGA-94-7033-01,Lung Squamous Cell Carcinoma,LUSC,21.04086531,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+427,427,TCGA-94-7557,TCGA-94-7557-01,Lung Squamous Cell Carcinoma,LUSC,0.16438176,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+428,428,TCGA-94-7943,TCGA-94-7943-01,Lung Squamous Cell Carcinoma,LUSC,18.37788079,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+429,429,TCGA-94-8035,TCGA-94-8035-01,Lung Squamous Cell Carcinoma,LUSC,4.010914949,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+430,430,TCGA-94-8490,TCGA-94-8490-01,Lung Squamous Cell Carcinoma,LUSC,5.030081862,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+431,431,TCGA-94-8491,TCGA-94-8491-01,Lung Squamous Cell Carcinoma,LUSC,26.62984515,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+432,432,TCGA-94-A4VJ,TCGA-94-A4VJ-01,Lung Squamous Cell Carcinoma,LUSC,14.13683138,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+433,433,TCGA-94-A5I4,TCGA-94-A5I4-01,Lung Squamous Cell Carcinoma,LUSC,16.14228885,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+434,434,TCGA-94-A5I6,TCGA-94-A5I6-01,Lung Squamous Cell Carcinoma,LUSC,17.6874774,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+435,435,TCGA-96-7544,TCGA-96-7544-01,Lung Squamous Cell Carcinoma,LUSC,71.01292041,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+436,436,TCGA-96-7545,TCGA-96-7545-01,Lung Squamous Cell Carcinoma,LUSC,57.07334714,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+437,437,TCGA-96-8169,TCGA-96-8169-01,Lung Squamous Cell Carcinoma,LUSC,18.31212809,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+438,438,TCGA-96-8170,TCGA-96-8170-01,Lung Squamous Cell Carcinoma,LUSC,17.45734293,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+439,439,TCGA-96-A4JL,TCGA-96-A4JL-01,Lung Squamous Cell Carcinoma,LUSC,27.68188842,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+440,440,TCGA-98-7454,TCGA-98-7454-01,Lung Squamous Cell Carcinoma,LUSC,21.43538153,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+441,441,TCGA-98-8020,TCGA-98-8020-01,Lung Squamous Cell Carcinoma,LUSC,2.761613571,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+442,442,TCGA-98-8021,TCGA-98-8021-01,Lung Squamous Cell Carcinoma,LUSC,30.80514186,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+443,443,TCGA-98-8022,TCGA-98-8022-01,Lung Squamous Cell Carcinoma,LUSC,30.67363645,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+444,444,TCGA-98-8023,TCGA-98-8023-01,Lung Squamous Cell Carcinoma,LUSC,21.33675247,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+445,445,TCGA-98-A538,TCGA-98-A538-01,Lung Squamous Cell Carcinoma,LUSC,27.15586679,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+446,446,TCGA-98-A539,TCGA-98-A539-01,Lung Squamous Cell Carcinoma,LUSC,5.687608903,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+447,447,TCGA-98-A53A,TCGA-98-A53A-01,Lung Squamous Cell Carcinoma,LUSC,18.14774633,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+448,448,TCGA-98-A53B,TCGA-98-A53B-01,Lung Squamous Cell Carcinoma,LUSC,2.005457474,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+449,449,TCGA-98-A53C,TCGA-98-A53C-01,Lung Squamous Cell Carcinoma,LUSC,27.02436138,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+450,450,TCGA-98-A53D,TCGA-98-A53D-01,Lung Squamous Cell Carcinoma,LUSC,21.20524707,1:DECEASED,,Lung Squamous Cell Carcinoma (NOS)
+451,451,TCGA-98-A53H,TCGA-98-A53H-01,Lung Squamous Cell Carcinoma,LUSC,20.31758556,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+452,452,TCGA-98-A53I,TCGA-98-A53I-01,Lung Squamous Cell Carcinoma,LUSC,18.5751389,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+453,453,TCGA-98-A53J,TCGA-98-A53J-01,Lung Squamous Cell Carcinoma,LUSC,20.71210179,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+454,454,TCGA-J1-A4AH,TCGA-J1-A4AH-01,Lung Squamous Cell Carcinoma,LUSC,19.10116054,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+455,455,TCGA-L3-A4E7,TCGA-L3-A4E7-01,Lung Squamous Cell Carcinoma,LUSC,12.88753,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+456,456,TCGA-L3-A524,TCGA-L3-A524-01,Lung Squamous Cell Carcinoma,LUSC,16.1094125,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+457,457,TCGA-LA-A446,TCGA-LA-A446-01,Lung Squamous Cell Carcinoma,LUSC,13.18341717,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+458,458,TCGA-LA-A7SW,TCGA-LA-A7SW-01,Lung Squamous Cell Carcinoma,LUSC,13.41355163,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+459,459,TCGA-MF-A522,TCGA-MF-A522-01,Lung Squamous Cell Carcinoma,LUSC,11.83548673,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+460,460,TCGA-NC-A5HD,TCGA-NC-A5HD-01,Lung Squamous Cell Carcinoma,LUSC,0.065752704,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+461,461,TCGA-NC-A5HE,TCGA-NC-A5HE-01,Lung Squamous Cell Carcinoma,LUSC,76.79915837,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+462,462,TCGA-NC-A5HF,TCGA-NC-A5HF-01,Lung Squamous Cell Carcinoma,LUSC,4.536936582,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+463,463,TCGA-NC-A5HG,TCGA-NC-A5HG-01,Lung Squamous Cell Carcinoma,LUSC,64.53627905,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+464,464,TCGA-NC-A5HH,TCGA-NC-A5HH-01,Lung Squamous Cell Carcinoma,LUSC,1.216425026,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+465,465,TCGA-NC-A5HI,TCGA-NC-A5HI-01,Lung Squamous Cell Carcinoma,LUSC,57.30348161,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+466,466,TCGA-NC-A5HJ,TCGA-NC-A5HJ-01,Lung Squamous Cell Carcinoma,LUSC,13.74231515,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+467,467,TCGA-NC-A5HK,TCGA-NC-A5HK-01,Lung Squamous Cell Carcinoma,LUSC,4.208173061,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+468,468,TCGA-NC-A5HL,TCGA-NC-A5HL-01,Lung Squamous Cell Carcinoma,LUSC,2.89311898,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+469,469,TCGA-NC-A5HM,TCGA-NC-A5HM-01,Lung Squamous Cell Carcinoma,LUSC,39.84613867,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+470,470,TCGA-NC-A5HN,TCGA-NC-A5HN-01,Lung Squamous Cell Carcinoma,LUSC,49.28165171,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+471,471,TCGA-NC-A5HO,TCGA-NC-A5HO-01,Lung Squamous Cell Carcinoma,LUSC,43.92280633,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+472,472,TCGA-NC-A5HP,TCGA-NC-A5HP-01,Lung Squamous Cell Carcinoma,LUSC,25.31479107,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+473,473,TCGA-NC-A5HQ,TCGA-NC-A5HQ-01,Lung Squamous Cell Carcinoma,LUSC,14.72860571,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+474,474,TCGA-NC-A5HR,TCGA-NC-A5HR-01,Lung Squamous Cell Carcinoma,LUSC,40.89818194,0:LIVING,LUSC,Lung Basaloid Squamous Cell Carcinoma
+475,475,TCGA-NC-A5HT,TCGA-NC-A5HT-01,Lung Squamous Cell Carcinoma,LUSC,26.43258704,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+476,476,TCGA-NK-A5CR,TCGA-NK-A5CR-01,Lung Squamous Cell Carcinoma,LUSC,83.57168689,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+477,477,TCGA-NK-A5CT,TCGA-NK-A5CT-01,Lung Squamous Cell Carcinoma,LUSC,65.65407502,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+478,478,TCGA-NK-A5CX,TCGA-NK-A5CX-01,Lung Squamous Cell Carcinoma,LUSC,3.649275076,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+479,479,TCGA-NK-A7XE,TCGA-NK-A7XE-01,Lung Squamous Cell Carcinoma,LUSC,0.427392577,0:LIVING,LUSC,Lung Squamous Cell Carcinoma (NOS)
+480,480,TCGA-O2-A52N,TCGA-O2-A52N-01,Lung Squamous Cell Carcinoma,LUSC,33.07361015,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+481,481,TCGA-O2-A52Q,TCGA-O2-A52Q-01,Lung Squamous Cell Carcinoma,LUSC,3.715027781,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+482,482,TCGA-O2-A52S,TCGA-O2-A52S-01,Lung Squamous Cell Carcinoma,LUSC,12.72314824,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+483,483,TCGA-O2-A52V,TCGA-O2-A52V-01,Lung Squamous Cell Carcinoma,LUSC,43.88992997,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+484,484,TCGA-O2-A52W,TCGA-O2-A52W-01,Lung Squamous Cell Carcinoma,LUSC,8.580727882,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+485,485,TCGA-O2-A5IB,TCGA-O2-A5IB-01,Lung Squamous Cell Carcinoma,LUSC,11.17795969,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+486,486,TCGA-XC-AA0X,TCGA-XC-AA0X-01,Lung Squamous Cell Carcinoma,LUSC,0.197258112,1:DECEASED,LUSC,Lung Squamous Cell Carcinoma (NOS)
+0,0,TCGA-05-4244,TCGA-05-4244-01,Lung Adenocarcinoma,LUAD,0.0,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+1,1,TCGA-05-4249,TCGA-05-4249-01,Lung Adenocarcinoma,LUAD,50.07068416,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+2,2,TCGA-05-4250,TCGA-05-4250-01,Lung Adenocarcinoma,LUAD,3.978038597,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+3,3,TCGA-05-4382,TCGA-05-4382-01,Lung Adenocarcinoma,LUAD,19.95594569,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+4,4,TCGA-05-4384,TCGA-05-4384-01,Lung Adenocarcinoma,LUAD,14.00532597,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+5,5,TCGA-05-4389,TCGA-05-4389-01,Lung Adenocarcinoma,LUAD,45.00772594,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+6,6,TCGA-05-4390,TCGA-05-4390-01,Lung Adenocarcinoma,LUAD,37.0187724,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+7,7,TCGA-05-4395,TCGA-05-4395-01,Lung Adenocarcinoma,LUAD,0.0,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+8,8,TCGA-05-4396,TCGA-05-4396-01,Lung Adenocarcinoma,LUAD,9.961534668,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+9,9,TCGA-05-4397,TCGA-05-4397-01,Lung Adenocarcinoma,LUAD,24.03261334,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+10,10,TCGA-05-4398,TCGA-05-4398-01,Lung Adenocarcinoma,LUAD,47.04605977,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+11,11,TCGA-05-4402,TCGA-05-4402-01,Lung Adenocarcinoma,LUAD,8.021829898,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+12,12,TCGA-05-4403,TCGA-05-4403-01,Lung Adenocarcinoma,LUAD,19.00253148,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+13,13,TCGA-05-4405,TCGA-05-4405-01,Lung Adenocarcinoma,LUAD,20.05457474,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+14,14,TCGA-05-4410,TCGA-05-4410-01,Lung Adenocarcinoma,LUAD,0.0,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+15,15,TCGA-05-4415,TCGA-05-4415-01,Lung Adenocarcinoma,LUAD,2.991748036,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+16,16,TCGA-05-4417,TCGA-05-4417-01,Lung Adenocarcinoma,LUAD,14.95874018,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+17,17,TCGA-05-4418,TCGA-05-4418-01,Lung Adenocarcinoma,LUAD,9.008120459,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+18,18,TCGA-05-4420,TCGA-05-4420-01,Lung Adenocarcinoma,LUAD,29.98323306,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+19,19,TCGA-05-4422,TCGA-05-4422-01,Lung Adenocarcinoma,LUAD,11.9998685,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+20,20,TCGA-05-4424,TCGA-05-4424-01,Lung Adenocarcinoma,LUAD,30.01610941,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+21,21,TCGA-05-4425,TCGA-05-4425-01,Lung Adenocarcinoma,LUAD,21.99427952,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+22,22,TCGA-05-4426,TCGA-05-4426-01,Lung Adenocarcinoma,LUAD,26.00519446,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+23,23,TCGA-05-4427,TCGA-05-4427-01,Lung Adenocarcinoma,LUAD,26.00519446,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+24,24,TCGA-05-4430,TCGA-05-4430-01,Lung Adenocarcinoma,LUAD,25.0189039,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+25,25,TCGA-05-4432,TCGA-05-4432-01,Lung Adenocarcinoma,LUAD,25.0189039,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+26,26,TCGA-05-4433,TCGA-05-4433-01,Lung Adenocarcinoma,LUAD,23.99973699,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+27,27,TCGA-05-4434,TCGA-05-4434-01,Lung Adenocarcinoma,LUAD,15.02449288,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+28,28,TCGA-05-5423,TCGA-05-5423-01,Lung Adenocarcinoma,LUAD,4.964329158,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+29,29,TCGA-05-5425,TCGA-05-5425-01,Lung Adenocarcinoma,LUAD,28.9969425,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+30,30,TCGA-05-5428,TCGA-05-5428-01,Lung Adenocarcinoma,LUAD,22.02715587,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+31,31,TCGA-05-5429,TCGA-05-5429-01,Lung Adenocarcinoma,LUAD,9.040996811,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+32,32,TCGA-05-5715,TCGA-05-5715-01,Lung Adenocarcinoma,LUAD,2.038333827,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+33,33,TCGA-17-Z000,TCGA-17-Z000-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+34,34,TCGA-17-Z001,TCGA-17-Z001-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+35,35,TCGA-17-Z002,TCGA-17-Z002-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+36,36,TCGA-17-Z003,TCGA-17-Z003-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+37,37,TCGA-17-Z004,TCGA-17-Z004-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+38,38,TCGA-17-Z005,TCGA-17-Z005-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+39,39,TCGA-17-Z007,TCGA-17-Z007-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+40,40,TCGA-17-Z009,TCGA-17-Z009-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+41,41,TCGA-17-Z010,TCGA-17-Z010-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+42,42,TCGA-17-Z011,TCGA-17-Z011-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+43,43,TCGA-17-Z013,TCGA-17-Z013-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+44,44,TCGA-17-Z014,TCGA-17-Z014-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+45,45,TCGA-17-Z015,TCGA-17-Z015-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+46,46,TCGA-17-Z016,TCGA-17-Z016-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+47,47,TCGA-17-Z017,TCGA-17-Z017-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+48,48,TCGA-17-Z018,TCGA-17-Z018-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+49,49,TCGA-17-Z019,TCGA-17-Z019-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+50,50,TCGA-17-Z020,TCGA-17-Z020-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+51,51,TCGA-17-Z021,TCGA-17-Z021-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+52,52,TCGA-17-Z022,TCGA-17-Z022-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+53,53,TCGA-17-Z023,TCGA-17-Z023-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+54,54,TCGA-17-Z025,TCGA-17-Z025-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+55,55,TCGA-17-Z026,TCGA-17-Z026-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+56,56,TCGA-17-Z027,TCGA-17-Z027-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+57,57,TCGA-17-Z028,TCGA-17-Z028-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+58,58,TCGA-17-Z030,TCGA-17-Z030-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+59,59,TCGA-17-Z031,TCGA-17-Z031-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+60,60,TCGA-17-Z032,TCGA-17-Z032-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+61,61,TCGA-17-Z033,TCGA-17-Z033-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+62,62,TCGA-17-Z036,TCGA-17-Z036-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+63,63,TCGA-17-Z037,TCGA-17-Z037-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+64,64,TCGA-17-Z041,TCGA-17-Z041-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+65,65,TCGA-17-Z042,TCGA-17-Z042-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+66,66,TCGA-17-Z043,TCGA-17-Z043-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+67,67,TCGA-17-Z044,TCGA-17-Z044-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+68,68,TCGA-17-Z045,TCGA-17-Z045-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+69,69,TCGA-17-Z047,TCGA-17-Z047-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+70,70,TCGA-17-Z048,TCGA-17-Z048-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+71,71,TCGA-17-Z049,TCGA-17-Z049-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+72,72,TCGA-17-Z050,TCGA-17-Z050-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+73,73,TCGA-17-Z051,TCGA-17-Z051-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+74,74,TCGA-17-Z052,TCGA-17-Z052-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+75,75,TCGA-17-Z053,TCGA-17-Z053-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+76,76,TCGA-17-Z054,TCGA-17-Z054-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+77,77,TCGA-17-Z055,TCGA-17-Z055-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+78,78,TCGA-17-Z056,TCGA-17-Z056-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+79,79,TCGA-17-Z057,TCGA-17-Z057-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+80,80,TCGA-17-Z058,TCGA-17-Z058-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+81,81,TCGA-17-Z059,TCGA-17-Z059-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+82,82,TCGA-17-Z060,TCGA-17-Z060-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+83,83,TCGA-17-Z061,TCGA-17-Z061-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+84,84,TCGA-17-Z062,TCGA-17-Z062-01,Lung Adenocarcinoma,LUAD,,,,Lung Adenocarcinoma
+85,85,TCGA-35-3615,TCGA-35-3615-01,Lung Adenocarcinoma,LUAD,0.460268929,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+86,86,TCGA-35-4122,TCGA-35-4122-01,Lung Adenocarcinoma,LUAD,7.397179209,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+87,87,TCGA-35-4123,TCGA-35-4123-01,Lung Adenocarcinoma,LUAD,5.983496071,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+88,88,TCGA-35-5375,TCGA-35-5375-01,Lung Adenocarcinoma,LUAD,8.679356939,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+89,89,TCGA-38-4625,TCGA-38-4625-01,Lung Adenocarcinoma,LUAD,97.74139462,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+90,90,TCGA-38-4626,TCGA-38-4626-01,Lung Adenocarcinoma,LUAD,120.7877174,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+91,91,TCGA-38-4627,TCGA-38-4627-01,Lung Adenocarcinoma,LUAD,37.70917579,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+92,92,TCGA-38-4628,TCGA-38-4628-01,Lung Adenocarcinoma,LUAD,49.05151724,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+93,93,TCGA-38-4631,TCGA-38-4631-01,Lung Adenocarcinoma,LUAD,11.63822862,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+94,94,TCGA-38-4632,TCGA-38-4632-01,Lung Adenocarcinoma,LUAD,44.61320972,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+95,95,TCGA-38-6178,TCGA-38-6178-01,Lung Adenocarcinoma,LUAD,14.72860571,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+96,96,TCGA-38-7271,TCGA-38-7271-01,Lung Adenocarcinoma,LUAD,26.30108163,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+97,97,TCGA-38-A44F,TCGA-38-A44F-01,Lung Adenocarcinoma,LUAD,4.372554821,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+98,98,TCGA-44-2655,TCGA-44-2655-01,Lung Adenocarcinoma,LUAD,43.5282901,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+99,99,TCGA-44-2656,TCGA-44-2656-01,Lung Adenocarcinoma,LUAD,46.98030707,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+100,100,TCGA-44-2657,TCGA-44-2657-01,Lung Adenocarcinoma,LUAD,44.41595161,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+101,101,TCGA-44-2659,TCGA-44-2659-01,Lung Adenocarcinoma,LUAD,44.94197324,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+102,102,TCGA-44-2662,TCGA-44-2662-01,Lung Adenocarcinoma,LUAD,42.08173061,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+103,103,TCGA-44-2665,TCGA-44-2665-01,Lung Adenocarcinoma,LUAD,42.772134,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+104,104,TCGA-44-2666,TCGA-44-2666-01,Lung Adenocarcinoma,LUAD,3.189006148,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+105,105,TCGA-44-2668,TCGA-44-2668-01,Lung Adenocarcinoma,LUAD,25.0189039,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+106,106,TCGA-44-3396,TCGA-44-3396-01,Lung Adenocarcinoma,LUAD,37.15027781,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+107,107,TCGA-44-3398,TCGA-44-3398-01,Lung Adenocarcinoma,LUAD,38.23519742,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+108,108,TCGA-44-3917,TCGA-44-3917-01,Lung Adenocarcinoma,LUAD,38.89272446,0:LIVING,,Lung Adenocarcinoma (NOS)
+109,109,TCGA-44-3918,TCGA-44-3918-01,Lung Adenocarcinoma,LUAD,34.05990071,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+110,110,TCGA-44-3919,TCGA-44-3919-01,Lung Adenocarcinoma,LUAD,33.73113719,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+111,111,TCGA-44-4112,TCGA-44-4112-01,Lung Adenocarcinoma,LUAD,26.56409245,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+112,112,TCGA-44-5643,TCGA-44-5643-01,Lung Adenocarcinoma,LUAD,33.30374462,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+113,113,TCGA-44-5644,TCGA-44-5644-01,Lung Adenocarcinoma,LUAD,28.37229181,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+114,114,TCGA-44-5645,TCGA-44-5645-01,Lung Adenocarcinoma,LUAD,28.01065194,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+115,115,TCGA-44-6144,TCGA-44-6144-01,Lung Adenocarcinoma,LUAD,23.76960253,0:LIVING,,Lung Adenocarcinoma (NOS)
+116,116,TCGA-44-6145,TCGA-44-6145-01,Lung Adenocarcinoma,LUAD,19.56142946,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+117,117,TCGA-44-6146,TCGA-44-6146-01,Lung Adenocarcinoma,LUAD,23.93398429,0:LIVING,LUAD,Lung Mucinous Adenocarcinoma
+118,118,TCGA-44-6148,TCGA-44-6148-01,Lung Adenocarcinoma,LUAD,23.14495184,0:LIVING,LUAD,Lung Mucinous Adenocarcinoma
+119,119,TCGA-44-6774,TCGA-44-6774-01,Lung Adenocarcinoma,LUAD,21.63263964,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+120,120,TCGA-44-6775,TCGA-44-6775-01,Lung Adenocarcinoma,LUAD,23.17782819,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+121,121,TCGA-44-6776,TCGA-44-6776-01,Lung Adenocarcinoma,LUAD,86.00453694,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+122,122,TCGA-44-6777,TCGA-44-6777-01,Lung Adenocarcinoma,LUAD,32.44895946,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+123,123,TCGA-44-6778,TCGA-44-6778-01,Lung Adenocarcinoma,LUAD,61.2815202,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+124,124,TCGA-44-6779,TCGA-44-6779-01,Lung Adenocarcinoma,LUAD,16.43817602,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+125,125,TCGA-44-7659,TCGA-44-7659-01,Lung Adenocarcinoma,LUAD,22.71755926,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+126,126,TCGA-44-7660,TCGA-44-7660-01,Lung Adenocarcinoma,LUAD,19.46280041,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+127,127,TCGA-44-7661,TCGA-44-7661-01,Lung Adenocarcinoma,LUAD,18.31212809,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+128,128,TCGA-44-7662,TCGA-44-7662-01,Lung Adenocarcinoma,LUAD,7.167044745,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+129,129,TCGA-44-7667,TCGA-44-7667-01,Lung Adenocarcinoma,LUAD,36.06535819,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+130,130,TCGA-44-7669,TCGA-44-7669-01,Lung Adenocarcinoma,LUAD,18.87102607,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+131,131,TCGA-44-7670,TCGA-44-7670-01,Lung Adenocarcinoma,LUAD,28.9969425,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+132,132,TCGA-44-7671,TCGA-44-7671-01,Lung Adenocarcinoma,LUAD,29.22707696,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+133,133,TCGA-44-7672,TCGA-44-7672-01,Lung Adenocarcinoma,LUAD,23.63809712,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+134,134,TCGA-44-8117,TCGA-44-8117-01,Lung Adenocarcinoma,LUAD,12.65739554,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+135,135,TCGA-44-8119,TCGA-44-8119-01,Lung Adenocarcinoma,LUAD,9.369760331,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+136,136,TCGA-44-8120,TCGA-44-8120-01,Lung Adenocarcinoma,LUAD,8.54785153,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+137,137,TCGA-44-A479,TCGA-44-A479-01,Lung Adenocarcinoma,LUAD,15.97790709,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+138,138,TCGA-44-A47A,TCGA-44-A47A-01,Lung Adenocarcinoma,LUAD,15.32038005,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+139,139,TCGA-44-A47B,TCGA-44-A47B-01,Lung Adenocarcinoma,LUAD,9.435513036,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+140,140,TCGA-44-A47F,TCGA-44-A47F-01,Lung Adenocarcinoma,LUAD,11.07933064,0:LIVING,,Lung Adenocarcinoma (NOS)
+141,141,TCGA-44-A47G,TCGA-44-A47G-01,Lung Adenocarcinoma,LUAD,11.53959957,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+142,142,TCGA-44-A4SS,TCGA-44-A4SS-01,Lung Adenocarcinoma,LUAD,13.6436861,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+143,143,TCGA-44-A4SU,TCGA-44-A4SU-01,Lung Adenocarcinoma,LUAD,13.44642798,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+144,144,TCGA-49-4486,TCGA-49-4486-01,Lung Adenocarcinoma,LUAD,76.20738403,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+145,145,TCGA-49-4487,TCGA-49-4487-01,Lung Adenocarcinoma,LUAD,28.10928099,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+146,146,TCGA-49-4488,TCGA-49-4488-01,Lung Adenocarcinoma,LUAD,28.56954992,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+147,147,TCGA-49-4490,TCGA-49-4490-01,Lung Adenocarcinoma,LUAD,12.65739554,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+148,148,TCGA-49-4494,TCGA-49-4494-01,Lung Adenocarcinoma,LUAD,35.53933656,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+149,149,TCGA-49-4501,TCGA-49-4501-01,Lung Adenocarcinoma,LUAD,46.71729625,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+150,150,TCGA-49-4505,TCGA-49-4505-01,Lung Adenocarcinoma,LUAD,14.07107867,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+151,151,TCGA-49-4506,TCGA-49-4506-01,Lung Adenocarcinoma,LUAD,32.84347569,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+152,152,TCGA-49-4507,TCGA-49-4507-01,Lung Adenocarcinoma,LUAD,8.810862347,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+153,153,TCGA-49-4510,TCGA-49-4510-01,Lung Adenocarcinoma,LUAD,29.45721143,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+154,154,TCGA-49-4512,TCGA-49-4512-01,Lung Adenocarcinoma,LUAD,29.7530986,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+155,155,TCGA-49-4514,TCGA-49-4514-01,Lung Adenocarcinoma,LUAD,55.88979847,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+156,156,TCGA-49-6742,TCGA-49-6742-01,Lung Adenocarcinoma,LUAD,16.0436598,1:DECEASED,LUAD,Mucinous (Colloid) Carcinoma
+157,157,TCGA-49-6743,TCGA-49-6743-01,Lung Adenocarcinoma,LUAD,53.29256666,0:LIVING,LUAD,Lung Clear Cell Adenocarcinoma
+158,158,TCGA-49-6744,TCGA-49-6744-01,Lung Adenocarcinoma,LUAD,55.33090048,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+159,159,TCGA-49-6745,TCGA-49-6745-01,Lung Adenocarcinoma,LUAD,17.16145577,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+160,160,TCGA-49-6761,TCGA-49-6761-01,Lung Adenocarcinoma,LUAD,11.63822862,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+161,161,TCGA-49-6767,TCGA-49-6767-01,Lung Adenocarcinoma,LUAD,22.25729033,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+162,162,TCGA-49-AAQV,TCGA-49-AAQV-01,Lung Adenocarcinoma,LUAD,22.25729033,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+163,163,TCGA-49-AAR0,TCGA-49-AAR0-01,Lung Adenocarcinoma,LUAD,156.6558175,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+164,164,TCGA-49-AAR2,TCGA-49-AAR2-01,Lung Adenocarcinoma,LUAD,73.11700694,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+165,165,TCGA-49-AAR3,TCGA-49-AAR3-01,Lung Adenocarcinoma,LUAD,62.23493441,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+166,166,TCGA-49-AAR4,TCGA-49-AAR4-01,Lung Adenocarcinoma,LUAD,28.89831344,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+167,167,TCGA-49-AAR9,TCGA-49-AAR9-01,Lung Adenocarcinoma,LUAD,8.54785153,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+168,168,TCGA-49-AARE,TCGA-49-AARE-01,Lung Adenocarcinoma,LUAD,40.40503666,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+169,169,TCGA-49-AARN,TCGA-49-AARN-01,Lung Adenocarcinoma,LUAD,37.31465957,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+170,170,TCGA-49-AARO,TCGA-49-AARO-01,Lung Adenocarcinoma,LUAD,123.5822073,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+171,171,TCGA-49-AARQ,TCGA-49-AARQ-01,Lung Adenocarcinoma,LUAD,221.3236019,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+172,172,TCGA-49-AARR,TCGA-49-AARR-01,Lung Adenocarcinoma,LUAD,164.1187494,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+173,173,TCGA-4B-A93V,TCGA-4B-A93V-01,Lung Adenocarcinoma,LUAD,9.862905612,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+174,174,TCGA-50-5044,TCGA-50-5044-01,Lung Adenocarcinoma,LUAD,20.51484367,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+175,175,TCGA-50-5045,TCGA-50-5045-01,Lung Adenocarcinoma,LUAD,71.47318934,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+176,176,TCGA-50-5049,TCGA-50-5049-01,Lung Adenocarcinoma,LUAD,101.7194332,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+177,177,TCGA-50-5051,TCGA-50-5051-01,Lung Adenocarcinoma,LUAD,15.71489628,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+178,178,TCGA-50-5055,TCGA-50-5055-01,Lung Adenocarcinoma,LUAD,60.16372423,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+179,179,TCGA-50-5066,TCGA-50-5066-01,Lung Adenocarcinoma,LUAD,47.40769964,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+180,180,TCGA-50-5068,TCGA-50-5068-01,Lung Adenocarcinoma,LUAD,49.28165171,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+181,181,TCGA-50-5072,TCGA-50-5072-01,Lung Adenocarcinoma,LUAD,8.21908801,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+182,182,TCGA-50-5930,TCGA-50-5930-01,Lung Adenocarcinoma,LUAD,9.271131275,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+183,183,TCGA-50-5931,TCGA-50-5931-01,Lung Adenocarcinoma,LUAD,14.26833679,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+184,184,TCGA-50-5932,TCGA-50-5932-01,Lung Adenocarcinoma,LUAD,40.60229477,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+185,185,TCGA-50-5933,TCGA-50-5933-01,Lung Adenocarcinoma,LUAD,78.67311043,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+186,186,TCGA-50-5935,TCGA-50-5935-01,Lung Adenocarcinoma,LUAD,21.46825788,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+187,187,TCGA-50-5936,TCGA-50-5936-01,Lung Adenocarcinoma,LUAD,8.449222474,1:DECEASED,LUAD,Mucinous (Colloid) Carcinoma
+188,188,TCGA-50-5939,TCGA-50-5939-01,Lung Adenocarcinoma,LUAD,15.12312194,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+189,189,TCGA-50-5941,TCGA-50-5941-01,Lung Adenocarcinoma,LUAD,48.45974291,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+190,190,TCGA-50-5942,TCGA-50-5942-01,Lung Adenocarcinoma,LUAD,60.72262222,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+191,191,TCGA-50-5944,TCGA-50-5944-01,Lung Adenocarcinoma,LUAD,57.53361607,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+192,192,TCGA-50-5946,TCGA-50-5946-01,Lung Adenocarcinoma,LUAD,53.16106125,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+193,193,TCGA-50-6590,TCGA-50-6590-01,Lung Adenocarcinoma,LUAD,42.34474143,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+194,194,TCGA-50-6591,TCGA-50-6591-01,Lung Adenocarcinoma,LUAD,3.912285893,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+195,195,TCGA-50-6592,TCGA-50-6592-01,Lung Adenocarcinoma,LUAD,25.54492554,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+196,196,TCGA-50-6593,TCGA-50-6593-01,Lung Adenocarcinoma,LUAD,11.04645429,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+197,197,TCGA-50-6594,TCGA-50-6594-01,Lung Adenocarcinoma,LUAD,12.16425026,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+198,198,TCGA-50-6595,TCGA-50-6595-01,Lung Adenocarcinoma,LUAD,6.213630536,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+199,199,TCGA-50-6597,TCGA-50-6597-01,Lung Adenocarcinoma,LUAD,41.68721439,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+200,200,TCGA-50-6673,TCGA-50-6673-01,Lung Adenocarcinoma,LUAD,0.723279745,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+201,201,TCGA-50-7109,TCGA-50-7109-01,Lung Adenocarcinoma,LUAD,10.12591643,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+202,202,TCGA-50-8457,TCGA-50-8457-01,Lung Adenocarcinoma,LUAD,36.98589605,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+203,203,TCGA-50-8459,TCGA-50-8459-01,Lung Adenocarcinoma,LUAD,36.78863793,0:LIVING,LUAD,Mucinous (Colloid) Carcinoma
+204,204,TCGA-50-8460,TCGA-50-8460-01,Lung Adenocarcinoma,LUAD,27.25449584,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+205,205,TCGA-53-7624,TCGA-53-7624-01,Lung Adenocarcinoma,LUAD,34.29003518,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+206,206,TCGA-53-7626,TCGA-53-7626-01,Lung Adenocarcinoma,LUAD,30.54213105,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+207,207,TCGA-53-7813,TCGA-53-7813-01,Lung Adenocarcinoma,LUAD,13.93957327,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+208,208,TCGA-53-A4EZ,TCGA-53-A4EZ-01,Lung Adenocarcinoma,LUAD,35.21057304,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+209,209,TCGA-55-1592,TCGA-55-1592-01,Lung Adenocarcinoma,LUAD,23.04632278,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+210,210,TCGA-55-1594,TCGA-55-1594-01,Lung Adenocarcinoma,LUAD,38.7283427,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+211,211,TCGA-55-1595,TCGA-55-1595-01,Lung Adenocarcinoma,LUAD,48.62412467,0:LIVING,LUAD,Lung Clear Cell Adenocarcinoma
+212,212,TCGA-55-1596,TCGA-55-1596-01,Lung Adenocarcinoma,LUAD,67.88966696,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+213,213,TCGA-55-5899,TCGA-55-5899-01,Lung Adenocarcinoma,LUAD,30.5750074,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+214,214,TCGA-55-6543,TCGA-55-6543-01,Lung Adenocarcinoma,LUAD,14.30121314,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Mucinous"
+215,215,TCGA-55-6642,TCGA-55-6642-01,Lung Adenocarcinoma,LUAD,80.51418615,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+216,216,TCGA-55-6712,TCGA-55-6712-01,Lung Adenocarcinoma,LUAD,5.621856199,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+217,217,TCGA-55-6968,TCGA-55-6968-01,Lung Adenocarcinoma,LUAD,42.50912319,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+218,218,TCGA-55-6969,TCGA-55-6969-01,Lung Adenocarcinoma,LUAD,40.73380018,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+219,219,TCGA-55-6970,TCGA-55-6970-01,Lung Adenocarcinoma,LUAD,15.25462735,1:DECEASED,LUAD,Lung Papillary Adenocarcinoma
+220,220,TCGA-55-6971,TCGA-55-6971-01,Lung Adenocarcinoma,LUAD,46.02689286,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+221,221,TCGA-55-6972,TCGA-55-6972-01,Lung Adenocarcinoma,LUAD,53.65420653,1:DECEASED,LUAD,Lung Papillary Adenocarcinoma
+222,222,TCGA-55-6975,TCGA-55-6975-01,Lung Adenocarcinoma,LUAD,3.879409541,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+223,223,TCGA-55-6978,TCGA-55-6978-01,Lung Adenocarcinoma,LUAD,5.786237959,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+224,224,TCGA-55-6979,TCGA-55-6979-01,Lung Adenocarcinoma,LUAD,7.791695434,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+225,225,TCGA-55-6980,TCGA-55-6980-01,Lung Adenocarcinoma,LUAD,69.33622645,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+226,226,TCGA-55-6981,TCGA-55-6981-01,Lung Adenocarcinoma,LUAD,45.33648946,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+227,227,TCGA-55-6982,TCGA-55-6982-01,Lung Adenocarcinoma,LUAD,32.71197028,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+228,228,TCGA-55-6983,TCGA-55-6983-01,Lung Adenocarcinoma,LUAD,92.80994181,0:LIVING,LUAD,Mucinous (Colloid) Carcinoma
+229,229,TCGA-55-6984,TCGA-55-6984-01,Lung Adenocarcinoma,LUAD,24.98602755,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+230,230,TCGA-55-6985,TCGA-55-6985-01,Lung Adenocarcinoma,LUAD,40.53654207,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+231,231,TCGA-55-6986,TCGA-55-6986-01,Lung Adenocarcinoma,LUAD,107.209784,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+232,232,TCGA-55-6987,TCGA-55-6987-01,Lung Adenocarcinoma,LUAD,70.25676431,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+233,233,TCGA-55-7227,TCGA-55-7227-01,Lung Adenocarcinoma,LUAD,31.29828714,1:DECEASED,,Lung Adenocarcinoma (NOS)
+234,234,TCGA-55-7281,TCGA-55-7281-01,Lung Adenocarcinoma,LUAD,28.66817898,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+235,235,TCGA-55-7283,TCGA-55-7283-01,Lung Adenocarcinoma,LUAD,20.02169839,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+236,236,TCGA-55-7284,TCGA-55-7284-01,Lung Adenocarcinoma,LUAD,7.988953546,1:DECEASED,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+237,237,TCGA-55-7570,TCGA-55-7570-01,Lung Adenocarcinoma,LUAD,27.09011408,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+238,238,TCGA-55-7573,TCGA-55-7573-01,Lung Adenocarcinoma,LUAD,16.01078344,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+239,239,TCGA-55-7574,TCGA-55-7574-01,Lung Adenocarcinoma,LUAD,32.71197028,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+240,240,TCGA-55-7576,TCGA-55-7576-01,Lung Adenocarcinoma,LUAD,22.02715587,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+241,241,TCGA-55-7724,TCGA-55-7724-01,Lung Adenocarcinoma,LUAD,23.17782819,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+242,242,TCGA-55-7725,TCGA-55-7725-01,Lung Adenocarcinoma,LUAD,14.5313476,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+243,243,TCGA-55-7726,TCGA-55-7726-01,Lung Adenocarcinoma,LUAD,21.43538153,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+244,244,TCGA-55-7727,TCGA-55-7727-01,Lung Adenocarcinoma,LUAD,3.912285893,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+245,245,TCGA-55-7728,TCGA-55-7728-01,Lung Adenocarcinoma,LUAD,23.14495184,0:LIVING,LUAD,Mucinous (Colloid) Carcinoma
+246,246,TCGA-55-7815,TCGA-55-7815-01,Lung Adenocarcinoma,LUAD,25.41342013,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+247,247,TCGA-55-7816,TCGA-55-7816-01,Lung Adenocarcinoma,LUAD,15.38613276,1:DECEASED,,Lung Adenocarcinoma (NOS)
+248,248,TCGA-55-7903,TCGA-55-7903-01,Lung Adenocarcinoma,LUAD,18.64089161,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+249,249,TCGA-55-7907,TCGA-55-7907-01,Lung Adenocarcinoma,LUAD,11.27658875,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+250,250,TCGA-55-7910,TCGA-55-7910-01,Lung Adenocarcinoma,LUAD,34.19140612,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+251,251,TCGA-55-7911,TCGA-55-7911-01,Lung Adenocarcinoma,LUAD,17.65460105,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+252,252,TCGA-55-7913,TCGA-55-7913-01,Lung Adenocarcinoma,LUAD,18.44363349,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+253,253,TCGA-55-7914,TCGA-55-7914-01,Lung Adenocarcinoma,LUAD,6.147877832,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+254,254,TCGA-55-7994,TCGA-55-7994-01,Lung Adenocarcinoma,LUAD,19.82444028,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+255,255,TCGA-55-7995,TCGA-55-7995-01,Lung Adenocarcinoma,LUAD,29.22707696,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+256,256,TCGA-55-8085,TCGA-55-8085-01,Lung Adenocarcinoma,LUAD,29.72022224,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+257,257,TCGA-55-8087,TCGA-55-8087-01,Lung Adenocarcinoma,LUAD,15.18887464,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+258,258,TCGA-55-8089,TCGA-55-8089-01,Lung Adenocarcinoma,LUAD,23.07919913,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+259,259,TCGA-55-8090,TCGA-55-8090-01,Lung Adenocarcinoma,LUAD,19.66005852,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+260,260,TCGA-55-8091,TCGA-55-8091-01,Lung Adenocarcinoma,LUAD,19.72581122,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+261,261,TCGA-55-8092,TCGA-55-8092-01,Lung Adenocarcinoma,LUAD,5.062958214,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+262,262,TCGA-55-8094,TCGA-55-8094-01,Lung Adenocarcinoma,LUAD,17.78610645,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+263,263,TCGA-55-8096,TCGA-55-8096-01,Lung Adenocarcinoma,LUAD,23.63809712,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+264,264,TCGA-55-8097,TCGA-55-8097-01,Lung Adenocarcinoma,LUAD,15.64914357,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+265,265,TCGA-55-8203,TCGA-55-8203-01,Lung Adenocarcinoma,LUAD,17.98336457,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+266,266,TCGA-55-8204,TCGA-55-8204-01,Lung Adenocarcinoma,LUAD,16.9313213,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+267,267,TCGA-55-8205,TCGA-55-8205-01,Lung Adenocarcinoma,LUAD,19.69293487,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+268,268,TCGA-55-8206,TCGA-55-8206-01,Lung Adenocarcinoma,LUAD,29.19420061,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+269,269,TCGA-55-8207,TCGA-55-8207-01,Lung Adenocarcinoma,LUAD,32.12019594,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+270,270,TCGA-55-8208,TCGA-55-8208-01,Lung Adenocarcinoma,LUAD,22.15866128,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+271,271,TCGA-55-8299,TCGA-55-8299-01,Lung Adenocarcinoma,LUAD,15.41900911,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+272,272,TCGA-55-8301,TCGA-55-8301-01,Lung Adenocarcinoma,LUAD,17.55597199,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+273,273,TCGA-55-8302,TCGA-55-8302-01,Lung Adenocarcinoma,LUAD,15.71489628,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+274,274,TCGA-55-8505,TCGA-55-8505-01,Lung Adenocarcinoma,LUAD,14.4655949,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+275,275,TCGA-55-8506,TCGA-55-8506-01,Lung Adenocarcinoma,LUAD,0.361639872,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+276,276,TCGA-55-8507,TCGA-55-8507-01,Lung Adenocarcinoma,LUAD,13.74231515,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+277,277,TCGA-55-8508,TCGA-55-8508-01,Lung Adenocarcinoma,LUAD,20.28470921,0:LIVING,LUAD,Mucinous (Colloid) Carcinoma
+278,278,TCGA-55-8510,TCGA-55-8510-01,Lung Adenocarcinoma,LUAD,17.72035375,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+279,279,TCGA-55-8511,TCGA-55-8511-01,Lung Adenocarcinoma,LUAD,18.14774633,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+280,280,TCGA-55-8512,TCGA-55-8512-01,Lung Adenocarcinoma,LUAD,19.95594569,1:DECEASED,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+281,281,TCGA-55-8513,TCGA-55-8513-01,Lung Adenocarcinoma,LUAD,26.00519446,0:LIVING,LUAD,Mucinous (Colloid) Carcinoma
+282,282,TCGA-55-8514,TCGA-55-8514-01,Lung Adenocarcinoma,LUAD,17.09570306,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+283,283,TCGA-55-8614,TCGA-55-8614-01,Lung Adenocarcinoma,LUAD,17.62172469,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+284,284,TCGA-55-8615,TCGA-55-8615-01,Lung Adenocarcinoma,LUAD,14.66285301,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+285,285,TCGA-55-8616,TCGA-55-8616-01,Lung Adenocarcinoma,LUAD,1.578064898,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+286,286,TCGA-55-8619,TCGA-55-8619-01,Lung Adenocarcinoma,LUAD,13.67656245,0:LIVING,LUAD,Mucinous (Colloid) Carcinoma
+287,287,TCGA-55-8620,TCGA-55-8620-01,Lung Adenocarcinoma,LUAD,12.32863202,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+288,288,TCGA-55-8621,TCGA-55-8621-01,Lung Adenocarcinoma,LUAD,16.9313213,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+289,289,TCGA-55-A48X,TCGA-55-A48X-01,Lung Adenocarcinoma,LUAD,22.65180656,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+290,290,TCGA-55-A48Y,TCGA-55-A48Y-01,Lung Adenocarcinoma,LUAD,20.71210179,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+291,291,TCGA-55-A48Z,TCGA-55-A48Z-01,Lung Adenocarcinoma,LUAD,21.40250518,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+292,292,TCGA-55-A490,TCGA-55-A490-01,Lung Adenocarcinoma,LUAD,3.254758852,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+293,293,TCGA-55-A491,TCGA-55-A491-01,Lung Adenocarcinoma,LUAD,20.58059638,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+294,294,TCGA-55-A492,TCGA-55-A492-01,Lung Adenocarcinoma,LUAD,19.59430582,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+295,295,TCGA-55-A493,TCGA-55-A493-01,Lung Adenocarcinoma,LUAD,0.920537857,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+296,296,TCGA-55-A494,TCGA-55-A494-01,Lung Adenocarcinoma,LUAD,15.81352533,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+297,297,TCGA-55-A4DF,TCGA-55-A4DF-01,Lung Adenocarcinoma,LUAD,20.18608015,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+298,298,TCGA-55-A4DG,TCGA-55-A4DG-01,Lung Adenocarcinoma,LUAD,19.98882204,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+299,299,TCGA-55-A57B,TCGA-55-A57B-01,Lung Adenocarcinoma,LUAD,17.95048821,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+300,300,TCGA-62-8394,TCGA-62-8394-01,Lung Adenocarcinoma,LUAD,4.569812934,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+301,301,TCGA-62-8395,TCGA-62-8395-01,Lung Adenocarcinoma,LUAD,39.97764408,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+302,302,TCGA-62-8397,TCGA-62-8397-01,Lung Adenocarcinoma,LUAD,42.37761778,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+303,303,TCGA-62-8398,TCGA-62-8398-01,Lung Adenocarcinoma,LUAD,14.59710031,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+304,304,TCGA-62-8399,TCGA-62-8399-01,Lung Adenocarcinoma,LUAD,88.6346451,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+305,305,TCGA-62-8402,TCGA-62-8402-01,Lung Adenocarcinoma,LUAD,49.24877536,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+306,306,TCGA-62-A46O,TCGA-62-A46O-01,Lung Adenocarcinoma,LUAD,47.80221587,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+307,307,TCGA-62-A46P,TCGA-62-A46P-01,Lung Adenocarcinoma,LUAD,19.52855311,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+308,308,TCGA-62-A46R,TCGA-62-A46R-01,Lung Adenocarcinoma,LUAD,56.71170727,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+309,309,TCGA-62-A46S,TCGA-62-A46S-01,Lung Adenocarcinoma,LUAD,54.34460992,1:DECEASED,LUAD,Lung Papillary Adenocarcinoma
+310,310,TCGA-62-A46U,TCGA-62-A46U-01,Lung Adenocarcinoma,LUAD,67.95541967,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+311,311,TCGA-62-A46V,TCGA-62-A46V-01,Lung Adenocarcinoma,LUAD,72.29509814,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+312,312,TCGA-62-A46Y,TCGA-62-A46Y-01,Lung Adenocarcinoma,LUAD,13.61080975,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+313,313,TCGA-62-A470,TCGA-62-A470-01,Lung Adenocarcinoma,LUAD,39.25436434,1:DECEASED,LUAD,Lung Acinar Adenocarcinoma
+314,314,TCGA-62-A471,TCGA-62-A471-01,Lung Adenocarcinoma,LUAD,40.96393464,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+315,315,TCGA-62-A472,TCGA-62-A472-01,Lung Adenocarcinoma,LUAD,29.91748036,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+316,316,TCGA-64-1676,TCGA-64-1676-01,Lung Adenocarcinoma,LUAD,56.81033633,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+317,317,TCGA-64-1677,TCGA-64-1677-01,Lung Adenocarcinoma,LUAD,20.64634908,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+318,318,TCGA-64-1678,TCGA-64-1678-01,Lung Adenocarcinoma,LUAD,39.08998258,0:LIVING,,Lung Adenocarcinoma (NOS)
+319,319,TCGA-64-1679,TCGA-64-1679-01,Lung Adenocarcinoma,LUAD,81.79636388,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+320,320,TCGA-64-1680,TCGA-64-1680-01,Lung Adenocarcinoma,LUAD,37.0187724,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+321,321,TCGA-64-1681,TCGA-64-1681-01,Lung Adenocarcinoma,LUAD,38.36670283,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+322,322,TCGA-64-5774,TCGA-64-5774-01,Lung Adenocarcinoma,LUAD,87.97711806,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+323,323,TCGA-64-5775,TCGA-64-5775-01,Lung Adenocarcinoma,LUAD,2.038333827,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+324,324,TCGA-64-5778,TCGA-64-5778-01,Lung Adenocarcinoma,LUAD,42.90363941,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+325,325,TCGA-64-5779,TCGA-64-5779-01,Lung Adenocarcinoma,LUAD,28.40516816,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+326,326,TCGA-64-5781,TCGA-64-5781-01,Lung Adenocarcinoma,LUAD,51.25423283,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+327,327,TCGA-64-5815,TCGA-64-5815-01,Lung Adenocarcinoma,LUAD,28.47092087,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+328,328,TCGA-67-3770,TCGA-67-3770-01,Lung Adenocarcinoma,LUAD,20.05457474,0:LIVING,,Lung Adenocarcinoma (NOS)
+329,329,TCGA-67-3771,TCGA-67-3771-01,Lung Adenocarcinoma,LUAD,20.05457474,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+330,330,TCGA-67-3772,TCGA-67-3772-01,Lung Adenocarcinoma,LUAD,18.83814972,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+331,331,TCGA-67-3773,TCGA-67-3773-01,Lung Adenocarcinoma,LUAD,14.03820232,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+332,332,TCGA-67-3774,TCGA-67-3774-01,Lung Adenocarcinoma,LUAD,12.65739554,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+333,333,TCGA-67-4679,TCGA-67-4679-01,Lung Adenocarcinoma,LUAD,14.72860571,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+334,334,TCGA-67-6215,TCGA-67-6215-01,Lung Adenocarcinoma,LUAD,5.720485255,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+335,335,TCGA-67-6216,TCGA-67-6216-01,Lung Adenocarcinoma,LUAD,4.635565638,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+336,336,TCGA-67-6217,TCGA-67-6217-01,Lung Adenocarcinoma,LUAD,13.87382056,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+337,337,TCGA-69-7760,TCGA-69-7760-01,Lung Adenocarcinoma,LUAD,6.641023112,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+338,338,TCGA-69-7761,TCGA-69-7761-01,Lung Adenocarcinoma,LUAD,6.115001479,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+339,339,TCGA-69-7763,TCGA-69-7763-01,Lung Adenocarcinoma,LUAD,22.68468291,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+340,340,TCGA-69-7764,TCGA-69-7764-01,Lung Adenocarcinoma,LUAD,13.61080975,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+341,341,TCGA-69-7765,TCGA-69-7765-01,Lung Adenocarcinoma,LUAD,5.424598087,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+342,342,TCGA-69-7973,TCGA-69-7973-01,Lung Adenocarcinoma,LUAD,7.561560969,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+343,343,TCGA-69-7974,TCGA-69-7974-01,Lung Adenocarcinoma,LUAD,6.049248775,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+344,344,TCGA-69-7978,TCGA-69-7978-01,Lung Adenocarcinoma,LUAD,4.405431173,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+345,345,TCGA-69-7979,TCGA-69-7979-01,Lung Adenocarcinoma,LUAD,13.41355163,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+346,346,TCGA-69-7980,TCGA-69-7980-01,Lung Adenocarcinoma,LUAD,13.51218069,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+347,347,TCGA-69-8253,TCGA-69-8253-01,Lung Adenocarcinoma,LUAD,14.00532597,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+348,348,TCGA-69-8254,TCGA-69-8254-01,Lung Adenocarcinoma,LUAD,13.44642798,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+349,349,TCGA-69-8255,TCGA-69-8255-01,Lung Adenocarcinoma,LUAD,4.241049413,0:LIVING,LUAD,Lung Solid Pattern Predominant Adenocarcinoma
+350,350,TCGA-69-8453,TCGA-69-8453-01,Lung Adenocarcinoma,LUAD,26.72847421,0:LIVING,,Mucinous (Colloid) Carcinoma
+351,351,TCGA-69-A59K,TCGA-69-A59K-01,Lung Adenocarcinoma,LUAD,19.42992406,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+352,352,TCGA-71-6725,TCGA-71-6725-01,Lung Adenocarcinoma,LUAD,8.416346122,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+353,353,TCGA-71-8520,TCGA-71-8520-01,Lung Adenocarcinoma,LUAD,6.904033928,1:DECEASED,,Lung Adenocarcinoma (NOS)
+354,354,TCGA-73-4658,TCGA-73-4658-01,Lung Adenocarcinoma,LUAD,52.60216326,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+355,355,TCGA-73-4659,TCGA-73-4659-01,Lung Adenocarcinoma,LUAD,23.3750863,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+356,356,TCGA-73-4662,TCGA-73-4662-01,Lung Adenocarcinoma,LUAD,82.68402538,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+357,357,TCGA-73-4666,TCGA-73-4666-01,Lung Adenocarcinoma,LUAD,26.30108163,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+358,358,TCGA-73-4668,TCGA-73-4668-01,Lung Adenocarcinoma,LUAD,15.3532564,0:LIVING,LUAD,Lung Micropapillary Adenocarcinoma
+359,359,TCGA-73-4670,TCGA-73-4670-01,Lung Adenocarcinoma,LUAD,4.306802117,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+360,360,TCGA-73-4675,TCGA-73-4675-01,Lung Adenocarcinoma,LUAD,30.31199658,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+361,361,TCGA-73-4676,TCGA-73-4676-01,Lung Adenocarcinoma,LUAD,9.238254923,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+362,362,TCGA-73-4677,TCGA-73-4677-01,Lung Adenocarcinoma,LUAD,1.249301378,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+363,363,TCGA-73-7498,TCGA-73-7498-01,Lung Adenocarcinoma,LUAD,39.08998258,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+364,364,TCGA-73-7499,TCGA-73-7499-01,Lung Adenocarcinoma,LUAD,50.33369497,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+365,365,TCGA-73-A9RS,TCGA-73-A9RS-01,Lung Adenocarcinoma,LUAD,11.17795969,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+366,366,TCGA-75-5122,TCGA-75-5122-01,Lung Adenocarcinoma,LUAD,,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+367,367,TCGA-75-5125,TCGA-75-5125-01,Lung Adenocarcinoma,LUAD,66.64036559,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+368,368,TCGA-75-5126,TCGA-75-5126-01,Lung Adenocarcinoma,LUAD,,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+369,369,TCGA-75-5146,TCGA-75-5146-01,Lung Adenocarcinoma,LUAD,77.85120163,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+370,370,TCGA-75-5147,TCGA-75-5147-01,Lung Adenocarcinoma,LUAD,43.82417727,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+371,371,TCGA-75-6203,TCGA-75-6203-01,Lung Adenocarcinoma,LUAD,,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+372,372,TCGA-75-6205,TCGA-75-6205-01,Lung Adenocarcinoma,LUAD,,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+373,373,TCGA-75-6206,TCGA-75-6206-01,Lung Adenocarcinoma,LUAD,85.14975178,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+374,374,TCGA-75-6207,TCGA-75-6207-01,Lung Adenocarcinoma,LUAD,,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+375,375,TCGA-75-6211,TCGA-75-6211-01,Lung Adenocarcinoma,LUAD,,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+376,376,TCGA-75-6212,TCGA-75-6212-01,Lung Adenocarcinoma,LUAD,49.84054969,1:DECEASED,LUAD,Lung Micropapillary Adenocarcinoma
+377,377,TCGA-75-6214,TCGA-75-6214-01,Lung Adenocarcinoma,LUAD,36.65713253,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+378,378,TCGA-75-7025,TCGA-75-7025-01,Lung Adenocarcinoma,LUAD,108.6563435,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+379,379,TCGA-75-7027,TCGA-75-7027-01,Lung Adenocarcinoma,LUAD,100.5687609,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+380,380,TCGA-75-7030,TCGA-75-7030-01,Lung Adenocarcinoma,LUAD,,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+381,381,TCGA-75-7031,TCGA-75-7031-01,Lung Adenocarcinoma,LUAD,,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+382,382,TCGA-78-7143,TCGA-78-7143-01,Lung Adenocarcinoma,LUAD,163.0995825,1:DECEASED,,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+383,383,TCGA-78-7145,TCGA-78-7145-01,Lung Adenocarcinoma,LUAD,27.15586679,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+384,384,TCGA-78-7146,TCGA-78-7146-01,Lung Adenocarcinoma,LUAD,5.687608903,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+385,385,TCGA-78-7147,TCGA-78-7147-01,Lung Adenocarcinoma,LUAD,19.2655423,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+386,386,TCGA-78-7148,TCGA-78-7148-01,Lung Adenocarcinoma,LUAD,20.58059638,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+387,387,TCGA-78-7149,TCGA-78-7149-01,Lung Adenocarcinoma,LUAD,129.532827,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+388,388,TCGA-78-7150,TCGA-78-7150-01,Lung Adenocarcinoma,LUAD,21.89565046,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+389,389,TCGA-78-7152,TCGA-78-7152-01,Lung Adenocarcinoma,LUAD,39.94476773,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+390,390,TCGA-78-7153,TCGA-78-7153-01,Lung Adenocarcinoma,LUAD,119.5055397,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+391,391,TCGA-78-7154,TCGA-78-7154-01,Lung Adenocarcinoma,LUAD,19.49567676,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+392,392,TCGA-78-7155,TCGA-78-7155-01,Lung Adenocarcinoma,LUAD,38.49820824,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+393,393,TCGA-78-7156,TCGA-78-7156-01,Lung Adenocarcinoma,LUAD,32.08731959,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+394,394,TCGA-78-7158,TCGA-78-7158-01,Lung Adenocarcinoma,LUAD,5.884867015,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+395,395,TCGA-78-7159,TCGA-78-7159-01,Lung Adenocarcinoma,LUAD,64.89791893,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+396,396,TCGA-78-7160,TCGA-78-7160-01,Lung Adenocarcinoma,LUAD,22.91481737,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+397,397,TCGA-78-7161,TCGA-78-7161-01,Lung Adenocarcinoma,LUAD,9.567018444,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+398,398,TCGA-78-7162,TCGA-78-7162-01,Lung Adenocarcinoma,LUAD,104.1851596,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+399,399,TCGA-78-7163,TCGA-78-7163-01,Lung Adenocarcinoma,LUAD,238.2877996,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+400,400,TCGA-78-7166,TCGA-78-7166-01,Lung Adenocarcinoma,LUAD,8.482098826,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+401,401,TCGA-78-7167,TCGA-78-7167-01,Lung Adenocarcinoma,LUAD,88.14149982,1:DECEASED,LUAD,Lung Papillary Adenocarcinoma
+402,402,TCGA-78-7220,TCGA-78-7220-01,Lung Adenocarcinoma,LUAD,26.5312161,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+403,403,TCGA-78-7535,TCGA-78-7535-01,Lung Adenocarcinoma,LUAD,31.19965809,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+404,404,TCGA-78-7536,TCGA-78-7536-01,Lung Adenocarcinoma,LUAD,8.021829898,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+405,405,TCGA-78-7537,TCGA-78-7537-01,Lung Adenocarcinoma,LUAD,53.32544301,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+406,406,TCGA-78-7539,TCGA-78-7539-01,Lung Adenocarcinoma,LUAD,26.00519446,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+407,407,TCGA-78-7540,TCGA-78-7540-01,Lung Adenocarcinoma,LUAD,39.35299339,1:DECEASED,LUAD,"Lung Bronchioloalveolar Carcinoma, Mucinous"
+408,408,TCGA-78-7542,TCGA-78-7542-01,Lung Adenocarcinoma,LUAD,10.55330901,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+409,409,TCGA-78-7633,TCGA-78-7633-01,Lung Adenocarcinoma,LUAD,50.23506592,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+410,410,TCGA-78-8640,TCGA-78-8640-01,Lung Adenocarcinoma,LUAD,232.1727981,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+411,411,TCGA-78-8648,TCGA-78-8648-01,Lung Adenocarcinoma,LUAD,39.74750962,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+412,412,TCGA-78-8655,TCGA-78-8655-01,Lung Adenocarcinoma,LUAD,77.58819081,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+413,413,TCGA-78-8660,TCGA-78-8660-01,Lung Adenocarcinoma,LUAD,10.55330901,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+414,414,TCGA-78-8662,TCGA-78-8662-01,Lung Adenocarcinoma,LUAD,110.4974192,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+415,415,TCGA-80-5607,TCGA-80-5607-01,Lung Adenocarcinoma,LUAD,,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+416,416,TCGA-80-5608,TCGA-80-5608-01,Lung Adenocarcinoma,LUAD,93.10582898,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+417,417,TCGA-80-5611,TCGA-80-5611-01,Lung Adenocarcinoma,LUAD,85.31413354,0:LIVING,LUAD,Lung Solid Pattern Predominant Adenocarcinoma
+418,418,TCGA-83-5908,TCGA-83-5908-01,Lung Adenocarcinoma,LUAD,27.09011408,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+419,419,TCGA-86-6562,TCGA-86-6562-01,Lung Adenocarcinoma,LUAD,12.36150837,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+420,420,TCGA-86-6851,TCGA-86-6851-01,Lung Adenocarcinoma,LUAD,5.884867015,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+421,421,TCGA-86-7701,TCGA-86-7701-01,Lung Adenocarcinoma,LUAD,31.13390538,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+422,422,TCGA-86-7711,TCGA-86-7711-01,Lung Adenocarcinoma,LUAD,34.38866423,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+423,423,TCGA-86-7713,TCGA-86-7713-01,Lung Adenocarcinoma,LUAD,38.03793931,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+424,424,TCGA-86-7714,TCGA-86-7714-01,Lung Adenocarcinoma,LUAD,20.54772003,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+425,425,TCGA-86-7953,TCGA-86-7953-01,Lung Adenocarcinoma,LUAD,32.77772298,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+426,426,TCGA-86-7954,TCGA-86-7954-01,Lung Adenocarcinoma,LUAD,19.89019298,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+427,427,TCGA-86-7955,TCGA-86-7955-01,Lung Adenocarcinoma,LUAD,35.24344939,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+428,428,TCGA-86-8054,TCGA-86-8054-01,Lung Adenocarcinoma,LUAD,37.74205214,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+429,429,TCGA-86-8055,TCGA-86-8055-01,Lung Adenocarcinoma,LUAD,4.076667653,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+430,430,TCGA-86-8056,TCGA-86-8056-01,Lung Adenocarcinoma,LUAD,4.569812934,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+431,431,TCGA-86-8073,TCGA-86-8073-01,Lung Adenocarcinoma,LUAD,24.32850051,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+432,432,TCGA-86-8074,TCGA-86-8074-01,Lung Adenocarcinoma,LUAD,0.789032449,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+433,433,TCGA-86-8075,TCGA-86-8075-01,Lung Adenocarcinoma,LUAD,22.81618832,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+434,434,TCGA-86-8076,TCGA-86-8076-01,Lung Adenocarcinoma,LUAD,32.64621758,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+435,435,TCGA-86-8278,TCGA-86-8278-01,Lung Adenocarcinoma,LUAD,31.03527633,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+436,436,TCGA-86-8279,TCGA-86-8279-01,Lung Adenocarcinoma,LUAD,31.19965809,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+437,437,TCGA-86-8280,TCGA-86-8280-01,Lung Adenocarcinoma,LUAD,23.04632278,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+438,438,TCGA-86-8281,TCGA-86-8281-01,Lung Adenocarcinoma,LUAD,0.0,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+439,439,TCGA-86-8358,TCGA-86-8358-01,Lung Adenocarcinoma,LUAD,21.46825788,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+440,440,TCGA-86-8359,TCGA-86-8359-01,Lung Adenocarcinoma,LUAD,14.59710031,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+441,441,TCGA-86-8585,TCGA-86-8585-01,Lung Adenocarcinoma,LUAD,11.60535227,0:LIVING,LUAD,Lung Solid Pattern Predominant Adenocarcinoma
+442,442,TCGA-86-8668,TCGA-86-8668-01,Lung Adenocarcinoma,LUAD,13.90669691,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Mucinous"
+443,443,TCGA-86-8669,TCGA-86-8669-01,Lung Adenocarcinoma,LUAD,30.83801821,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+444,444,TCGA-86-8671,TCGA-86-8671-01,Lung Adenocarcinoma,LUAD,27.58325936,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+445,445,TCGA-86-8672,TCGA-86-8672-01,Lung Adenocarcinoma,LUAD,0.624650689,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+446,446,TCGA-86-8673,TCGA-86-8673-01,Lung Adenocarcinoma,LUAD,28.33941546,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+447,447,TCGA-86-8674,TCGA-86-8674-01,Lung Adenocarcinoma,LUAD,26.49833974,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+448,448,TCGA-86-A456,TCGA-86-A456-01,Lung Adenocarcinoma,LUAD,29.45721143,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+449,449,TCGA-86-A4D0,TCGA-86-A4D0-01,Lung Adenocarcinoma,LUAD,3.813656837,1:DECEASED,,Lung Adenocarcinoma (NOS)
+450,450,TCGA-86-A4JF,TCGA-86-A4JF-01,Lung Adenocarcinoma,LUAD,24.22987145,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+451,451,TCGA-86-A4P7,TCGA-86-A4P7-01,Lung Adenocarcinoma,LUAD,13.6436861,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+452,452,TCGA-86-A4P8,TCGA-86-A4P8-01,Lung Adenocarcinoma,LUAD,26.46546339,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+453,453,TCGA-91-6828,TCGA-91-6828-01,Lung Adenocarcinoma,LUAD,10.61906171,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+454,454,TCGA-91-6829,TCGA-91-6829-01,Lung Adenocarcinoma,LUAD,41.35845087,1:DECEASED,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+455,455,TCGA-91-6830,TCGA-91-6830-01,Lung Adenocarcinoma,LUAD,1.972581122,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+456,456,TCGA-91-6831,TCGA-91-6831-01,Lung Adenocarcinoma,LUAD,10.19166913,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+457,457,TCGA-91-6835,TCGA-91-6835-01,Lung Adenocarcinoma,LUAD,2.597231811,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+458,458,TCGA-91-6836,TCGA-91-6836-01,Lung Adenocarcinoma,LUAD,13.7094388,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+459,459,TCGA-91-6840,TCGA-91-6840-01,Lung Adenocarcinoma,LUAD,12.23000296,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+460,460,TCGA-91-6847,TCGA-91-6847-01,Lung Adenocarcinoma,LUAD,27.68188842,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+461,461,TCGA-91-6848,TCGA-91-6848-01,Lung Adenocarcinoma,LUAD,7.364302857,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+462,462,TCGA-91-6849,TCGA-91-6849-01,Lung Adenocarcinoma,LUAD,1.150672321,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+463,463,TCGA-91-7771,TCGA-91-7771-01,Lung Adenocarcinoma,LUAD,16.1751652,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+464,464,TCGA-91-8496,TCGA-91-8496-01,Lung Adenocarcinoma,LUAD,16.60255778,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+465,465,TCGA-91-8497,TCGA-91-8497-01,Lung Adenocarcinoma,LUAD,14.26833679,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+466,466,TCGA-91-8499,TCGA-91-8499-01,Lung Adenocarcinoma,LUAD,1.183548673,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+467,467,TCGA-91-A4BC,TCGA-91-A4BC-01,Lung Adenocarcinoma,LUAD,1.44655949,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+468,468,TCGA-91-A4BD,TCGA-91-A4BD-01,Lung Adenocarcinoma,LUAD,19.82444028,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+469,469,TCGA-93-7347,TCGA-93-7347-01,Lung Adenocarcinoma,LUAD,22.45454844,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+470,470,TCGA-93-7348,TCGA-93-7348-01,Lung Adenocarcinoma,LUAD,17.45734293,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+471,471,TCGA-93-8067,TCGA-93-8067-01,Lung Adenocarcinoma,LUAD,6.115001479,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+472,472,TCGA-93-A4JN,TCGA-93-A4JN-01,Lung Adenocarcinoma,LUAD,23.60522077,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+473,473,TCGA-93-A4JO,TCGA-93-A4JO-01,Lung Adenocarcinoma,LUAD,1.084919617,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+474,474,TCGA-93-A4JP,TCGA-93-A4JP-01,Lung Adenocarcinoma,LUAD,19.00253148,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+475,475,TCGA-93-A4JQ,TCGA-93-A4JQ-01,Lung Adenocarcinoma,LUAD,17.29296117,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+476,476,TCGA-95-7039,TCGA-95-7039-01,Lung Adenocarcinoma,LUAD,41.8187198,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+477,477,TCGA-95-7043,TCGA-95-7043-01,Lung Adenocarcinoma,LUAD,16.53680508,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+478,478,TCGA-95-7562,TCGA-95-7562-01,Lung Adenocarcinoma,LUAD,2.860242628,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+479,479,TCGA-95-7567,TCGA-95-7567-01,Lung Adenocarcinoma,LUAD,18.67376796,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+480,480,TCGA-95-7944,TCGA-95-7944-01,Lung Adenocarcinoma,LUAD,12.39438472,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+481,481,TCGA-95-7947,TCGA-95-7947-01,Lung Adenocarcinoma,LUAD,15.68201992,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+482,482,TCGA-95-7948,TCGA-95-7948-01,Lung Adenocarcinoma,LUAD,15.64914357,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+483,483,TCGA-95-8039,TCGA-95-8039-01,Lung Adenocarcinoma,LUAD,27.28737219,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+484,484,TCGA-95-8494,TCGA-95-8494-01,Lung Adenocarcinoma,LUAD,2.761613571,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+485,485,TCGA-95-A4VK,TCGA-95-A4VK-01,Lung Adenocarcinoma,LUAD,21.40250518,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+486,486,TCGA-95-A4VN,TCGA-95-A4VN-01,Lung Adenocarcinoma,LUAD,18.18062268,0:LIVING,LUAD,Lung Solid Pattern Predominant Adenocarcinoma
+487,487,TCGA-95-A4VP,TCGA-95-A4VP-01,Lung Adenocarcinoma,LUAD,19.89019298,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+488,488,TCGA-97-7546,TCGA-97-7546-01,Lung Adenocarcinoma,LUAD,42.24611237,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+489,489,TCGA-97-7547,TCGA-97-7547-01,Lung Adenocarcinoma,LUAD,64.60203176,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+490,490,TCGA-97-7552,TCGA-97-7552-01,Lung Adenocarcinoma,LUAD,63.51711214,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Mucinous"
+491,491,TCGA-97-7553,TCGA-97-7553-01,Lung Adenocarcinoma,LUAD,61.47877832,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+492,492,TCGA-97-7554,TCGA-97-7554-01,Lung Adenocarcinoma,LUAD,25.47917283,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+493,493,TCGA-97-7937,TCGA-97-7937-01,Lung Adenocarcinoma,LUAD,18.54226255,0:LIVING,LUAD,Lung Micropapillary Adenocarcinoma
+494,494,TCGA-97-7938,TCGA-97-7938-01,Lung Adenocarcinoma,LUAD,0.591774337,1:DECEASED,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+495,495,TCGA-97-7941,TCGA-97-7941-01,Lung Adenocarcinoma,LUAD,15.91215439,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+496,496,TCGA-97-8171,TCGA-97-8171-01,Lung Adenocarcinoma,LUAD,18.67376796,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+497,497,TCGA-97-8172,TCGA-97-8172-01,Lung Adenocarcinoma,LUAD,17.91761186,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+498,498,TCGA-97-8174,TCGA-97-8174-01,Lung Adenocarcinoma,LUAD,5.391721735,1:DECEASED,LUAD,Lung Papillary Adenocarcinoma
+499,499,TCGA-97-8175,TCGA-97-8175-01,Lung Adenocarcinoma,LUAD,18.11486997,0:LIVING,LUAD,Lung Solid Pattern Predominant Adenocarcinoma
+500,500,TCGA-97-8176,TCGA-97-8176-01,Lung Adenocarcinoma,LUAD,15.38613276,1:DECEASED,LUAD,Lung Acinar Adenocarcinoma
+501,501,TCGA-97-8177,TCGA-97-8177-01,Lung Adenocarcinoma,LUAD,16.40529967,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+502,502,TCGA-97-8179,TCGA-97-8179-01,Lung Adenocarcinoma,LUAD,14.30121314,0:LIVING,LUAD,Lung Acinar Adenocarcinoma
+503,503,TCGA-97-8547,TCGA-97-8547-01,Lung Adenocarcinoma,LUAD,21.59976329,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+504,504,TCGA-97-8552,TCGA-97-8552-01,Lung Adenocarcinoma,LUAD,20.58059638,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+505,505,TCGA-97-A4LX,TCGA-97-A4LX-01,Lung Adenocarcinoma,LUAD,20.18608015,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+506,506,TCGA-97-A4M0,TCGA-97-A4M0-01,Lung Adenocarcinoma,LUAD,21.43538153,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+507,507,TCGA-97-A4M1,TCGA-97-A4M1-01,Lung Adenocarcinoma,LUAD,19.75868758,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+508,508,TCGA-97-A4M2,TCGA-97-A4M2-01,Lung Adenocarcinoma,LUAD,20.51484367,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+509,509,TCGA-97-A4M3,TCGA-97-A4M3-01,Lung Adenocarcinoma,LUAD,17.7532301,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+510,510,TCGA-97-A4M5,TCGA-97-A4M5-01,Lung Adenocarcinoma,LUAD,20.84360719,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+511,511,TCGA-97-A4M6,TCGA-97-A4M6-01,Lung Adenocarcinoma,LUAD,18.67376796,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+512,512,TCGA-97-A4M7,TCGA-97-A4M7-01,Lung Adenocarcinoma,LUAD,20.67922543,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+513,513,TCGA-99-7458,TCGA-99-7458-01,Lung Adenocarcinoma,LUAD,24.55863497,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Non-Mucinous"
+514,514,TCGA-99-8025,TCGA-99-8025-01,Lung Adenocarcinoma,LUAD,34.84893316,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+515,515,TCGA-99-8028,TCGA-99-8028-01,Lung Adenocarcinoma,LUAD,36.75576158,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+516,516,TCGA-99-8032,TCGA-99-8032-01,Lung Adenocarcinoma,LUAD,1.44655949,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+517,517,TCGA-99-8033,TCGA-99-8033-01,Lung Adenocarcinoma,LUAD,21.56688694,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+518,518,TCGA-99-AA5R,TCGA-99-AA5R-01,Lung Adenocarcinoma,LUAD,21.63263964,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+519,519,TCGA-J2-8192,TCGA-J2-8192-01,Lung Adenocarcinoma,LUAD,24.29562416,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+520,520,TCGA-J2-8194,TCGA-J2-8194-01,Lung Adenocarcinoma,LUAD,23.80247888,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+521,521,TCGA-J2-A4AD,TCGA-J2-A4AD-01,Lung Adenocarcinoma,LUAD,18.08199362,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+522,522,TCGA-J2-A4AE,TCGA-J2-A4AE-01,Lung Adenocarcinoma,LUAD,35.47358385,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+523,523,TCGA-J2-A4AG,TCGA-J2-A4AG-01,Lung Adenocarcinoma,LUAD,32.48183582,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+524,524,TCGA-L4-A4E5,TCGA-L4-A4E5-01,Lung Adenocarcinoma,LUAD,19.00253148,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+525,525,TCGA-L4-A4E6,TCGA-L4-A4E6-01,Lung Adenocarcinoma,LUAD,14.30121314,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+526,526,TCGA-L9-A443,TCGA-L9-A443-01,Lung Adenocarcinoma,LUAD,6.345135944,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+527,527,TCGA-L9-A444,TCGA-L9-A444-01,Lung Adenocarcinoma,LUAD,10.09304008,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+528,528,TCGA-L9-A50W,TCGA-L9-A50W-01,Lung Adenocarcinoma,LUAD,14.5313476,1:DECEASED,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+529,529,TCGA-L9-A5IP,TCGA-L9-A5IP-01,Lung Adenocarcinoma,LUAD,1.906828418,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+530,530,TCGA-L9-A743,TCGA-L9-A743-01,Lung Adenocarcinoma,LUAD,21.82989776,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+531,531,TCGA-L9-A7SV,TCGA-L9-A7SV-01,Lung Adenocarcinoma,LUAD,18.5751389,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+532,532,TCGA-L9-A8F4,TCGA-L9-A8F4-01,Lung Adenocarcinoma,LUAD,15.64914357,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+533,533,TCGA-MN-A4N1,TCGA-MN-A4N1-01,Lung Adenocarcinoma,LUAD,27.18874314,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+534,534,TCGA-MN-A4N4,TCGA-MN-A4N4-01,Lung Adenocarcinoma,LUAD,38.62971365,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+535,535,TCGA-MN-A4N5,TCGA-MN-A4N5-01,Lung Adenocarcinoma,LUAD,2.761613571,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+536,536,TCGA-MP-A4SV,TCGA-MP-A4SV-01,Lung Adenocarcinoma,LUAD,86.13604235,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+537,537,TCGA-MP-A4SW,TCGA-MP-A4SW-01,Lung Adenocarcinoma,LUAD,58.45415393,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+538,538,TCGA-MP-A4SY,TCGA-MP-A4SY-01,Lung Adenocarcinoma,LUAD,49.34740441,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+539,539,TCGA-MP-A4T2,TCGA-MP-A4T2-01,Lung Adenocarcinoma,LUAD,37.34753592,1:DECEASED,,Lung Adenocarcinoma (NOS)
+540,540,TCGA-MP-A4T4,TCGA-MP-A4T4-01,Lung Adenocarcinoma,LUAD,86.03741329,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+541,541,TCGA-MP-A4T6,TCGA-MP-A4T6-01,Lung Adenocarcinoma,LUAD,58.84867015,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+542,542,TCGA-MP-A4T7,TCGA-MP-A4T7-01,Lung Adenocarcinoma,LUAD,5.490350791,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+543,543,TCGA-MP-A4T8,TCGA-MP-A4T8-01,Lung Adenocarcinoma,LUAD,5.293092678,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+544,544,TCGA-MP-A4T9,TCGA-MP-A4T9-01,Lung Adenocarcinoma,LUAD,41.58858533,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+545,545,TCGA-MP-A4TA,TCGA-MP-A4TA-01,Lung Adenocarcinoma,LUAD,31.23253444,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+546,546,TCGA-MP-A4TC,TCGA-MP-A4TC-01,Lung Adenocarcinoma,LUAD,2.432850051,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+547,547,TCGA-MP-A4TD,TCGA-MP-A4TD-01,Lung Adenocarcinoma,LUAD,10.09304008,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+548,548,TCGA-MP-A4TE,TCGA-MP-A4TE-01,Lung Adenocarcinoma,LUAD,29.45721143,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+549,549,TCGA-MP-A4TF,TCGA-MP-A4TF-01,Lung Adenocarcinoma,LUAD,11.04645429,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+550,550,TCGA-MP-A4TH,TCGA-MP-A4TH-01,Lung Adenocarcinoma,LUAD,24.36137686,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+551,551,TCGA-MP-A4TI,TCGA-MP-A4TI-01,Lung Adenocarcinoma,LUAD,14.10395503,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+552,552,TCGA-MP-A4TJ,TCGA-MP-A4TJ-01,Lung Adenocarcinoma,LUAD,11.14508334,1:DECEASED,LUAD,Lung Signet Ring Adenocarcinoma
+553,553,TCGA-MP-A4TK,TCGA-MP-A4TK-01,Lung Adenocarcinoma,LUAD,19.13403689,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+554,554,TCGA-MP-A5C7,TCGA-MP-A5C7-01,Lung Adenocarcinoma,LUAD,73.90603939,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+555,555,TCGA-NJ-A4YF,TCGA-NJ-A4YF-01,Lung Adenocarcinoma,LUAD,71.04579676,0:LIVING,LUAD,"Lung Adenocarcinoma, Mixed Subtype"
+556,556,TCGA-NJ-A4YG,TCGA-NJ-A4YG-01,Lung Adenocarcinoma,LUAD,74.33343196,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+557,557,TCGA-NJ-A4YI,TCGA-NJ-A4YI-01,Lung Adenocarcinoma,LUAD,0.131505408,1:DECEASED,LUAD,Lung Papillary Adenocarcinoma
+558,558,TCGA-NJ-A4YP,TCGA-NJ-A4YP-01,Lung Adenocarcinoma,LUAD,1.643817602,0:LIVING,LUAD,Lung Papillary Adenocarcinoma
+559,559,TCGA-NJ-A4YQ,TCGA-NJ-A4YQ-01,Lung Adenocarcinoma,LUAD,47.07893612,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+560,560,TCGA-NJ-A55A,TCGA-NJ-A55A-01,Lung Adenocarcinoma,LUAD,0.493145281,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+561,561,TCGA-NJ-A55O,TCGA-NJ-A55O-01,Lung Adenocarcinoma,LUAD,0.427392577,0:LIVING,LUAD,Mucinous (Colloid) Carcinoma
+562,562,TCGA-NJ-A55R,TCGA-NJ-A55R-01,Lung Adenocarcinoma,LUAD,19.82444028,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+563,563,TCGA-NJ-A7XG,TCGA-NJ-A7XG-01,Lung Adenocarcinoma,LUAD,20.28470921,0:LIVING,LUAD,Lung Adenocarcinoma (NOS)
+564,564,TCGA-O1-A52J,TCGA-O1-A52J-01,Lung Adenocarcinoma,LUAD,59.11168097,1:DECEASED,LUAD,Lung Adenocarcinoma (NOS)
+565,565,TCGA-S2-AA1A,TCGA-S2-AA1A-01,Lung Adenocarcinoma,LUAD,16.8655686,0:LIVING,LUAD,"Lung Bronchioloalveolar Carcinoma, Mucinous"
